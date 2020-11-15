@@ -1,5 +1,7 @@
 import pandas as pd
 import numpy as np
+import json
+import datetime
 
 import requests
 from requests import get
@@ -12,20 +14,27 @@ from random import randint
 # Creating the lists we want to write into
 titles = []
 years = []
+date_released = []
 time = []
 imdb_ratings = []
 metascores = []
 votes = []
 us_gross = []
+budget = []
 
 genre_list = []
 certificate_list = []
+
+link_list = []
+original_language = []
 
 
 # Getting English translated titles from the movies
 headers = {'Accept-Language': 'en-US, en;q=0.5'}
 
 pages = np.arange(1, 1001, 50)
+
+# pages = [1]
 
 # Storing each of the urls of 50 movies
 for page in pages:
@@ -53,6 +62,12 @@ for page in pages:
         runtime = container.find('span', class_='runtime').text if container.p.find('span', class_='runtime') else '-'
         time.append(runtime)
 
+        # Scraping the movies' link
+        temp_link_list = []
+        for link in container.find_all('a'):
+            temp_link_list.append(link.get('href'))
+        link_list.append(temp_link_list[0])
+
         # Scraping genre
         genre = container.find('span', class_='genre').text if container.p.find('span', class_='genre') else '-'
         genre_list.append(genre)
@@ -73,17 +88,34 @@ for page in pages:
         nv = container.find_all('span', attrs={'name':'nv'})
         vote = nv[0].text
         votes.append(vote)
-        grosses = nv[1].text if len(nv) > 1 else '-'
-        us_gross.append(grosses)
+        # grosses = nv[1].text if len(nv) > 1 else '-'
+        # us_gross.append(grosses)
 
-movies = pd.DataFrame({'movie':titles,
+link_list = [i.replace('/title/','') for i in link_list]
+link_list = [i.replace('/','') for i in link_list]
+
+for id in link_list:
+    print(id)
+    x = requests.get('https://api.themoviedb.org/3/movie/' + str(id) + '?api_key=1b2ecde3434e3ac104c5b73656277e9a&language=en-US')
+    jsonOutput = json.loads(x.text)
+    us_gross.append(int(jsonOutput['revenue']))
+    date_released.append(datetime.datetime.strptime((jsonOutput['release_date']), '%Y-%m-%d'))
+    budget.append(int(jsonOutput['budget']))
+    original_language.append(jsonOutput['original_language'])
+
+
+movies = pd.DataFrame({'id': link_list,
+                       'movie':titles,
                        'year':years,
+                       'date_released': date_released,
                        'time_minute':time,
+                       'budget': budget,
                        'imdb_rating':imdb_ratings,
                        'metascore':metascores,
                        'vote':votes,
                        'gross_earning':us_gross,
                        'genre': genre_list,
+                       'original_language': original_language,
                        'certificate': certificate_list})
 
 
@@ -98,6 +130,11 @@ movies['genre'] = movies['genre'].str.replace('\n', '')
 # Getting rid of extra spaces at the end
 movies['genre'] = movies['genre'].str.replace('            ', '')
 
+# Cleaning 'id' column
+# movies['id'] = movies['id'].str.replace('/title/','')
+# movies['id'] = movies['id'].str.replace('/','')
+
+
 # Cleaning 'metascore' column
 movies['metascore'] = movies['metascore'].str.extract('(\d+)')
 # convert it to float and if there are dashes turn it into NaN
@@ -106,10 +143,10 @@ movies['metascore'] = pd.to_numeric(movies['metascore'], errors='coerce')
 # Cleaning 'vote' column
 movies['vote'] = movies['vote'].str.replace(',', '').astype(int)
 
-# Cleaning 'gross_earning' column
-# left strip $ and right strip M
-movies['gross_earning'] = movies['gross_earning'].map(lambda x: x.lstrip('$').rstrip('M'))
-# convert it to float and if there are dashes turn it into NaN
-movies['gross_earning'] = pd.to_numeric(movies['gross_earning'], errors='coerce')
+# # Cleaning 'gross_earning' column
+# # left strip $ and right strip M
+# movies['gross_earning'] = movies['gross_earning'].map(lambda x: x.lstrip('$').rstrip('M'))
+# # convert it to float and if there are dashes turn it into NaN
+# movies['gross_earning'] = pd.to_numeric(movies['gross_earning'], errors='coerce')
 
-movies.to_csv('IMDB1000movies.csv')
+movies.to_csv('IMDb1000moviesTMDb.csv')
