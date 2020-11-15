@@ -91,6 +91,7 @@ for page in pages:
         # grosses = nv[1].text if len(nv) > 1 else '-'
         # us_gross.append(grosses)
 
+#Cleaning up ID from scraping the links
 link_list = [i.replace('/title/','') for i in link_list]
 link_list = [i.replace('/','') for i in link_list]
 
@@ -130,10 +131,6 @@ movies['genre'] = movies['genre'].str.replace('\n', '')
 # Getting rid of extra spaces at the end
 movies['genre'] = movies['genre'].str.replace('            ', '')
 
-# Cleaning 'id' column
-# movies['id'] = movies['id'].str.replace('/title/','')
-# movies['id'] = movies['id'].str.replace('/','')
-
 
 # Cleaning 'metascore' column
 movies['metascore'] = movies['metascore'].str.extract('(\d+)')
@@ -142,11 +139,5 @@ movies['metascore'] = pd.to_numeric(movies['metascore'], errors='coerce')
 
 # Cleaning 'vote' column
 movies['vote'] = movies['vote'].str.replace(',', '').astype(int)
-
-# # Cleaning 'gross_earning' column
-# # left strip $ and right strip M
-# movies['gross_earning'] = movies['gross_earning'].map(lambda x: x.lstrip('$').rstrip('M'))
-# # convert it to float and if there are dashes turn it into NaN
-# movies['gross_earning'] = pd.to_numeric(movies['gross_earning'], errors='coerce')
 
 movies.to_csv('IMDb1000moviesTMDb.csv')
