@@ -95,9 +95,10 @@ for page in pages:
 link_list = [i.replace('/title/','') for i in link_list]
 link_list = [i.replace('/','') for i in link_list]
 
+key = "1b2ecde3434e3ac104c5b73656277e9a"
 for id in link_list:
     print(id)
-    x = requests.get('https://api.themoviedb.org/3/movie/' + str(id) + '?api_key=1b2ecde3434e3ac104c5b73656277e9a&language=en-US')
+    x = requests.get('https://api.themoviedb.org/3/movie/' + str(id) + '?api_key=' + key + '&language=en-US')
     jsonOutput = json.loads(x.text)
     us_gross.append(int(jsonOutput['revenue']))
     date_released.append(datetime.datetime.strptime((jsonOutput['release_date']), '%Y-%m-%d'))
