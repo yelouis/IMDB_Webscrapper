@@ -39,7 +39,7 @@ pages = np.arange(1, 1001, 50)
 # Storing each of the urls of 50 movies
 for page in pages:
     # Getting the contents from the each url
-    page = requests.get('https://www.imdb.com/search/title/?groups=top_1000&sort=year,desc&start=' + str(page) + '&ref_=adv_nxt', headers=headers)
+    page = requests.get('https://www.imdb.com/search/title/?groups=bottom_1000&sort=year,desc&start=' + str(page) + '&ref_=adv_nxt', headers=headers)
     soup = BeautifulSoup(page.text, 'html.parser')
 
     # Aiming the part of the html we want to get the information from
@@ -141,4 +141,4 @@ movies['metascore'] = pd.to_numeric(movies['metascore'], errors='coerce')
 # Cleaning 'vote' column
 movies['vote'] = movies['vote'].str.replace(',', '').astype(int)
 
-movies.to_csv('IMDb1000moviesTMDb.csv')
+movies.to_csv('IMDb_bottom_1000moviesTMDb.csv')

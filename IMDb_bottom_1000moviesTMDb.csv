@@ -1,0 +1,1001 @@
+,id,movie,year,date_released,time_minute,budget,imdb_rating,metascore,vote,gross_earning,genre,original_language,certificate,Oscar,COVID
+0,tt9898858,Coffee & Kareem,2020,4/3/20,88,0,5.1,35,11080,0,"Action, Comedy",en,TV-MA,0,1
+1,tt9173418,Brahms: The Boy II,2020,2/20/20,86,10000000,4.6,29,10304,20311536,"Drama, Horror, Mystery",en,PG-13,0,1
+2,tt9086228,Gretel & Hansel,2020,1/30/20,87,0,5.3,64,20631,0,"Fantasy, Horror, Mystery",en,PG-13,0,1
+3,tt8784956,Ava,2020,7/2/20,96,0,5.3,39,16966,2987741,"Action, Crime, Drama",en,R,0,1
+4,tt8201852,You Should Have Left,2020,6/19/20,93,0,5.3,46,12601,0,"Drama, Horror, Mystery",en,R,0,1
+5,tt7456312,The Last Thing He Wanted,2020,2/14/20,115,0,4.3,35,11895,0,"Crime, Drama, Thriller",en,R,0,1
+6,tt7134096,The Rhythm Section,2020,1/31/20,109,50000000,5.3,45,10139,0,"Action, Drama, Mystery",en,R,0,1
+7,tt6199572,Capone,2020,7/10/20,103,20600000,4.7,46,13193,0,"Biography, Crime, Drama",en,R,0,1
+8,tt4682266,The New Mutants,2020,8/26/20,94,67000000,5.3,43,22110,45534613,"Action, Horror, Sci-Fi",en,PG-13,0,1
+9,tt4566758,Mulan,2020,9/4/20,115,200000000,5.4,66,68565,57000000,"Action, Adventure, Drama",en,PG-13,0,1
+10,tt3612126,The Grudge,2020,1/2/20,94,10000000,4.3,41,19038,42800000,"Horror, Mystery",en,R,0,0
+11,tt3089630,Artemis Fowl,2020,6/12/20,95,125000000,4.2,31,20464,0,"Adventure, Family, Fantasy",en,PG,0,1
+12,tt10886166,365 Days,2020,2/7/20,114,0,3.3,,42952,9458590,"Drama, Romance",pl,TV-MA,0,1
+13,tt10682266,Hubie Halloween,2020,10/7/20,102,14000000,5.2,53,34486,0,"Comedy, Fantasy, Mystery",en,PG-13,0,1
+14,tt10362466,After We Collided,2020,9/2/20,105,0,5.1,14,10160,0,"Drama, Romance",en,R,0,1
+15,tt10350922,Laxmii,2020,11/9/20,141,0,2.2,,37028,0,"Action, Comedy, Horror",hi,-,0,1
+16,tt10230426,Mrs. Serial Killer,2020,5/1/20,106,0,4.9,,11809,0,"Crime, Drama, Thriller",hi,TV-MA,0,1
+17,tt10183816,Dangerous Lies,2020,5/30/20,96,0,5.2,51,12966,0,"Drama, Mystery, Thriller",en,TV-14,0,1
+18,tt0983946,Fantasy Island,2020,2/12/20,109,7000000,4.9,22,31904,47078545,"Action, Adventure, Fantasy",en,PG-13,0,1
+19,tt0805647,The Witches,2020,10/26/20,106,0,5.4,47,13550,0,"Adventure, Comedy, Family",en,PG,0,1
+20,tt9419834,Secret Obsession,2019,7/18/19,97,0,4.3,,17539,0,"Drama, Mystery, Thriller",en,TV-14,0,0
+21,tt9252508,Tall Girl,2019,9/13/19,101,0,5.2,,16887,0,"Comedy, Drama, Family",en,TV-PG,0,0
+22,tt9134216,Playing with Fire,2019,11/8/19,96,29900000,5,24,10158,44400000,"Comedy, Family",en,PG,0,0
+23,tt8695030,The Dead Don't Die,2019,5/15/19,104,0,5.5,53,49474,12104595,"Comedy, Fantasy, Horror",en,R,0,0
+24,tt8179388,Rim of the World,2019,5/24/19,98,0,5.2,,18380,0,"Action, Adventure, Comedy",en,TV-14,0,0
+25,tt8169446,Wine Country,2019,5/8/19,103,0,5.4,56,18180,0,Comedy,en,R,0,0
+26,tt7825208,Marighella,2019,3/23/19,155,0,3.1,,42764,0,"Action, Drama, History",pt,-,0,0
+27,tt7721800,Bharat,2019,6/5/19,150,0,5.2,,19363,0,"Action, Comedy, Drama",hi,Not Rated,0,0
+28,tt7634968,What Men Want,2019,2/8/19,117,20000000,5.3,49,21381,69766483,"Comedy, Fantasy, Romance",en,R,0,0
+29,tt7329656,47 Meters Down: Uncaged,2019,8/15/19,90,12000000,5,43,19830,0,"Adventure, Drama, Horror",en,PG-13,0,0
+30,tt7315484,The Silence,2019,5/16/19,90,0,5.3,25,36372,2325977,"Drama, Horror, Sci-Fi",en,PG-13,0,0
+31,tt7255568,Student of the Year 2,2019,5/10/19,146,0,2.2,,15678,0,"Drama, Romance, Sport",hi,Not Rated,0,0
+32,tt6988116,Kalank,2019,4/17/19,166,0,3.5,,11611,0,"Drama, Romance",hi,Not Rated,0,0
+33,tt6836936,Saaho,2019,8/29/19,170,51000000,5.2,,15209,55000000,"Action, Thriller",te,Not Rated,0,0
+34,tt6772804,Escape Plan: The Extractors,2019,6/20/19,97,36,4.4,,10911,50,"Action, Crime, Thriller",en,R,0,0
+35,tt6476140,Serenity,2019,1/24/19,106,25000000,5.4,37,34439,14454622,"Drama, Mystery, Thriller",en,R,0,0
+36,tt5913798,Wounds,2019,1/26/19,95,0,4,51,15356,0,"Drama, Horror, Mystery",en,R,0,0
+37,tt5697572,Cats,2019,12/19/19,110,95000000,2.8,32,38873,73515024,"Comedy, Drama, Family",en,PG,0,0
+38,tt5598292,Polaroid,2019,1/10/19,88,0,5.1,,10606,0,"Drama, Horror, Mystery",en,PG-13,0,0
+39,tt5033998,Charlie's Angels,2019,11/14/19,118,48000000,4.8,52,53804,73279888,"Action, Adventure, Comedy",en,PG-13,0,0
+40,tt4913966,The Curse of la Llorona,2019,4/17/19,93,9000000,5.3,41,36614,122033739,"Comedy, Horror, Mystery",en,R,0,0
+41,tt4687108,In the Tall Grass,2019,9/20/19,101,0,5.4,46,45107,0,"Horror, Mystery, Thriller",en,TV-MA,0,0
+42,tt4126476,After,2019,4/11/19,105,14000000,5.3,30,34576,69497587,"Drama, Romance",en,PG-13,0,0
+43,tt3256226,IO,2019,1/18/19,96,0,4.7,40,30344,0,"Adventure, Drama, Sci-Fi",en,TV-14,0,0
+44,tt2274648,Hellboy,2019,4/10/19,120,50000000,5.2,31,76267,44664690,"Action, Adventure, Fantasy",en,R,0,0
+45,tt1298644,The Hustle,2019,5/9/19,93,0,5.4,35,45651,32677774,"Comedy, Crime",en,PG-13,0,0
+46,tt10039344,Countdown,2019,10/24/19,90,6500000,5.4,31,24411,48021766,"Horror, Thriller",en,PG-13,0,0
+47,tt7668842,Enes Batur,2018,1/19/18,110,0,4,,53833,0,Comedy,tr,-,0,0
+48,tt7608028,The Open House,2018,1/19/18,94,0,3.2,,30566,0,"Horror, Thriller",en,TV-MA,0,0
+49,tt7431594,Race 3,2018,6/15/18,160,0,1.9,,32870,0,"Action, Crime, Thriller",hi,Not Rated,0,0
+50,tt7137846,Breaking In,2018,5/5/18,88,6000000,5.4,42,13943,49078000,"Action, Thriller",en,PG-13,0,0
+51,tt6910020,Nothing to Lose,2018,3/29/18,134,0,5.5,,22858,0,"Biography, Drama",pt,PG,0,0
+52,tt6905696,Slaughterhouse Rulez,2018,10/31/18,104,0,5.3,39,10687,0,"Action, Comedy, Fantasy",en,R,0,0
+53,tt6821012,The Week Of,2018,4/27/18,116,0,5.2,41,18332,0,Comedy,en,TV-14,0,0
+54,tt6802308,The 15:17 to Paris,2018,2/2/18,94,30000000,5.3,45,28639,57076286,"Biography, Drama, Thriller",en,PG-13,0,0
+55,tt6791096,I Feel Pretty,2018,4/19/18,110,32000000,5.5,48,48081,94539426,"Comedy, Romance",en,PG-13,0,0
+56,tt6774786,Occupation,2018,7/12/18,119,6000000,5,45,11171,0,"Action, Drama, Sci-Fi",en,R,0,0
+57,tt6772950,Truth or Dare,2018,4/12/18,100,3500000,5.2,35,46763,95330493,"Horror, Thriller",en,PG-13,0,0
+58,tt6684714,Acts of Violence,2018,1/12/18,86,0,5.3,28,10520,0,"Action, Crime, Drama",en,R,0,0
+59,tt6527426,Zero,2018,12/21/18,164,26000000,5.4,,23174,0,"Comedy, Drama, Romance",hi,Not Rated,0,0
+60,tt6513656,Escape Plan 2: Hades,2018,6/5/18,96,0,3.8,,27612,0,"Action, Crime, Mystery",en,R,0,0
+61,tt6494418,Siberia,2018,7/13/18,104,2000000,4.3,34,12258,2006704,"Crime, Romance, Thriller",en,R,0,0
+62,tt6133466,The First Purge,2018,7/4/18,97,13000000,5.2,54,53809,137056262,"Action, Horror, Sci-Fi",en,R,0,0
+63,tt5970844,Thugs of Hindostan,2018,11/7/18,164,0,4,,17349,3136000,"Action, Adventure",hi,Not Rated,0,0
+64,tt5842616,Veere Di Wedding,2018,6/1/18,135,6800000,3.2,,11553,19700000,Comedy,hi,-,0,0
+65,tt5814060,The Nun,2018,9/5/18,96,22000000,5.3,46,115896,365550119,"Horror, Mystery, Thriller",en,R,0,0
+66,tt5734576,The Possession of Hannah Grace,2018,11/29/18,86,7700000,5.2,37,18352,41036181,"Horror, Mystery, Thriller",en,R,0,0
+67,tt5709188,A-X-L,2018,8/23/18,98,10000000,5.3,29,10201,0,"Action, Adventure, Family",en,PG,0,0
+68,tt5690360,Slender Man,2018,8/10/18,93,10000000,3.2,30,28082,11817275,"Horror, Mystery, Thriller",en,PG-13,0,0
+69,tt5360952,The Hurricane Heist,2018,2/28/18,103,35000000,5.1,35,18637,32517248,"Action, Adventure, Crime",en,PG-13,0,0
+70,tt5246700,How It Ends,2018,7/13/18,113,20000000,5,36,43790,0,"Action, Adventure, Drama",en,TV-MA,0,0
+71,tt4986098,The Titan,2018,3/30/18,97,0,4.8,33,27272,0,"Drama, Mystery, Romance",en,TV-MA,0,0
+72,tt4532826,Robin Hood,2018,11/21/18,116,100000000,5.3,32,62568,86493046,"Action, Adventure, Drama",en,PG-13,0,0
+73,tt4477536,Fifty Shades Freed,2018,1/17/18,105,55000000,4.5,31,54380,368307760,"Drama, Romance, Thriller",en,R,0,0
+74,tt4463816,Terminal,2018,5/10/18,95,0,5.4,27,18823,0,"Crime, Drama, Thriller",en,Not Rated,0,0
+75,tt4154916,Replicas,2018,10/25/18,107,30000000,5.5,19,30859,8100000,"Drama, Sci-Fi, Thriller",en,PG-13,0,0
+76,tt3829266,The Predator,2018,9/5/18,107,88000000,5.3,48,114545,160542134,"Action, Adventure, Sci-Fi",en,R,0,0
+77,tt3685236,Ibiza,2018,5/25/18,94,0,5.2,56,15347,0,"Comedy, Romance",en,TV-MA,0,0
+78,tt3317234,"Game Over, Man!",2018,3/23/18,101,0,5.4,32,25673,0,"Action, Comedy",en,TV-MA,0,0
+79,tt2548396,The Cloverfield Paradox,2018,2/4/18,102,45000000,5.5,37,93913,0,"Action, Adventure, Horror",en,PG-13,0,0
+80,tt2386237,Malevolent,2018,12/13/18,89,0,4.8,,10351,0,"Horror, Mystery, Thriller",en,TV-MA,0,0
+81,tt2372251,Down a Dark Hall,2018,8/1/18,96,0,5.1,56,10956,0,"Drama, Fantasy, Horror",en,PG-13,0,0
+82,tt2296777,Sherlock Gnomes,2018,3/15/18,86,59000000,5.2,36,10046,87625666,"Animation, Adventure, Comedy",en,PG,0,0
+83,tt1801552,Gotti,2018,6/14/18,112,10000000,4.8,24,13460,4343227,"Biography, Crime, Drama",en,R,0,0
+84,tt1620680,A Wrinkle in Time,2018,3/8/18,109,103000000,4.2,53,40448,132675864,"Adventure, Family, Fantasy",en,PG,0,0
+85,tt1464763,Mute,2018,2/23/18,126,0,5.4,35,30187,0,"Mystery, Sci-Fi, Thriller",en,TV-MA,0,0
+86,tt1308728,The Happytime Murders,2018,8/22/18,91,40000000,5.4,27,23620,27506452,"Action, Comedy, Crime",en,R,0,0
+87,tt1285009,The Strangers: Prey at Night,2018,3/7/18,85,12500000,5.2,48,26615,31039126,Horror,en,R,0,0
+88,tt1255919,Holmes & Watson,2018,12/25/18,90,42000000,3.8,24,29717,40462793,"Comedy, Crime, Mystery",en,PG-13,0,0
+89,tt1072748,Winchester,2018,2/2/18,99,3500000,5.4,28,29968,25091816,"Biography, Drama, Fantasy",en,PG-13,0,0
+90,tt0360556,Fahrenheit 451,2018,5/12/18,100,0,4.9,,17147,0,"Drama, Sci-Fi, Thriller",en,TV-14,0,0
+91,tt7312940,Singularity,2017,11/24/17,92,0,3.8,,12858,0,"Action, Adventure, Drama",en,PG-13,0,0
+92,tt6439558,Recep Ivedik 5,2017,2/16/17,114,0,3.3,,14292,28952258,Comedy,tr,-,0,0
+93,tt6048930,Naked,2017,8/11/17,96,0,5.4,36,16974,0,"Comedy, Fantasy, Romance",en,TV-14,0,0
+94,tt5997666,When Harry Met Sejal,2017,8/4/17,143,16600000,5.3,,18412,0,"Comedy, Drama, Romance",hi,Not Rated,0,0
+95,tt5893332,Sandy Wexler,2017,4/14/17,130,0,5.2,40,14489,0,Comedy,en,TV-14,0,0
+96,tt5884234,First Kill,2017,7/21/17,97,10000000,5,39,10048,0,"Action, Thriller",en,R,0,0
+97,tt5882970,Tubelight,2017,6/22/17,136,0,3.9,,14106,0,"Drama, War",hi,Not Rated,0,0
+98,tt5689068,Killing Gunther,2017,9/22/17,92,0,4.8,53,11574,0,"Action, Comedy, Thriller",en,R,0,0
+99,tt5607028,Fullmetal Alchemist,2017,12/1/17,135,10000000,5.2,48,18509,0,"Action, Adventure, Fantasy",ja,TV-14,0,0
+100,tt5539054,You Get Me,2017,6/19/17,89,0,4.6,,11308,0,"Crime, Drama, Romance",en,TV-MA,0,0
+101,tt5322012,Wish Upon,2017,7/7/17,90,12000000,5,32,18105,14301505,"Drama, Fantasy, Horror",en,PG-13,0,0
+102,tt4877122,The Emoji Movie,2017,7/23/17,86,50000000,3.3,12,54998,216909830,"Animation, Adventure, Comedy",en,PG,0,0
+103,tt4799050,Rough Night,2017,6/15/17,101,20000000,5.2,51,46243,45056771,"Comedy, Crime, Thriller",en,R,0,0
+104,tt4694544,Once Upon a Time in Venice,2017,6/8/17,94,0,5.3,28,17133,855888,"Action, Comedy",en,Not Rated,0,0
+105,tt4600952,Guardians,2017,2/14/17,89,5400000,3.9,,11562,4803565,"Action, Adventure, Comedy",ru,Not Rated,0,0
+106,tt4565520,The Layover,2017,9/1/17,88,0,4.8,15,12902,0,"Comedy, Romance",en,R,0,0
+107,tt4465564,Fifty Shades Darker,2017,2/8/17,118,55000000,4.6,33,90526,378827494,"Drama, Romance",en,R,0,0
+108,tt4287320,The Circle,2017,4/27/17,110,18000000,5.3,43,83029,20497844,"Drama, Sci-Fi, Thriller",en,PG-13,0,0
+109,tt4030600,The Bye Bye Man,2017,1/12/17,96,7400000,4.2,37,21520,26667197,"Drama, Fantasy, Horror",en,PG-13,0,0
+110,tt3462710,Unforgettable,2017,3/6/17,100,12000000,5.1,45,13765,17768012,"Drama, Thriller",en,R,0,0
+111,tt3371366,Transformers: The Last Knight,2017,6/16/17,154,217000000,5.2,27,133571,605425157,"Action, Adventure, Sci-Fi",en,PG-13,0,0
+112,tt3322892,XX,2017,2/17/17,80,0,4.5,64,11052,30911,Horror,en,R,0,0
+113,tt3280262,Cult of Chucky,2017,10/23/17,91,0,5.2,69,20410,0,"Comedy, Fantasy, Horror",en,R,0,0
+114,tt3011960,Hangman,2017,12/22/17,98,0,5.2,31,14257,0,"Crime, Drama, Mystery",en,R,0,0
+115,tt2620590,Leatherface,2017,9/14/17,90,0,5,40,19333,0,"Crime, Horror, Thriller",en,R,0,0
+116,tt2345759,The Mummy,2017,6/6/17,110,125000000,5.4,34,170807,409231607,"Action, Adventure, Fantasy",en,PG-13,0,0
+117,tt2334871,Snatched,2017,5/3/17,90,42000000,4.5,45,32771,60845711,"Action, Adventure, Comedy",en,R,0,0
+118,tt2039338,Flatliners,2017,9/28/17,109,19000000,5.2,27,41534,45158254,"Drama, Horror, Mystery",en,PG-13,0,0
+119,tt1981128,Geostorm,2017,10/13/17,109,120000000,5.3,21,92188,221600160,"Action, Sci-Fi, Thriller",en,PG-13,0,0
+120,tt1935897,Amityville: The Awakening,2017,7/20/17,87,0,4.8,42,12688,0,"Horror, Thriller",en,PG-13,0,0
+121,tt1935194,Overdrive,2017,6/29/17,93,28210303,5.4,,12475,7793,"Action, Thriller",en,PG-13,0,0
+122,tt1785635,The Vault,2017,9/1/17,91,5000000,4.8,50,11935,5728,"Crime, Horror, Mystery",en,Not Rated,0,0
+123,tt1758810,The Snowman,2017,10/12/17,119,35000000,5.1,23,57447,43203413,"Crime, Drama, Thriller",en,R,0,0
+124,tt1724970,Beyond Skyline,2017,10/20/17,106,20000000,5.3,46,18136,992181,"Action, Adventure, Sci-Fi",en,R,0,0
+125,tt1544608,Voice from the Stone,2017,4/28/17,94,0,5.2,42,10344,0,"Drama, Mystery, Thriller",en,R,0,0
+126,tt1469304,Baywatch,2017,5/12/17,116,69000000,5.5,37,158134,177856751,"Action, Comedy, Crime",en,R,0,0
+127,tt1293847,xXx: Return of Xander Cage,2017,1/13/17,107,85000000,5.2,42,84321,346147658,"Action, Adventure, Thriller",en,PG-13,0,0
+128,tt1241317,Death Note,2017,8/25/17,101,40000000,4.5,43,74856,0,"Action, Adventure, Crime",en,TV-MA,0,0
+129,tt1139592,Jeepers Creepers III,2017,9/26/17,100,30000000,3.9,,16997,0,"Action, Horror, Mystery",en,Not Rated,0,0
+130,tt0498381,Rings,2017,2/1/17,102,25000000,4.5,25,37426,83080890,"Drama, Horror, Mystery",en,PG-13,0,0
+131,tt5059406,I Am the Pretty Thing That Lives in the House,2016,9/10/16,89,0,4.5,68,12727,0,"Drama, Horror, Mystery",en,-,0,0
+132,tt4824308,God's Not Dead 2,2016,4/1/16,120,5000000,4.4,22,11303,23507567,Drama,en,PG,0,0
+133,tt4667094,Fifty Shades of Black,2016,1/28/16,92,20000000,3.5,28,19370,21164799,Comedy,en,R,0,0
+134,tt4486986,All I See Is You,2016,9/14/16,109,30000000,5.4,43,10501,646946,"Drama, Mystery, Romance",en,R,0,0
+135,tt4419364,Holidays,2016,4/22/16,105,0,5.1,50,10152,0,"Fantasy, Horror, Mystery",en,Not Rated,0,0
+136,tt4383594,Nine Lives,2016,8/3/16,87,30000000,5.3,11,20693,57814445,"Comedy, Drama, Family",en,PG,0,0
+137,tt4334266,The Bad Batch,2016,6/23/17,118,6000000,5.3,62,25927,180851,"Drama, Horror, Romance",en,R,0,0
+138,tt4191580,Meet the Blacks,2016,4/1/16,94,900000,4.8,26,35521,9097072,"Comedy, Horror",en,R,0,0
+139,tt4019560,Exposed,2016,1/22/16,102,0,4.3,23,13627,1787926,"Crime, Drama, Mystery",en,R,0,0
+140,tt3976144,The Monster,2016,11/11/16,91,2700000,5.4,69,15595,0,"Drama, Fantasy, Horror",en,R,0,0
+141,tt3963816,Marauders,2016,7/1/16,107,15000000,5.5,42,18752,0,"Action, Crime, Thriller",en,R,0,0
+142,tt3838992,Yoga Hosers,2016,7/8/16,88,5000000,4.3,23,12088,0,"Action, Comedy, Fantasy",en,PG-13,0,0
+143,tt3835080,31,2016,9/15/16,102,1500000,5.1,35,18251,779820,"Horror, Thriller",en,R,0,0
+144,tt3733774,The Trust,2016,4/29/16,92,9000000,5.4,58,17612,0,"Crime, Drama, Thriller",en,R,0,0
+145,tt3702652,The Other Side of the Door,2016,2/25/16,96,0,5.3,41,16963,14332467,Horror,en,R,0,0
+146,tt3658772,Misconduct,2016,2/5/16,106,11000000,5.3,24,14875,0,"Crime, Drama, Mystery",en,R,0,0
+147,tt3622110,Don't Knock Twice,2016,2/3/17,93,0,5.1,45,12506,0,"Drama, Fantasy, Horror",en,R,0,0
+148,tt3387542,The Forest,2016,1/7/16,93,10000000,4.8,34,39742,37608299,"Horror, Mystery, Thriller",en,PG-13,0,0
+149,tt3352390,Friend Request,2016,1/7/16,92,9900000,5.3,31,24109,2400000,"Horror, Mystery, Thriller",en,R,0,0
+150,tt3216348,Incarnate,2016,12/1/16,87,5000000,5.3,30,11426,6341855,"Horror, Thriller",en,PG-13,0,0
+151,tt3212232,I Am Wrath,2016,4/14/16,92,18000000,5.4,,13335,0,"Action, Thriller",en,R,0,0
+152,tt3082898,Kickboxer: Vengeance,2016,7/14/16,90,17000000,4.9,37,10326,0,"Action, Crime, Drama",en,Not Rated,0,0
+153,tt2702724,The Boss,2016,4/7/16,99,29000000,5.4,40,42373,78636257,Comedy,en,R,0,0
+154,tt2679552,I.T.,2016,9/9/16,95,13000000,5.5,27,14705,0,"Crime, Drama, Mystery",en,Not Rated,0,0
+155,tt2592614,Resident Evil: The Final Chapter,2016,12/23/16,107,40000000,5.5,49,82853,312242626,"Action, Horror, Sci-Fi",en,R,0,0
+156,tt2582500,Shut In,2016,11/11/16,91,10000000,4.8,25,12538,13082071,"Drama, Horror, Mystery",en,PG-13,0,0
+157,tt2404233,Gods of Egypt,2016,2/25/16,127,140000000,5.4,25,104772,150680864,"Action, Adventure, Fantasy",en,PG-13,0,0
+158,tt2304933,The 5th Wave,2016,1/14/16,112,38000000,5.2,33,98460,109906372,"Action, Adventure, Sci-Fi",en,PG-13,0,0
+159,tt2112096,Absolutely Fabulous: The Movie,2016,7/1/16,91,0,5.4,59,11693,37915971,"Comedy, Crime",en,R,0,0
+160,tt2032572,USS Indianapolis: Men of Courage,2016,9/22/16,128,40000000,5.2,30,11232,2158568,"Action, Drama, History",en,R,0,0
+161,tt1901024,Dark Crimes,2016,5/18/18,92,4480393,4.8,24,13993,0,"Crime, Drama, Thriller",en,R,0,0
+162,tt1878841,The Darkness,2016,5/13/16,92,4000000,4.4,27,14672,10898293,"Horror, Thriller",en,PG-13,0,0
+163,tt1628841,Independence Day: Resurgence,2016,6/22/16,120,165000000,5.2,32,165184,389681935,"Action, Adventure, Sci-Fi",en,PG-13,0,0
+164,tt1608290,Zoolander 2,2016,2/6/16,101,50000000,4.7,34,64104,55969000,"Action, Adventure, Comedy",en,PG-13,0,0
+165,tt1564777,Fallen,2016,11/10/16,91,0,5.4,47,13320,0,"Drama, Fantasy, Romance",en,PG-13,0,0
+166,tt1540011,Blair Witch,2016,9/15/16,89,5000000,5,47,40850,45172994,"Horror, Mystery, Thriller",en,R,0,0
+167,tt1472584,Max Steel,2016,10/14/16,92,10000000,4.6,22,18066,6272403,"Action, Adventure, Fantasy",en,PG-13,0,0
+168,tt1468846,Get a Job,2016,3/25/16,83,8000000,5.3,31,21184,0,Comedy,en,R,0,0
+169,tt0775440,Cell,2016,7/6/16,98,0,4.4,38,24960,1133031,"Action, Drama, Horror",en,R,0,0
+170,tt4535650,Dilwale,2015,12/18/15,158,26000000,5.2,,31041,61000000,"Action, Comedy, Drama",hi,Not Rated,0,0
+171,tt4530884,I Spit on Your Grave: Vengeance is Mine,2015,10/1/15,92,0,5.2,,11603,0,"Horror, Thriller",en,Unrated,0,0
+172,tt4503598,Emelie,2015,3/4/16,82,0,5.4,62,13323,0,"Horror, Mystery, Thriller",en,Not Rated,0,0
+173,tt4458206,Code Name: K.O.Z.,2015,2/13/15,114,0,1.9,,27124,0,"Crime, Mystery",tr,Not Rated,0,0
+174,tt4382872,Extraction,2015,12/18/15,82,0,4.1,25,10068,16775,"Action, Thriller",en,R,0,0
+175,tt4107858,MSG: The Messenger of God,2015,1/16/15,197,0,5.9,,11151,0,"Action, Comedy, Drama",hi,-,0,0
+176,tt3774790,400 Days,2015,10/29/15,91,0,4.4,,10071,0,"Mystery, Sci-Fi, Thriller",en,Unrated,0,0
+177,tt3733778,Pay the Ghost,2015,9/16/15,94,0,5.2,23,15775,2160298,"Drama, Horror, Mystery",en,Not Rated,0,0
+178,tt3707106,By the Sea,2015,11/12/15,122,10000000,5.3,44,18399,3727746,"Drama, Romance",en,R,0,0
+179,tt3605418,Knock Knock,2015,6/26/15,99,2500000,4.9,53,80154,6341684,"Drama, Thriller",en,R,0,0
+180,tt3595298,Found a Treasure Called Love,2015,11/11/15,164,23400000,4.5,,17235,67000000,"Action, Drama, Musical",hi,Not Rated,0,0
+181,tt3480796,Vice,2015,1/16/15,96,10000000,4.2,17,15396,0,"Action, Adventure, Sci-Fi",en,R,0,0
+182,tt3450650,Paul Blart: Mall Cop 2,2015,4/16/15,94,38000000,4.4,13,33827,107597242,"Action, Comedy, Crime",en,PG,0,0
+183,tt3327624,Infini,2015,5/8/15,110,0,5.4,,13884,0,"Horror, Sci-Fi, Thriller",en,R,0,0
+184,tt3181822,The Boy Next Door,2015,1/23/15,91,4000000,4.7,30,37649,52425855,Thriller,en,R,0,0
+185,tt3045616,Mortdecai,2015,1/21/15,107,60000000,5.5,27,66455,30418560,"Action, Adventure, Comedy",en,R,0,0
+186,tt2974918,Alvin and the Chipmunks: The Road Chip,2015,12/17/15,92,0,5,33,16541,233755553,"Animation, Adventure, Comedy",en,PG,0,0
+187,tt2967224,Hot Pursuit,2015,5/8/15,87,35000000,5.2,31,48043,51680201,"Action, Comedy, Crime",en,PG-13,0,0
+188,tt2948790,Return to Sender,2015,5/31/15,92,0,5.1,23,11824,0,"Drama, Thriller",en,Not Rated,0,0
+189,tt2938956,The Transporter Refueled,2015,9/3/15,96,25000000,5.2,32,38749,72629670,"Action, Adventure, Thriller",en,PG-13,0,0
+190,tt2918436,The Lazarus Effect,2015,1/29/15,83,3300000,5.2,31,40695,64110728,"Horror, Mystery, Sci-Fi",en,PG-13,0,0
+191,tt2802136,Home Sweet Hell,2015,3/13/15,98,3000000,5.4,22,14181,0,"Comedy, Crime, Thriller",en,R,0,0
+192,tt2752772,Sinister 2,2015,8/19/15,97,10000000,5.3,32,47881,52882018,"Horror, Mystery, Thriller",en,R,0,0
+193,tt2717822,Blackhat,2015,1/13/15,133,70000000,5.4,51,51547,17752940,"Action, Crime, Thriller",en,R,0,0
+194,tt2690138,The D Train,2015,5/8/15,101,447524,5,,10525,771317,"Comedy, Drama",en,R,0,0
+195,tt2637294,Hot Tub Time Machine 2,2015,2/20/15,93,14000000,5.1,29,36613,12314651,"Comedy, Mystery, Sci-Fi",en,R,0,0
+196,tt2479478,The Ridiculous 6,2015,12/11/15,119,60000000,4.8,18,43792,0,"Action, Adventure, Comedy",en,TV-14,0,0
+197,tt2473510,Paranormal Activity: The Ghost Dimension,2015,10/21/15,88,10000000,4.6,30,24730,78096553,"Horror, Mystery",en,R,0,0
+198,tt2393827,Howl,2015,10/1/15,92,0,5.4,,11566,0,"Action, Fantasy, Horror",en,Not Rated,0,0
+199,tt2358925,Unfinished Business,2015,3/5/15,91,35000000,5.4,32,31730,14431253,"Comedy, Drama",en,R,0,0
+200,tt2322441,Fifty Shades of Grey,2015,2/11/15,125,4000000,4.1,46,295217,571006128,"Drama, Romance, Thriller",en,R,0,0
+201,tt2309260,The Gallows,2015,7/10/15,81,100000,4.2,30,19134,42664410,"Horror, Mystery, Thriller",en,R,0,0
+202,tt2124787,Final Girl,2015,4/14/15,84,0,4.7,,14278,0,"Horror, Thriller",en,R,0,0
+203,tt2120120,Pixels,2015,7/16/15,105,88000000,5.5,27,130320,243637091,"Action, Comedy, Fantasy",en,PG-13,0,0
+204,tt2091478,Air,2015,8/14/15,95,0,5.1,33,11637,0,"Drama, Sci-Fi, Thriller",en,PG-13,0,0
+205,tt2072230,Attack on Titan Part 1,2015,8/12/15,98,0,5.1,,11845,0,"Action, Adventure, Drama",ja,Not Rated,0,0
+206,tt2058673,Point Break,2015,12/3/15,114,105000000,5.3,34,57869,133718711,"Action, Adventure, Crime",en,PG-13,0,0
+207,tt1883367,The Human Centipede III (Final Sequence),2015,5/22/15,102,0,2.7,5,14467,16184,"Comedy, Crime, Horror",en,Not Rated,0,0
+208,tt1841642,Demonic,2015,2/12/15,83,3000000,5.3,,13492,3387000,"Horror, Mystery, Thriller",en,R,0,0
+209,tt1731701,Barely Lethal,2015,4/30/15,96,0,5.4,44,19851,6075,"Action, Comedy",en,PG-13,0,0
+210,tt1617661,Jupiter Ascending,2015,2/4/15,127,176000003,5.3,40,177432,183987723,"Action, Adventure, Sci-Fi",en,PG-13,0,0
+211,tt1524575,The Vatican Tapes,2015,7/24/15,91,13000000,4.8,38,14328,1784763,"Horror, Thriller",en,PG-13,0,0
+212,tt1519461,Area 51,2015,5/15/15,91,5000000,4.2,30,13063,7556,"Horror, Mystery, Sci-Fi",en,R,0,0
+213,tt1502712,Fantastic Four,2015,8/5/15,100,120000000,4.3,27,150612,167977596,"Action, Adventure, Sci-Fi",en,PG-13,0,0
+214,tt1243974,Aloha,2015,5/27/15,105,37000000,5.4,40,61724,26250020,"Comedy, Drama, Romance",en,PG-13,0,0
+215,tt1029360,Poltergeist,2015,5/20/15,93,35000000,4.9,47,54676,95437994,"Horror, Thriller",en,PG-13,0,0
+216,tt4009460,Kirk Cameron's Saving Christmas,2014,11/14/14,79,500000,1.4,18,14885,2800000,"Comedy, Family",en,PG,0,0
+217,tt3713166,Unfriended,2014,4/17/15,83,1000000,5.5,59,67888,62882090,"Horror, Mystery, Thriller",en,R,0,0
+218,tt3704538,V/H/S Viral,2014,10/23/14,81,0,4.2,38,14928,2756,"Horror, Thriller",en,R,0,0
+219,tt3477064,Recep Ivedik 4,2014,2/20/14,117,0,3.7,,15056,39477906,Comedy,tr,-,0,0
+220,tt3322940,Annabelle,2014,10/2/14,99,6500000,5.4,37,139156,257047661,"Horror, Mystery, Thriller",en,R,0,0
+221,tt3138104,The Hungover Games,2014,2/1/14,85,0,3.6,,11989,0,Comedy,en,R,0,0
+222,tt3099498,Tusk,2014,9/19/14,102,2800000,5.3,55,46045,1826705,"Comedy, Drama, Horror",en,R,0,0
+223,tt3014666,Moms' Night Out,2014,3/25/14,98,5000000,5.4,25,13133,10429707,Comedy,en,PG,0,0
+224,tt2960930,Extraterrestrial,2014,10/17/14,101,0,5,38,14628,0,"Action, Horror, Mystery",en,Not Rated,0,0
+225,tt2923316,American Heist,2014,9/11/14,94,10000000,5,23,16240,0,"Action, Crime, Drama",en,R,0,0
+226,tt2828996,A Haunted House 2,2014,4/17/14,86,4000000,4.7,17,19545,25343661,"Comedy, Fantasy",en,R,0,0
+227,tt2799166,The Pyramid,2014,12/4/14,89,6500000,4.6,24,22899,16861137,"Horror, Mystery, Thriller",en,R,0,0
+228,tt2784512,Zombeavers,2014,10/20/14,77,0,4.8,44,16592,14947,"Comedy, Horror",en,R,0,0
+229,tt2752758,Devil's Due,2014,1/8/14,89,7000000,4.1,34,15986,36433975,"Horror, Mystery",en,R,0,0
+230,tt2574698,Gunday,2014,2/14/14,152,0,2.4,,57556,0,"Action, Drama, Romance",hi,Not Rated,0,0
+231,tt2528814,God's Not Dead,2014,3/21/14,113,17000000,4.7,16,40101,29789000,Drama,en,PG,0,0
+232,tt2473682,Paranormal Activity: The Marked Ones,2014,1/1/14,84,5000000,5,42,39577,86362372,"Horror, Mystery",en,R,0,0
+233,tt2467046,Left Behind,2014,10/3/14,110,16000000,3.1,12,36643,19682924,"Action, Fantasy, Sci-Fi",en,PG-13,0,0
+234,tt2461132,Happy New Year,2014,10/23/14,180,25000000,5,,33628,0,"Action, Comedy, Music",hi,Not Rated,0,0
+235,tt2409818,Open Windows,2014,7/4/14,100,4000000,5.2,47,13511,100000,"Crime, Mystery, Thriller",en,Not Rated,0,0
+236,tt2401807,Rage,2014,5/9/14,92,21000000,5,28,23266,0,"Action, Crime, Thriller",en,Not Rated,0,0
+237,tt2372222,Kick,2014,7/25/14,146,22000000,5.3,,23715,55000000,"Action, Comedy",hi,Not Rated,0,0
+238,tt2339741,The Woman in Black 2: Angel of Death,2014,12/30/14,98,15000000,4.8,42,26407,48854305,"Drama, Horror, Thriller",en,PG-13,0,0
+239,tt2300975,Jessabelle,2014,11/7/14,90,1000000,5.4,37,22521,23456897,"Drama, Horror, Mystery",en,PG-13,0,0
+240,tt2235779,The Quiet Ones,2014,4/1/14,98,200000,5.1,41,19095,17834867,"Horror, Mystery, Thriller",en,PG-13,0,0
+241,tt2212008,The Bag Man,2014,2/28/14,108,0,5.2,28,16175,56574,"Action, Crime, Drama",en,R,0,0
+242,tt2180994,A Good Marriage,2014,10/3/14,102,0,5.2,43,10171,0,"Crime, Drama, Thriller",en,R,0,0
+243,tt2109248,Transformers: Age of Extinction,2014,6/25/14,165,210000000,5.6,32,296193,1104054072,"Action, Adventure, Sci-Fi",en,PG-13,0,0
+244,tt2103254,Tammy,2014,7/2/14,97,20000000,4.9,39,47557,100525432,"Comedy, Romance",en,R,0,0
+245,tt2088003,Big Game,2014,9/5/14,110,8500000,5.4,53,30856,7500000,"Action, Adventure",en,PG-13,0,0
+246,tt2064968,The Longest Week,2014,9/5/14,86,0,5.4,34,11487,46460,"Comedy, Drama, Romance",en,PG-13,0,0
+247,tt1975159,Flight 7500,2014,5/16/14,80,0,4.8,,14740,0,"Horror, Mystery, Sci-Fi",en,PG-13,0,0
+248,tt1956620,Sex Tape,2014,7/17/14,94,40000000,5.1,36,106567,126069509,"Comedy, Romance",en,R,0,0
+249,tt1945084,Everly,2014,9/20/14,92,0,5.1,35,17104,358156,"Action, Thriller",en,R,0,0
+250,tt1921064,Pompeii,2014,2/18/14,105,100000000,5.5,39,105678,117831631,"Action, Adventure, Drama",en,PG-13,0,0
+251,tt1823664,Annie,2014,12/19/14,118,65000000,5.3,33,33683,133821816,"Comedy, Drama, Family",en,PG,0,0
+252,tt1686821,Vampire Academy,2014,2/7/14,104,30000000,5.5,31,51439,15391979,"Action, Comedy, Drama",en,PG-13,0,0
+253,tt1649443,[REC] 4: Apocalypse,2014,10/31/14,95,3000000,5.3,53,16106,4915757,"Action, Adventure, Fantasy",es,R,0,0
+254,tt1552224,Outcast,2014,9/26/14,99,25000000,4.6,33,12314,5148503,"Action, Adventure, Drama",en,Not Rated,0,0
+255,tt1418377,"I, Frankenstein",2014,1/22/14,92,65000000,5.1,30,77843,76801179,"Action, Fantasy, Sci-Fi",en,PG-13,0,0
+256,tt1247690,Serena,2014,10/12/14,109,0,5.4,36,26747,176391,"Drama, History, Romance",en,R,0,0
+257,tt1204977,Ouija,2014,10/24/14,89,5000000,4.5,38,47443,103590271,"Horror, Mystery, Thriller",en,PG-13,0,0
+258,tt1188982,Jai Ho,2014,1/24/14,135,0,5.1,,16686,0,"Action, Drama",hi,Not Rated,0,0
+259,tt1121096,Seventh Son,2014,12/12/14,102,95000000,5.5,30,70510,114178613,"Action, Adventure, Fantasy",en,PG-13,0,0
+260,tt1085492,The Prince,2014,8/22/14,93,18000000,4.6,19,17447,0,"Action, Thriller",en,R,0,0
+261,tt1043726,The Legend of Hercules,2014,1/10/14,99,70000000,4.2,22,52238,61279452,"Action, Adventure, Fantasy",en,PG-13,0,0
+262,tt2885364,Willow Creek,2013,5/2/13,80,0,5.1,62,10420,0,"Horror, Mystery, Thriller",en,Not Rated,0,0
+263,tt2571140,Boss,2013,10/16/13,143,0,5.1,42,10192,0,Action,hi,Not Rated,0,0
+264,tt2403029,The Starving Games,2013,11/7/13,83,4500000,3.2,,18846,0,"Comedy, Sci-Fi",en,PG-13,0,0
+265,tt2403021,The Green Inferno,2013,9/8/13,100,5000000,5.3,38,38292,6833445,"Adventure, Horror",en,R,0,0
+266,tt2292959,The Canyons,2013,7/29/13,99,250000,3.8,36,10392,56825,"Drama, Thriller",en,R,0,0
+267,tt2281159,Contracted,2013,7/7/13,84,0,5.3,48,14133,4105,"Drama, Horror, Thriller",en,Not Rated,0,0
+268,tt2243537,A Haunted House,2013,1/11/13,86,2500000,5,20,43459,60141683,"Comedy, Fantasy, Horror",en,R,0,0
+269,tt2193265,Welcome to the Jungle,2013,4/27/13,95,3500000,4.9,25,12257,0,"Action, Adventure, Comedy",en,Not Rated,0,0
+270,tt2193215,The Counselor,2013,10/25/13,117,25000000,5.3,48,95810,71009334,"Crime, Drama, Thriller",en,R,0,0
+271,tt2191701,Grown Ups 2,2013,7/11/13,101,80000000,5.4,19,139031,247022278,Comedy,en,PG-13,0,0
+272,tt2171867,Empire State,2013,9/3/13,94,11000000,5.2,,19558,3639345,"Action, Crime, Thriller",en,R,0,0
+273,tt2167202,Getaway,2013,8/29/13,90,18000000,4.4,22,23086,10501938,"Action, Crime, Thriller",en,PG-13,0,0
+274,tt2132285,The Bling Ring,2013,6/12/13,90,15000000,5.6,66,82720,19145732,"Biography, Crime, Drama",en,R,0,0
+275,tt2070862,Temptation: Confessions of a Marriage Counselor,2013,3/29/13,111,0,5,26,11377,0,"Drama, Thriller",en,PG-13,0,0
+276,tt2034139,The Last Exorcism 2,2013,2/28/13,88,5000000,4,35,15662,15179302,"Horror, Thriller",en,PG-13,0,0
+277,tt2017020,The Smurfs 2,2013,7/30/13,105,105000000,5.3,34,37487,347434178,"Animation, Adventure, Comedy",en,PG,0,0
+278,tt1911662,Vehicle 19,2013,3/7/13,85,0,4.9,29,14468,0,"Action, Thriller",en,R,0,0
+279,tt1879032,Rapture-Palooza,2013,6/7/13,85,0,5.2,44,11167,0,"Comedy, Fantasy",en,R,0,0
+280,tt1833673,Dhoom 3,2013,12/18/13,172,19500000,5.4,61,42670,91000000,"Action, Crime, Thriller",hi,Not Rated,0,0
+281,tt1815862,After Earth,2013,5/30/13,100,130000000,4.8,33,190177,243843127,"Action, Adventure, Sci-Fi",en,PG-13,0,0
+282,tt1762399,Walking with Dinosaurs 3D,2013,12/18/13,87,80000000,5.2,37,10599,126546518,"Animation, Adventure, Family",en,PG,0,0
+283,tt1709143,The Last Days on Mars,2013,8/11/13,98,0,5.5,46,34971,24084,"Adventure, Horror, Sci-Fi",en,R,0,0
+284,tt1705952,Tarzan,2013,10/17/13,94,0,4.8,,12080,44095996,"Animation, Adventure, Drama",en,PG,0,0
+285,tt1606378,A Good Day to Die Hard,2013,2/6/13,98,92000000,5.3,28,196580,304654182,"Action, Thriller",en,R,0,0
+286,tt1572315,Texas Chainsaw,2013,1/3/13,92,10000000,4.8,,45242,0,"Horror, Thriller",en,R,0,0
+287,tt1545754,Are You Here,2013,9/7/13,114,0,5.3,37,14955,0,"Comedy, Drama",en,R,0,0
+288,tt1480295,Killing Season,2013,7/12/13,91,0,5.4,25,35573,39881,"Action, Drama, Thriller",en,R,0,0
+289,tt1457765,The Haunting in Connecticut 2: Ghosts of Georgia,2013,2/1/13,100,9000000,5.3,26,16020,0,"Drama, Horror, Mystery",en,R,0,0
+290,tt1427298,The Human Race,2013,4/10/13,87,567000,5.2,32,10284,0,"Action, Horror, Sci-Fi",en,Not Rated,0,0
+291,tt1375789,Race 2,2013,1/25/13,150,0,5.3,,15032,0,"Action, Crime, Thriller",hi,Not Rated,0,0
+292,tt1333125,Movie 43,2013,1/1/13,94,6000000,4.3,18,98741,32438988,Comedy,en,R,0,0
+293,tt1160996,The Colony,2013,4/12/13,95,16000000,5.3,28,42753,0,"Action, Sci-Fi, Thriller",en,Not Rated,0,0
+294,tt1029231,Krrish 3,2013,11/1/13,152,6218100,5.2,,20423,0,"Action, Sci-Fi",hi,Not Rated,0,0
+295,tt0795461,Scary Movie V,2013,4/11/13,86,20000000,3.5,11,65161,78378744,"Comedy, Horror",en,PG-13,0,0
+296,tt2231554,Grave Encounters 2,2012,10/12/12,98,0,5.1,,22825,0,"Horror, Mystery",en,Not Rated,0,0
+297,tt2172071,Student of the Year,2012,10/19/12,146,8391922,5.3,,14983,13749809,"Comedy, Drama, Romance",hi,Not Rated,0,0
+298,tt2112131,Dabangg 2,2012,12/21/12,120,13650000,4.8,,15310,0,"Action, Comedy",hi,Not Rated,0,0
+299,tt2109184,Paranormal Activity 4,2012,10/17/12,88,5000000,4.6,40,61786,142817992,"Horror, Mystery",en,R,0,0
+300,tt2101441,Spring Breakers,2012,1/24/13,94,5000000,5.3,63,134677,31724284,"Crime, Drama",en,R,0,0
+301,tt2016894,Ek Tha Tiger,2012,8/15/12,132,12000000,5.5,,28601,51000000,"Action, Romance, Thriller",hi,Not Rated,0,0
+302,tt1991245,Chernobyl Diaries,2012,5/24/12,86,0,5,,63538,18112929,"Horror, Mystery, Thriller",en,R,0,0
+303,tt1980986,Housefull 2,2012,4/5/12,145,0,5.3,,12996,0,"Action, Comedy, Musical",hi,Not Rated,0,0
+304,tt1935896,The ABCs of Death,2012,3/8/13,129,0,4.7,43,17995,21660,"Comedy, Horror",en,Not Rated,0,0
+305,tt1928330,Bad Ass,2012,4/12/12,90,0,5.5,,18321,0,"Action, Comedy, Crime",en,R,0,0
+306,tt1920849,Bachelorette,2012,8/6/12,87,3000000,5.3,53,44960,11947954,"Comedy, Romance",en,R,0,0
+307,tt1855325,Resident Evil: Retribution,2012,9/12/12,95,65000000,5.4,39,131762,240159255,"Action, Horror, Sci-Fi",en,R,0,0
+308,tt1829012,Passion,2012,9/7/12,102,20000000,5.3,53,21508,713616,"Drama, Mystery, Thriller",en,R,0,0
+309,tt1810697,Meeting Evil,2012,1/31/12,89,0,5.3,,11679,525,"Crime, Drama, Mystery",en,R,0,0
+310,tt1780762,Aftershock,2012,9/12/12,89,2000000,4.8,39,11146,58510,"Action, Adventure, Horror",es,R,0,0
+311,tt1766094,So Undercover,2012,12/6/12,94,0,5,,19228,0,"Action, Comedy, Crime",en,PG-13,0,0
+312,tt1731697,The Lords of Salem,2012,9/10/12,101,1500000,5.1,57,27599,1165882,"Horror, Thriller",en,R,0,0
+313,tt1714203,Piranha 3DD,2012,5/11/12,83,5000000,3.7,24,39643,8493728,"Comedy, Horror",en,R,0,0
+314,tt1712170,Alex Cross,2012,10/18/12,101,45000000,5.2,30,32217,30353232,"Action, Crime, Mystery",en,PG-13,0,0
+315,tt1702425,Casa de mi Padre,2012,3/15/12,84,0,5.5,52,20143,0,"Comedy, Western",en,R,0,0
+316,tt1673434,The Twilight Saga: Breaking Dawn - Part 2,2012,11/13/12,115,120000000,5.5,52,229065,829000000,"Adventure, Drama, Fantasy",en,PG-13,0,0
+317,tt1663143,Fun Size,2012,10/24/12,86,14000000,5.4,37,13657,11417362,"Adventure, Comedy",en,PG-13,0,0
+318,tt1659343,Universal Soldier: Day of Reckoning,2012,10/4/12,114,11500000,5,58,19151,1402307,"Action, Horror, Mystery",en,R,0,0
+319,tt1656186,Stolen,2012,9/6/12,96,35000000,5.5,43,42987,2106557,"Action, Crime, Thriller",en,R,0,0
+320,tt1649444,[REC] 3: Genesis,2012,3/30/12,80,6400000,5,45,32967,11019975,"Action, Comedy, Fantasy",es,R,0,0
+321,tt1603257,ATM,2012,2/17/12,90,3000000,4.7,34,22629,3010,"Horror, Thriller",en,R,0,0
+322,tt1598828,One for the Money,2012,1/26/12,91,40000000,5.3,22,40500,36893721,"Action, Comedy, Crime",en,PG-13,0,0
+323,tt1597522,Astérix and Obélix: God Save Britannia,2012,10/17/12,110,61000000,5.3,,13341,0,"Adventure, Comedy, Family",fr,-,0,0
+324,tt1592873,LOL,2012,2/10/12,97,11000000,4.4,,53530,0,"Comedy, Drama, Romance",en,PG-13,0,0
+325,tt1582507,House at the End of the Street,2012,9/21/12,101,6900000,5.6,31,71808,44287131,"Drama, Horror, Thriller",en,PG-13,0,0
+326,tt1560985,The Devil Inside,2012,1/6/12,83,1000000,4.2,18,34688,101758490,Horror,en,R,0,0
+327,tt1520498,The Oogieloves in the Big Balloon Adventure,2012,8/29/12,88,0,2.1,32,14840,0,"Adventure, Family, Fantasy",en,G,0,0
+328,tt1480656,Cosmopolis,2012,5/25/12,109,20500000,5.1,58,44314,6063556,"Crime, Drama, Fantasy",en,R,0,0
+329,tt1440732,Bel Ami,2012,3/9/12,102,9000000,5.4,42,17781,8303261,"Crime, Drama, History",en,R,0,0
+330,tt1438173,Bait,2012,9/5/12,93,30000000,5.2,,16270,32500000,"Action, Adventure, Drama",en,R,0,0
+331,tt1433822,The Apparition,2012,8/23/12,82,17000000,4.1,18,18810,9627492,"Horror, Thriller",en,PG-13,0,0
+332,tt1366365,The Cold Light of Day,2012,4/4/12,93,20000000,4.9,22,35185,16863583,"Action, Adventure, Thriller",en,PG-13,0,0
+333,tt1258972,The Man with the Iron Fists,2012,11/2/12,95,15000000,5.4,51,60146,15608545,Action,en,R,0,0
+334,tt1234719,Red Dawn,2012,3/15/12,93,65000000,5.4,31,72933,44806783,"Action, Drama",en,PG-13,0,0
+335,tt1232200,That's My Boy,2012,6/14/12,116,70000000,5.5,31,90244,58058367,Comedy,en,R,0,0
+336,tt1132449,Lay the Favorite,2012,6/22/12,94,26350000,4.8,38,11044,1576687,"Comedy, Drama, Romance",en,R,0,0
+337,tt0938330,Silent Hill: Revelation,2012,10/10/12,95,20000000,5,16,59969,52302796,"Fantasy, Horror",en,R,0,0
+338,tt0383010,The Three Stooges,2012,4/13/12,92,30000000,5.1,56,29766,54819301,"Comedy, Family",en,PG,0,0
+339,tt1886493,Catch .44,2011,12/8/11,94,7000000,4.6,,16562,0,"Action, Crime, Drama",en,R,0,0
+340,tt1772240,Apollo 18,2011,7/20/11,86,5000000,5.2,24,53553,25562924,"Horror, Mystery, Sci-Fi",en,PG-13,0,0
+341,tt1767382,Silent House,2011,1/21/11,86,2000000,5.2,49,21641,13101672,"Drama, Horror, Mystery",en,R,0,0
+342,tt1757742,Apartment 143,2011,10/11/11,80,0,5.1,,10889,4132000,"Horror, Thriller",en,R,0,0
+343,tt1756851,Twixt,2011,9/10/11,88,7000000,4.8,40,10341,1300000,"Comedy, Fantasy, Horror",en,R,0,0
+344,tt1756799,The Day,2011,9/15/11,87,0,5.2,41,12194,0,"Action, Drama, Horror",en,R,0,0
+345,tt1748197,Setup,2011,10/17/11,85,20000000,4.4,,20405,2128186,"Action, Crime, Drama",en,R,0,0
+346,tt1742650,I Don't Know How She Does It,2011,9/16/11,89,24000000,4.9,38,19334,31410151,"Comedy, Romance",en,PG-13,0,0
+347,tt1729637,Bodyguard,2011,8/31/11,130,0,4.6,41,21935,0,"Action, Comedy, Drama",hi,Not Rated,0,0
+348,tt1714209,In the Land of Blood and Honey,2011,12/23/11,127,10000000,4.5,56,33252,303877,"Drama, Romance, War",en,R,0,0
+349,tt1712159,11/11/11,2011,11/11/11,90,0,3.9,26,11978,0,"Horror, Mystery, Thriller",en,PG-13,0,0
+350,tt1708532,Ready,2011,6/3/11,145,5800000,4.7,,14847,27000000,"Action, Comedy",hi,Not Rated,0,0
+351,tt1699231,Quarantine 2: Terminal,2011,6/16/11,86,4000000,5.2,,18458,0,"Horror, Thriller",en,R,0,0
+352,tt1674784,Trespass,2011,10/13/11,91,36000000,5.3,37,41445,9612469,"Crime, Drama, Thriller",en,R,0,0
+353,tt1634121,Intruders,2011,9/12/11,100,13000000,5.4,45,19989,3012210,"Fantasy, Horror, Thriller",en,R,0,0
+354,tt1633356,Shark Night,2011,9/2/11,90,28000000,4,22,24574,10126458,"Horror, Thriller",en,PG-13,0,0
+355,tt1615918,Alvin and the Chipmunks: Chipwrecked,2011,12/14/11,87,75000000,4.3,24,31007,342695435,"Animation, Adventure, Comedy",en,G,0,0
+356,tt1604171,Prom,2011,4/29/11,104,8000000,5.4,50,14757,10130000,"Comedy, Drama, Family",en,PG,0,0
+357,tt1600195,Abduction,2011,9/22/11,106,35000000,5.1,25,75997,82087155,"Action, Mystery, Thriller",en,PG-13,0,0
+358,tt1594562,The Innkeepers,2011,8/18/11,101,750000,5.4,64,32792,78396,"Drama, Horror, Mystery",en,R,0,0
+359,tt1588398,Sleeping Beauty,2011,6/10/11,101,10000000,5.3,57,30749,408680,"Drama, Romance, Thriller",en,Not Rated,0,0
+360,tt1578882,Elephant White,2011,5/17/11,91,10000000,5.1,,10386,0,"Action, Crime, Thriller",en,R,0,0
+361,tt1578275,The Dilemma,2011,1/13/11,111,70000000,5.3,46,51521,67112664,"Comedy, Drama",en,PG-13,0,0
+362,tt1575694,The Hit List,2011,4/2/11,90,6000000,5.4,,11322,0,"Action, Thriller",en,R,0,0
+363,tt1562871,Ra.One,2011,10/24/11,156,0,4.7,60,37807,0,"Action, Adventure, Sci-Fi",hi,Not Rated,0,0
+364,tt1535612,The Son of No One,2011,11/4/11,90,15000000,5.1,36,16377,0,"Action, Crime, Drama",en,R,0,0
+365,tt1530509,The Human Centipede II (Full Sequence),2011,10/6/11,91,0,3.8,17,35351,0,"Crime, Horror",en,Not Rated,0,0
+366,tt1517489,Spy Kids 4-D: All the Time in the World,2011,8/18/11,89,27000000,3.5,37,22442,85564310,"Action, Adventure, Comedy",en,PG,0,0
+367,tt1502404,Drive Angry,2011,2/24/11,104,50000000,5.4,44,93840,28931401,"Action, Fantasy, Thriller",en,R,0,0
+368,tt1486185,Red Riding Hood,2011,3/11/11,100,42000000,5.5,29,107401,89162162,"Fantasy, Horror, Mystery",en,PG-13,0,0
+369,tt1464174,"Big Mommas: Like Father, Like Son",2011,2/16/11,107,32000000,4.4,22,25206,83615414,"Action, Comedy, Crime",en,PG-13,0,0
+370,tt1411704,Hop,2011,3/30/11,95,63000000,5.4,41,31015,183953723,"Animation, Adventure, Comedy",en,PG,0,0
+371,tt1411664,Bucky Larson: Born to Be a Star,2011,9/9/11,97,10000000,3.2,9,11265,0,Comedy,en,R,0,0
+372,tt1334102,The Resident,2011,2/10/11,91,20000000,5.3,,26232,0,"Drama, Horror, Mystery",en,R,0,0
+373,tt1324999,The Twilight Saga: Breaking Dawn - Part 1,2011,11/16/11,117,110000000,4.9,45,221704,712171856,"Adventure, Drama, Fantasy",en,PG-13,0,0
+374,tt1305591,Mars Needs Moms,2011,3/9/11,88,150000000,5.4,49,20909,38992758,"Animation, Action, Adventure",en,PG,0,0
+375,tt1265990,The Roommate,2011,2/4/11,91,16000000,4.8,23,36305,52545707,Thriller,en,PG-13,0,0
+376,tt1240982,Your Highness,2011,4/8/11,102,49900000,5.5,31,96171,26121638,"Adventure, Comedy, Fantasy",en,R,0,0
+377,tt1222817,Zookeeper,2011,7/6/11,102,80000000,5.2,30,56740,169852759,"Comedy, Family, Fantasy",en,PG,0,0
+378,tt1152398,Beastly,2011,1/21/11,86,17000000,5.6,40,75085,43202283,"Drama, Fantasy, Romance",en,PG-13,0,0
+379,tt1133985,Green Lantern,2011,6/16/11,114,200000000,5.5,39,264750,219851172,"Action, Adventure, Sci-Fi",en,PG-13,0,0
+380,tt1093357,The Darkest Hour,2011,12/22/11,89,30000000,4.9,18,57475,64626786,"Action, Adventure, Horror",en,PG-13,0,0
+381,tt1071875,Ghost Rider: Spirit of Vengeance,2011,12/11/11,96,57000000,4.3,34,109877,132563930,"Action, Fantasy, Thriller",en,PG-13,0,0
+382,tt0844993,Hoodwinked Too! Hood vs. Evil,2011,4/29/11,86,30000000,4.7,20,12056,13521829,"Animation, Comedy, Crime",en,PG,0,0
+383,tt0816462,Conan the Barbarian,2011,8/17/11,113,90000000,5.2,36,94692,63523283,"Action, Adventure, Fantasy",en,R,0,0
+384,tt0810913,Jack and Jill,2011,11/11/11,91,79000000,3.3,23,77348,149673788,Comedy,en,PG,0,0
+385,tt0479997,Season of the Witch,2011,1/7/11,95,40000000,5.4,28,89815,91627228,"Action, Adventure, Fantasy",en,PG-13,0,0
+386,tt0472181,The Smurfs,2011,7/29/11,103,110000000,5.4,30,82932,563749323,"Animation, Adventure, Comedy",en,PG,0,0
+387,tt1666186,Vampires Suck,2010,8/18/10,82,20000000,3.4,18,46306,80547866,"Comedy, Horror",en,PG-13,0,0
+388,tt1653690,Ong-bak 3,2010,5/5/10,99,0,5,38,12934,2340363,Action,th,R,0,0
+389,tt1577061,Recep Ivedik 3,2010,2/12/10,95,0,4,,17382,22588876,Comedy,tr,-,0,0
+390,tt1572311,Tees Maar Khan,2010,12/24/10,135,0,2.5,,11257,0,"Comedy, Crime",hi,Not Rated,0,0
+391,tt1564585,Skyline,2010,11/11/10,92,10000000,4.4,26,86002,66984887,"Action, Sci-Fi, Thriller",en,PG-13,0,0
+392,tt1470023,MacGruber,2010,5/21/10,90,10000000,5.5,43,42114,9322895,"Action, Comedy",en,R,0,0
+393,tt1452628,Vanishing on 7th Street,2010,9/11/10,92,10000000,4.9,50,24847,1068682,"Horror, Mystery, Thriller",en,R,0,0
+394,tt1423995,Stone,2010,10/7/10,105,22000000,5.4,58,40120,9479718,"Drama, Thriller",en,R,0,0
+395,tt1403988,The Romantics,2010,9/10/10,95,4500000,5.1,43,11651,123820,"Comedy, Drama, Romance",en,PG-13,0,0
+396,tt1392197,Marmaduke,2010,6/4/10,87,50000000,4.3,30,14194,83761844,"Comedy, Family",en,PG,0,0
+397,tt1391034,And Soon the Darkness,2010,2/25/10,91,0,5.2,,16412,177182,"Drama, Horror, Mystery",en,R,0,0
+398,tt1390535,The Final,2010,1/28/10,93,1000000,5.4,,10351,0,"Drama, Horror, Thriller",en,R,0,0
+399,tt1341188,How Do You Know,2010,12/17/10,121,120000000,5.4,46,46309,48668907,"Comedy, Drama, Romance",en,PG-13,0,0
+400,tt1325004,The Twilight Saga: Eclipse,2010,6/23/10,124,68000000,5,58,225690,698491347,"Drama, Fantasy, Romance",en,PG-13,0,0
+401,tt1320261,Gulliver's Travels,2010,12/25/10,85,112000000,4.9,33,65121,237382724,"Adventure, Comedy, Family",en,PG,0,0
+402,tt1316622,Wrecked,2010,4/1/11,91,0,5.3,61,15516,8020,"Adventure, Drama, Mystery",en,R,0,0
+403,tt1316037,Birdemic: Shock and Terror,2010,2/27/10,105,0,1.8,,21108,0,"Horror, Thriller",en,Not Rated,0,0
+404,tt1302067,Yogi Bear,2010,12/17/10,80,80000000,4.6,35,20296,201584141,"Animation, Adventure, Comedy",en,PG,0,0
+405,tt1287468,Cats & Dogs: The Revenge of Kitty Galore,2010,7/28/10,82,85000000,4.3,30,13841,112483764,"Action, Comedy, Family",en,PG,0,0
+406,tt1273678,The Spy Next Door,2010,1/15/10,94,28000000,5.4,27,40124,45236543,"Action, Comedy, Family",en,PG,0,0
+407,tt1273235,A Serbian Film,2010,6/16/10,104,0,5.1,,56517,0,"Horror, Mystery, Thriller",sr,NC-17,0,0
+408,tt1268987,Operation: Endgame,2010,7/20/10,87,0,4.9,,10086,0,"Action, Comedy",en,R,0,0
+409,tt1261945,Sex and the City 2,2010,5/26/10,146,100000000,4.5,27,73516,288347692,"Comedy, Drama, Romance",en,R,0,0
+410,tt1213012,Alpha and Omega,2010,9/17/10,90,20000000,5.2,36,13233,50500000,"Animation, Adventure, Comedy",en,PG,0,0
+411,tt1212436,The Back-up Plan,2010,4/23/10,104,35000000,5.4,34,48011,77477008,"Comedy, Romance",en,PG-13,0,0
+412,tt1179056,A Nightmare on Elm Street,2010,4/30/10,95,35000000,5.2,35,92156,115664037,"Crime, Drama, Horror",en,R,0,0
+413,tt1103153,Killers,2010,6/4/10,100,75000000,5.5,21,86407,98159963,"Action, Comedy, Romance",en,PG-13,0,0
+414,tt1075747,Jonah Hex,2010,6/18/10,81,47000000,4.7,33,54984,10539000,"Action, Drama, Fantasy",en,PG-13,0,0
+415,tt1038919,The Bounty Hunter,2010,3/16/10,110,40000000,5.6,22,120278,136000000,"Action, Comedy, Romance",en,PG-13,0,0
+416,tt1038686,Legion,2010,1/21/10,100,26000000,5.2,32,98569,67918658,"Action, Fantasy, Horror",en,R,0,0
+417,tt1013860,Dylan Dog: Dead of Night,2010,3/16/11,107,20000000,5.1,31,14590,4634062,"Action, Comedy, Crime",en,PG-13,0,0
+418,tt0979434,Lottery Ticket,2010,8/20/10,99,0,5,50,10398,0,Comedy,en,PG-13,0,0
+419,tt0970866,Little Fockers,2010,12/21/10,98,100000000,5.5,27,105589,310650585,"Comedy, Romance",en,PG-13,0,0
+420,tt0938283,The Last Airbender,2010,6/30/10,103,150000000,4,20,151158,318502923,"Action, Adventure, Family",en,PG,0,0
+421,tt0872230,My Soul to Take,2010,10/8/10,107,25000000,4.8,25,19439,19829957,"Horror, Mystery, Thriller",en,R,0,0
+422,tt0808510,Tooth Fairy,2010,1/14/10,101,48000000,5,36,41741,112462508,"Comedy, Family, Fantasy",en,PG,0,0
+423,tt0492389,Furry Vengeance,2010,4/2/10,92,35000000,3.8,23,15607,36236710,"Comedy, Family",en,PG,0,0
+424,tt0464154,Piranha 3D,2010,8/20/10,88,24000000,5.4,53,85384,83188165,"Comedy, Horror",en,R,0,0
+425,tt0411951,Tekken,2010,3/20/10,92,30000000,4.8,,26015,967000,"Action, Crime, Drama",en,R,0,0
+426,tt1467304,The Human Centipede (First Sequence),2009,4/26/09,92,2011799,4.4,33,72489,252207,Horror,en,R,0,0
+427,tt1373215,Recep Ivedik 2,2009,2/13/09,107,0,4.2,,18787,27699692,Comedy,tr,-,0,0
+428,tt1314228,Did You Hear About the Morgans?,2009,12/17/09,103,58000000,4.8,27,37529,85280250,"Comedy, Drama, Romance",en,PG-13,0,0
+429,tt1311067,Halloween II,2009,8/28/09,105,10000000,4.9,35,48277,0,Horror,en,R,0,0
+430,tt1300853,Green Street Hooligans 2,2009,3/23/09,94,8000000,4.8,,13541,0,"Crime, Drama, Sport",en,Not Rated,0,0
+431,tt1288403,Universal Soldier: Regeneration,2009,10/1/09,97,14000000,5.2,70,24499,875386,"Action, Adventure, Sci-Fi",en,R,0,0
+432,tt1259571,The Twilight Saga: New Moon,2009,11/18/09,130,50000000,4.7,44,263327,709827462,"Drama, Fantasy, Romance",en,PG-13,0,0
+433,tt1235448,The Thaw,2009,1/1/09,94,0,5.2,,11314,0,"Horror, Sci-Fi",en,R,0,0
+434,tt1232783,Sorority Row,2009,9/9/09,101,12500000,5.1,24,28487,27206120,"Horror, Mystery",en,R,0,0
+435,tt1231580,Alvin and the Chipmunks: The Squeakquel,2009,12/21/09,88,75000000,4.5,41,43103,443140005,"Animation, Adventure, Comedy",en,PG,0,0
+436,tt1231287,Labor Pains,2009,7/19/09,89,10000000,4.8,,10767,1895782,"Comedy, Romance",en,PG-13,0,0
+437,tt1231277,S. Darko,2009,4/28/09,103,4000000,3.6,,13157,4100000,"Drama, Mystery, Sci-Fi",en,R,0,0
+438,tt1212974,Bitch Slap,2009,5/16/09,109,0,4.4,19,13356,199436,"Action, Comedy, Crime",en,R,0,0
+439,tt1198138,Obsessed,2009,4/24/09,108,20000000,5,25,29339,73830340,"Drama, Romance, Thriller",en,PG-13,0,0
+440,tt1185266,Stan Helsing,2009,10/27/09,108,108,3.6,,12508,0,"Comedy, Horror",en,R,0,0
+441,tt1179891,My Bloody Valentine,2009,1/16/09,101,15000000,5.4,51,53309,102836002,"Horror, Mystery, Thriller",en,R,0,0
+442,tt1153706,Dance Flick,2009,5/22/09,83,25,3.5,40,11663,32,"Action, Comedy, Music",en,PG-13,0,0
+443,tt1151922,Miss March,2009,3/13/09,90,0,5,7,20606,0,"Comedy, Romance",en,R,0,0
+444,tt1144884,The Final Destination,2009,8/26/09,82,40000000,5.2,30,96029,186167139,"Action, Fantasy, Horror",en,R,0,0
+445,tt1142800,Madea Goes to Jail,2009,2/16/09,103,0,4.5,50,11275,90508336,"Comedy, Crime, Drama",en,PG-13,0,0
+446,tt1142433,Post Grad,2009,8/21/09,88,15000000,5.3,35,13615,6414729,"Comedy, Romance",en,PG-13,0,0
+447,tt1139668,The Unborn,2009,1/9/09,88,16000000,4.8,30,49205,76514050,"Drama, Horror, Mystery",en,PG-13,0,0
+448,tt1134854,Survival of the Dead,2009,5/6/10,90,4000000,4.9,43,20205,0,"Comedy, Drama, Horror",en,R,0,0
+449,tt1131734,Jennifer's Body,2009,9/18/09,102,16000000,5.2,47,114779,31556061,"Comedy, Horror",en,R,0,0
+450,tt1114740,Paul Blart: Mall Cop,2009,1/15/09,91,26000000,5.2,39,102027,183293131,"Action, Comedy, Crime",en,PG,0,0
+451,tt1114677,Hannah Montana: The Movie,2009,4/10/09,102,35000000,4.5,47,39326,155545279,"Comedy, Drama, Family",en,G,0,0
+452,tt1098327,Dragonball Evolution,2009,3/12/09,85,100000000,2.5,45,69709,57497699,"Action, Adventure, Fantasy",en,PG,0,0
+453,tt1078940,Couples Retreat,2009,9/19/09,113,70000000,5.5,23,100728,171844840,Comedy,en,PG-13,0,0
+454,tt1053859,The Grudge 3,2009,5/12/09,90,5000000,4.7,,17302,38610009,"Horror, Mystery, Thriller",en,R,0,0
+455,tt1045778,Year One,2009,6/18/09,97,60000000,4.9,34,91193,62357900,Comedy,en,PG-13,0,0
+456,tt1032815,"I Love You, Beth Cooper",2009,7/10/09,102,18000000,5.3,32,33215,15345201,"Comedy, Romance",en,PG-13,0,0
+457,tt1020885,Vampire Killers,2009,3/16/09,86,0,5.1,,19424,0,"Action, Comedy, Fantasy",en,R,0,0
+458,tt1016075,Fame,2009,1/1/09,107,0,5.1,39,15886,0,"Comedy, Drama, Musical",en,PG,0,0
+459,tt0976238,Old Dogs,2009,11/24/09,88,35000000,5.4,19,36093,96753696,"Comedy, Family",en,PG,0,0
+460,tt0961722,Cabin Fever 2: Spring Fever,2009,8/11/09,86,5000000,4.3,,12813,0,Horror,en,R,0,0
+461,tt0951335,The New Daughter,2009,12/18/09,108,0,5.3,,14120,0,"Horror, Thriller",en,PG-13,0,0
+462,tt0901476,Bride Wars,2009,1/9/09,89,30000000,5.5,24,99556,114663461,"Comedy, Romance",en,PG,0,0
+463,tt0891592,Street Fighter: The Legend of Chun-Li,2009,2/27/09,96,50000000,3.7,17,22860,12764201,"Action, Crime, Thriller",en,PG-13,0,0
+464,tt0881891,All About Steve,2009,3/19/09,99,15000000,4.8,17,39434,40105542,"Comedy, Romance",en,PG-13,0,0
+465,tt0806027,Blood: The Last Vampire,2009,4/2/09,91,30000000,5.3,28,14386,5874530,"Action, Adventure, Fantasy",en,R,0,0
+466,tt0785006,Hotel for Dogs,2009,1/16/09,100,35000000,5.4,51,21470,117000198,"Comedy, Family",en,PG,0,0
+467,tt0775552,Aliens in the Attic,2009,7/31/09,86,45000000,5.4,42,20587,57881056,"Adventure, Comedy, Family",en,PG,0,0
+468,tt0758746,Friday the 13th,2009,2/11/09,97,19000000,5.5,34,96951,91379051,"Horror, Mystery, Thriller",en,R,0,0
+469,tt0457400,Land of the Lost,2009,6/5/09,102,100000000,5.3,32,65364,68688831,"Action, Adventure, Comedy",en,PG-13,0,0
+470,tt0450336,Blood Creek,2009,10/9/09,90,0,5.3,,11458,0,"Action, Fantasy, Horror",en,R,0,0
+471,tt0436339,G-Force,2009,7/21/09,88,150000000,5.1,41,42297,292817841,"Animation, Action, Adventure",en,PG,0,0
+472,tt0365929,Whiteout,2009,9/9/09,101,40000000,5.5,,37080,17976667,"Action, Crime, Thriller",en,R,0,0
+473,tt0362478,The Box,2009,9/17/09,115,30000000,5.6,47,88431,33333531,"Drama, Fantasy, Mystery",en,PG-13,0,0
+474,tt1213644,Disaster Movie,2008,8/29/08,87,25000000,1.9,15,86617,14109284,Comedy,en,PG-13,0,0
+475,tt1193516,Recep Ivedik,2008,2/22/08,90,500000,4.6,,24041,28548025,Comedy,tr,-,0,0
+476,tt1099212,Twilight,2008,11/20/08,122,37000000,5.2,56,422359,393616788,"Drama, Fantasy, Romance",en,PG-13,0,0
+477,tt1073498,Meet the Spartans,2008,1/24/08,87,30000000,2.8,9,101019,84646831,Comedy,en,PG-13,0,0
+478,tt1014775,Beverly Hills Chihuahua,2008,10/3/08,91,20000000,3.8,41,22648,149281606,"Adventure, Comedy, Drama",en,PG,0,0
+479,tt0997047,College Road Trip,2008,3/7/08,83,25000000,4.3,36,15264,51549674,"Adventure, Comedy, Drama",en,G,0,0
+480,tt0988849,Donkey Punch,2008,7/18/08,99,0,5.1,43,10468,0,"Crime, Drama, Horror",en,R,0,0
+481,tt0970416,The Day the Earth Stood Still,2008,12/10/08,104,80000000,5.5,40,162492,233093859,"Drama, Sci-Fi, Thriller",en,PG-13,0,0
+482,tt0962726,High School Musical 3,2008,10/11/08,112,11000000,4.8,57,57261,252909177,"Comedy, Drama, Family",en,G,0,0
+483,tt0960890,Zombie Strippers!,2008,4/18/08,94,0,4.1,45,17554,0,"Comedy, Horror, Sci-Fi",en,R,0,0
+484,tt0960144,You Don't Mess with the Zohan,2008,6/5/08,113,90000000,5.5,54,189236,201596308,Comedy,en,PG-13,0,0
+485,tt0949731,The Happening,2008,6/11/08,91,60000000,5,34,194316,163403799,"Drama, Mystery, Sci-Fi",en,R,0,0
+486,tt0926129,Prom Night,2008,4/10/08,88,0,3.9,17,33669,14796236,"Horror, Mystery",en,PG-13,0,0
+487,tt0865554,The Informers,2008,11/5/08,98,18000000,5,20,15892,382174,"Crime, Drama, Thriller",en,R,0,0
+488,tt0859163,The Mummy: Tomb of the Dragon Emperor,2008,7/1/08,112,145000000,5.2,31,149623,403449830,"Action, Adventure, Fantasy",en,PG-13,0,0
+489,tt0852713,The House Bunny,2008,8/22/08,97,25000000,5.5,55,78735,70442940,"Comedy, Romance",en,PG-13,0,0
+490,tt0844671,College,2008,8/28/08,94,7000000,4.6,15,12033,6230276,Comedy,en,R,0,0
+491,tt0831887,The Spirit,2008,12/25/08,103,60000000,4.8,30,59188,39031337,"Action, Crime, Fantasy",en,PG-13,0,0
+492,tt0814022,Bangkok Dangerous,2008,8/21/08,99,45000000,5.4,24,54700,42487390,"Action, Crime, Thriller",en,R,0,0
+493,tt0811138,The Love Guru,2008,6/20/08,87,62000000,3.8,24,50094,40854735,"Comedy, Romance, Sport",en,PG-13,0,0
+494,tt0806147,Extreme Movie,2008,12/5/08,86,0,3.7,,10626,54822,Comedy,en,R,0,0
+495,tt0804492,The Hottie & the Nottie,2008,2/8/08,91,0,1.9,7,36027,0,"Comedy, Romance",en,PG-13,0,0
+496,tt0785007,Over Her Dead Body,2008,2/1/08,95,10000000,5.2,30,23707,0,"Comedy, Fantasy, Romance",en,PG-13,0,0
+497,tt0780534,My Mom's New Boyfriend,2008,4/30/08,97,0,5.3,,10981,0,"Comedy, Crime, Romance",en,PG-13,0,0
+498,tt0765476,Meet Dave,2008,7/8/08,90,60000000,5,43,38164,50650079,"Adventure, Comedy, Family",en,PG,0,0
+499,tt0490181,Mutant Chronicles,2008,8/7/08,111,8000000,5.2,,25518,2131057,"Action, Adventure, Mystery",en,R,0,0
+500,tt0489282,Strange Wilderness,2008,2/1/08,87,0,5.3,12,20839,6575282,"Adventure, Comedy",en,R,0,0
+501,tt0482603,Space Chimps,2008,7/17/08,81,37000000,4.5,36,10719,64762724,"Animation, Adventure, Comedy",en,G,0,0
+502,tt0482599,Shutter,2008,3/21/08,85,0,5.2,37,32196,0,"Horror, Mystery, Thriller",en,PG-13,0,0
+503,tt0479968,One Missed Call,2008,1/4/08,87,20000,4,24,30740,26890,"Horror, Mystery",en,PG-13,0,0
+504,tt0476958,Amusement,2008,10/9/08,85,6000000,4.9,,11092,0,"Action, Comedy, Crime",en,R,0,0
+505,tt0467197,Max Payne,2008,10/15/08,100,35000000,5.4,31,121354,85416905,"Action, Crime, Drama",en,PG-13,0,0
+506,tt0463872,Asterix at the Olympic Games,2008,1/13/08,116,97250400,5.2,,27392,132900000,"Adventure, Comedy, Family",fr,Not Rated,0,0
+507,tt0443649,"10,000 BC",2008,2/22/08,109,105000000,5.1,34,124903,266000000,"Action, Adventure, Drama",en,PG-13,0,0
+508,tt0430770,The Women,2008,9/12/08,114,16000000,5,27,20338,50007546,"Comedy, Drama",en,PG-13,0,0
+509,tt0426592,Superhero Movie,2008,3/27/08,75,35000000,4.5,33,63159,25871834,"Action, Comedy, Sci-Fi",en,PG-13,0,0
+510,tt0411475,Hell Ride,2008,8/8/08,84,0,5.1,25,15347,194287,"Action, Drama, Thriller",en,R,0,0
+511,tt0406759,The Eye,2008,2/1/08,98,12000000,5.4,36,51178,56309766,"Drama, Horror, Mystery",en,PG-13,0,0
+512,tt0400426,Far Cry,2008,10/2/08,95,30000000,3.1,,13220,743,"Action, Adventure, Sci-Fi",en,R,0,0
+513,tt0952640,Alvin and the Chipmunks,2007,12/13/07,92,60000000,5.2,39,75728,361366633,"Animation, Adventure, Comedy",en,PG,0,0
+514,tt0897361,I Know Who Killed Me,2007,7/27/07,105,12000000,3.6,16,25831,9620399,"Crime, Drama, Mystery",en,R,0,0
+515,tt0811106,The Ten,2007,8/3/07,96,0,5,50,16240,0,"Comedy, Romance",en,R,0,0
+516,tt0804452,Bratz,2007,8/3/07,110,0,3.1,21,17654,0,"Comedy, Family, Music",en,PG,0,0
+517,tt0800069,The Hills Have Eyes 2,2007,3/22/07,89,15000000,5.1,32,60280,0,"Adventure, Horror, Thriller",en,R,0,0
+518,tt0800003,Delta Farce,2007,5/11/07,90,12,3.6,17,10620,0,"Action, Adventure, Comedy",en,PG-13,0,0
+519,tt0799949,Epic Movie,2007,1/25/07,86,20000000,2.4,17,101286,86865564,"Adventure, Comedy",en,PG-13,0,0
+520,tt0790804,The Comebacks,2007,10/19/07,84,15000000,4.3,25,10951,0,"Comedy, Sport",en,PG-13,0,0
+521,tt0785077,Who's Your Caddy?,2007,7/27/07,93,0,2.2,18,14503,0,"Comedy, Sport",en,PG-13,0,0
+522,tt0784972,The Brothers Solomon,2007,9/7/07,93,0,5.3,32,10482,0,Comedy,en,R,0,0
+523,tt0780622,Teeth,2007,1/18/08,94,2000000,5.4,57,41275,2340110,"Comedy, Fantasy, Horror",en,R,0,0
+524,tt0775539,Stomp the Yard,2007,5/16/07,115,13000000,5.4,44,21645,75511123,"Drama, Music, Romance",en,PG-13,0,0
+525,tt0772193,Primeval,2007,1/12/07,93,0,4.8,35,12825,10597734,"Action, Adventure, Crime",en,R,0,0
+526,tt0762114,License to Wed,2007,7/4/07,91,35000000,5.3,25,37719,69307224,"Comedy, Romance",en,PG-13,0,0
+527,tt0758730,Aliens vs. Predator: Requiem,2007,12/25/07,94,40000000,4.7,29,115110,130290885,"Action, Adventure, Fantasy",en,R,0,0
+528,tt0498353,Hostel: Part II,2007,6/8/07,94,10200000,5.5,46,84806,35728183,"Horror, Thriller",en,R,0,0
+529,tt0492486,Shrooms,2007,8/16/07,84,0,4.7,,15892,4910682,"Comedy, Horror, Mystery",en,Not Rated,0,0
+530,tt0486640,Postal,2007,8/11/07,100,0,4.5,22,22185,0,"Action, Comedy, Crime",en,R,0,0
+531,tt0486576,Fantastic 4: Rise of the Silver Surfer,2007,6/13/07,92,130000000,5.6,45,249040,301913131,"Action, Adventure, Fantasy",en,PG,0,0
+532,tt0484562,The Seeker: The Dark Is Rising,2007,10/5/07,99,45000000,4.8,38,14707,31852619,"Adventure, Drama, Family",en,PG,0,0
+533,tt0477051,Norbit,2007,2/8/07,102,10000000,4.1,27,67853,159313561,"Comedy, Romance",en,PG-13,0,0
+534,tt0467110,Underdog,2007,8/3/07,84,25000000,4.7,37,19487,65270477,"Action, Adventure, Comedy",en,PG,0,0
+535,tt0462396,The Last Legion,2007,4/19/07,101,67000000,5.4,37,33951,25303038,"Action, Adventure, War",en,PG-13,0,0
+536,tt0462244,Daddy Day Camp,2007,8/8/07,93,6000000,3.1,13,15549,18197398,"Comedy, Family",en,PG,0,0
+537,tt0462229,Code Name: The Cleaner,2007,1/5/07,84,20000000,4.6,33,11192,10337477,"Action, Comedy, Crime",en,PG-13,0,0
+538,tt0460780,In the Name of the King: A Dungeon Siege Tale,2007,11/29/07,127,60000000,3.8,15,44099,0,"Action, Adventure, Fantasy",en,PG-13,0,0
+539,tt0446013,Pathfinder,2007,1/11/07,99,45000000,5.4,29,42362,30822861,"Action, Adventure, Drama",en,R,0,0
+540,tt0425430,The Messengers,2007,2/2/07,90,16000000,5.4,34,38133,55060212,"Drama, Horror, Thriller",en,PG-13,0,0
+541,tt0424823,Balls of Fury,2007,8/29/07,90,0,5.3,38,40496,41098065,"Comedy, Crime, Sport",en,PG-13,0,0
+542,tt0422774,Are We Done Yet?,2007,4/4/07,92,0,4.2,36,19466,58400000,"Comedy, Family, Fantasy",en,PG,0,0
+543,tt0419984,Mr. Woodcock,2007,9/14/07,87,22000000,5.1,41,34847,0,"Comedy, Romance, Sport",en,PG-13,0,0
+544,tt0413099,Evan Almighty,2007,6/9/07,96,175000000,5.4,37,138134,173000000,"Comedy, Family, Fantasy",en,PG,0,0
+545,tt0397044,Blood and Chocolate,2007,1/26/07,98,0,5.5,33,17143,0,"Drama, Fantasy, Horror",en,PG-13,0,0
+546,tt0389328,Rise: Blood Hunter,2007,4/28/07,97,0,4.9,,11323,2850927,"Action, Crime, Horror",en,R,0,0
+547,tt0374563,Captivity,2007,3/9/07,96,17000000,4.7,24,22478,10921200,"Crime, Horror, Mystery",en,R,0,0
+548,tt0372873,Dragon Wars: D-War,2007,2/8/07,107,32000000,3.5,33,23597,75108998,"Action, Drama, Fantasy",ko,PG-13,0,0
+549,tt0259324,Ghost Rider,2007,2/16/07,110,110000000,5.2,35,221592,228738393,"Action, Fantasy, Thriller",en,PG-13,0,0
+550,tt0808240,Turks in Space,2006,12/14/06,110,5000000,1.6,,15603,0,"Action, Comedy, Sci-Fi",tr,Not Rated,0,0
+551,tt0790604,Deck the Halls,2006,11/22/06,93,51000000,5,28,22182,47231070,"Comedy, Family",en,PG,0,0
+552,tt0490076,All the Boys Love Mandy Lane,2006,9/9/06,90,750000,5.5,44,31209,0,Horror,en,R,0,0
+553,tt0488658,Unaccompanied Minors,2006,12/8/06,90,26000000,5.3,43,10289,0,"Adventure, Comedy, Family",en,PG,0,0
+554,tt0480271,Van Wilder 2: The Rise of Taj,2006,12/1/06,97,0,4.9,21,22152,6086508,"Comedy, Romance",en,R,0,0
+555,tt0475944,The Covenant,2006,9/8/06,97,20000000,5.3,19,46528,37597471,"Action, Adventure, Fantasy",en,PG-13,0,0
+556,tt0470055,Open Water 2: Adrift,2006,7/10/06,94,1200000,5.2,,17547,0,"Adventure, Drama, Horror",en,R,0,0
+557,tt0466909,The Omen,2006,6/6/06,110,25000000,5.5,43,55956,119188334,"Action, Adventure, Fantasy",en,R,0,0
+558,tt0466342,Date Movie,2006,2/17/06,83,20000000,2.8,11,56876,48548426,"Comedy, Romance",en,PG-13,0,0
+559,tt0465624,My Super Ex-Girlfriend,2006,6/20/06,96,0,5.1,50,61335,60896147,"Comedy, Romance, Sci-Fi",en,PG-13,0,0
+560,tt0465142,American Dreamz,2006,3/4/06,107,17000000,5.4,45,24142,7314027,"Comedy, Music",en,PG-13,0,0
+561,tt0462395,Larry the Cable Guy: Health Inspector,2006,3/24/06,89,0,3.3,21,10417,0,"Comedy, Romance",en,PG-13,0,0
+562,tt0461703,Skinwalkers,2006,3/20/06,110,0,4.6,33,12909,0,"Action, Fantasy, Horror",en,R,0,0
+563,tt0457495,Alex Rider: Operation Stormbreaker,2006,7/21/06,93,40000000,5.1,42,23346,23937870,"Action, Adventure, Family",en,PG,0,0
+564,tt0457297,The Butterfly Effect 2,2006,8/17/06,92,6000000,4.5,,34220,0,"Drama, Sci-Fi, Thriller",en,R,0,0
+565,tt0455857,When a Stranger Calls,2006,2/3/06,87,15000000,5.1,27,42904,66966987,"Horror, Thriller",en,PG-13,0,0
+566,tt0455612,Madea's Family Reunion,2006,2/24/06,107,6000000,5.2,45,10512,57231524,"Comedy, Drama, Romance",en,PG-13,0,0
+567,tt0455499,Garfield: A Tail of Two Kitties,2006,6/15/06,82,60000000,5,37,38475,141702264,"Animation, Adventure, Comedy",en,PG,0,0
+568,tt0455362,The Breed,2006,5/17/06,91,0,5.1,,12398,1675484,"Action, Comedy, Horror",en,R,0,0
+569,tt0454970,Turistas,2006,12/1/06,93,10000000,5.4,36,35818,0,"Horror, Mystery, Thriller",pt,R,0,0
+570,tt0454919,Pulse,2006,8/11/06,90,38000000,4.8,27,27913,29907685,"Horror, Sci-Fi, Thriller",en,PG-13,0,0
+571,tt0454082,Black Christmas,2006,12/15/06,95,9000000,4.6,22,24606,21510851,Horror,en,R,0,0
+572,tt0452681,The Santa Clause 3: The Escape Clause,2006,11/1/06,97,12000000,4.7,32,31893,84500122,"Adventure, Comedy, Family",en,G,0,0
+573,tt0452637,Lady in the Water,2006,7/20/06,110,70000000,5.5,36,94252,72785169,"Drama, Fantasy, Mystery",en,PG-13,0,0
+574,tt0450345,The Wicker Man,2006,8/31/06,102,40000000,3.7,36,63794,38755073,"Horror, Mystery, Thriller",en,PG-13,0,0
+575,tt0449089,RV,2006,4/28/06,99,50000000,5.5,33,55907,87528173,"Adventure, Comedy, Family",en,PG,0,0
+576,tt0449010,Eragon,2006,12/14/06,104,100000000,5.1,38,121244,249288105,"Action, Adventure, Family",en,PG,0,0
+577,tt0441796,Stay Alive,2006,3/24/06,85,9000000,5.1,24,30213,27105095,"Fantasy, Horror, Mystery",en,PG-13,0,0
+578,tt0437863,The Benchwarmers,2006,4/7/06,85,0,5.5,25,47943,0,"Comedy, Sport",en,PG-13,0,0
+579,tt0437179,See No Evil,2006,5/19/06,84,8000000,5.1,17,25683,18564467,"Action, Horror, Thriller",en,R,0,0
+580,tt0433442,The Return,2006,11/10/06,85,15000000,4.7,38,11419,11992014,"Horror, Mystery, Thriller",en,PG-13,0,0
+581,tt0433412,Material Girls,2006,8/18/06,98,0,4,17,21423,11449638,"Comedy, Family, Romance",en,PG,0,0
+582,tt0433386,The Grudge 2,2006,10/13/06,102,20000000,5.1,33,46973,39143839,"Horror, Thriller",en,PG-13,0,0
+583,tt0430912,Basic Instinct 2,2006,3/29/06,114,70000000,4.4,26,37065,38629478,"Drama, Mystery, Thriller",en,R,0,0
+584,tt0430304,Little Man,2006,8/31/06,98,64000000,4.4,26,49936,101595121,"Comedy, Crime",en,PG-13,0,0
+585,tt0429591,Aquamarine,2006,3/3/06,110,12000000,5.3,51,37584,23006849,"Comedy, Family, Fantasy",en,PG,0,0
+586,tt0424993,Employee of the Month,2006,10/6/06,103,12000000,5.5,36,44572,38368909,"Comedy, Romance",en,PG-13,0,0
+587,tt0421729,Big Momma's House 2,2006,1/26/06,99,40000000,4.7,34,40223,138259062,"Comedy, Crime",en,PG-13,0,0
+588,tt0419946,The Marine,2006,10/13/06,92,20000000,4.7,45,32160,22165608,"Action, Comedy, Drama",en,PG-13,0,0
+589,tt0417148,Snakes on a Plane,2006,8/6/06,105,33000000,5.4,58,131040,62022014,"Action, Adventure, Crime",en,R,0,0
+590,tt0417056,Pledge This!,2006,12/1/06,91,8300000,1.8,,16740,0,Comedy,en,R,0,0
+591,tt0405469,The Wild,2006,3/6/06,82,80000000,5.3,47,23823,37384046,"Animation, Adventure, Comedy",en,G,0,0
+592,tt0405336,Southland Tales,2006,5/15/06,145,17000000,5.4,44,36913,374743,"Comedy, Drama, Mystery",en,R,0,0
+593,tt0398913,DOA: Dead or Alive,2006,8/23/06,87,21000000,4.8,38,42901,7563172,"Action, Adventure, Mystery",en,PG-13,0,0
+594,tt0397078,Just My Luck,2006,2/28/06,103,28000000,5.4,29,53308,38159905,"Comedy, Fantasy, Romance",en,PG-13,0,0
+595,tt0393735,The Shaggy Dog,2006,3/9/06,98,50000000,4.4,43,18084,61112916,"Comedy, Family, Fantasy",en,PG,0,0
+596,tt0383060,Zoom,2006,8/11/06,83,75600000,4.4,26,18753,12506188,"Action, Adventure, Comedy",en,PG,0,0
+597,tt0370032,Ultraviolet,2006,3/3/06,88,30000000,4.4,18,79065,31070211,"Action, Sci-Fi",en,PG-13,0,0
+598,tt0362120,Scary Movie 4,2006,4/12/06,83,45000000,5.1,40,112848,178262620,"Comedy, Horror",en,PG-13,0,0
+599,tt0349467,Freedomland,2006,2/17/06,113,37665000,5.1,43,15341,14655628,"Crime, Drama, Mystery",en,R,0,0
+600,tt0308353,Happily N'Ever After,2006,1/5/07,87,47000000,4.5,28,10017,38085778,"Animation, Adventure, Comedy",en,PG,0,0
+601,tt0452598,Cheaper by the Dozen 2,2005,12/21/05,94,60000000,5.5,34,54186,129181830,"Adventure, Comedy, Family",en,PG,0,0
+602,tt0449086,Dominion,2005,5/20/05,117,30000000,5.2,55,10443,251495,"Drama, Horror, Thriller",en,R,0,0
+603,tt0443295,"Yours, Mine & Ours",2005,11/23/05,88,45000000,5.5,38,26496,72028752,"Comedy, Family, Fantasy",en,PG,0,0
+604,tt0432291,The Fog,2005,10/14/05,100,18000000,3.7,27,34824,46201432,"Horror, Mystery",en,PG-13,0,0
+605,tt0430308,Get Rich or Die Tryin',2005,11/9/05,117,40000000,5.4,45,43728,46442528,"Biography, Crime, Drama",en,R,0,0
+606,tt0429573,An American Haunting,2005,5/5/05,83,14000000,5.1,38,24672,29612137,"Drama, History, Horror",en,PG-13,0,0
+607,tt0424774,The Adventures of Sharkboy and Lavagirl 3-D,2005,6/10/05,93,50000000,3.6,38,31464,69425966,"Action, Adventure, Comedy",en,PG,0,0
+608,tt0419706,Doom,2005,10/20/05,105,60000000,5.2,34,106295,58072119,"Action, Horror, Sci-Fi",en,R,0,0
+609,tt0418832,Lie with Me,2005,9/10/05,93,2200000,5.3,,14250,0,"Drama, Romance",en,Not Rated,0,0
+610,tt0409011,Lovewrecked,2005,11/1/05,87,0,4.8,,13983,0,"Adventure, Comedy, Romance",en,PG,0,0
+611,tt0402901,The Cave,2005,8/26/05,97,30000000,5.1,30,35102,15007991,"Action, Adventure, Horror",en,PG-13,0,0
+612,tt0402022,Æon Flux,2005,11/30/05,93,62000000,5.5,36,123435,53321673,"Action, Adventure, Sci-Fi",en,PG-13,0,0
+613,tt0400497,Herbie Fully Loaded,2005,6/22/05,101,50000000,4.8,47,44727,66002004,"Adventure, Comedy, Family",en,G,0,0
+614,tt0398375,Rumor Has It...,2005,12/22/05,97,70000000,5.5,35,53417,88933562,"Comedy, Drama, Romance",en,PG-13,0,0
+615,tt0397065,House of Wax,2005,4/30/05,113,40000000,5.3,41,114759,68766121,"Horror, Thriller",en,R,0,0
+616,tt0389957,Edison,2005,7/29/05,99,25000000,5.3,,14711,4165675,"Action, Crime, Drama",en,R,0,0
+617,tt0385307,Miss Congeniality 2: Armed & Fabulous,2005,3/11/05,115,0,5.1,34,68889,101393569,"Action, Comedy, Crime",en,PG-13,0,0
+618,tt0383222,BloodRayne,2005,10/22/05,95,25000000,2.9,18,33997,3650275,"Action, Fantasy, Horror",en,R,0,0
+619,tt0382992,Stealth,2005,7/27/05,121,135000000,5.1,35,51585,76932943,"Action, Adventure, Sci-Fi",en,PG-13,0,0
+620,tt0380623,The Perfect Man,2005,6/17/05,100,0,5.5,27,28098,0,"Comedy, Family, Romance",en,PG,0,0
+621,tt0377818,The Dukes of Hazzard,2005,8/5/05,104,50000000,5.1,33,75232,110803676,Comedy,en,PG-13,0,0
+622,tt0377109,The Ring Two,2005,3/17/05,110,50000000,5.4,44,90767,161451538,"Horror, Mystery",en,PG-13,0,0
+623,tt0376108,Rebound,2005,7/1/05,86,45000000,5.2,36,12303,16809014,"Comedy, Family, Sport",en,PG,0,0
+624,tt0376105,Racing Stripes,2005,1/6/05,102,30000000,5.2,43,15868,90754475,"Adventure, Comedy, Drama",en,PG,0,0
+625,tt0375210,White Noise,2005,1/7/05,101,10000000,5.5,30,46931,91196419,"Drama, Horror, Mystery",en,PG-13,0,0
+626,tt0374536,Bewitched,2005,6/21/05,102,85000000,4.8,34,68714,131426169,"Comedy, Fantasy, Romance",en,PG-13,0,0
+627,tt0369226,Alone in the Dark,2005,1/28/05,96,20000000,2.4,9,41531,10442808,"Action, Horror, Sci-Fi",en,R,0,0
+628,tt0368578,Are We There Yet?,2005,1/20/05,95,32000000,4.7,27,29083,97918663,"Adventure, Comedy, Family",en,PG,0,0
+629,tt0367652,Deuce Bigalow: European Gigolo,2005,8/12/05,83,22000000,4.7,23,48231,22400154,Comedy,en,R,0,0
+630,tt0362165,Son of the Mask,2005,2/18/05,94,84000000,2.2,20,52044,0,"Comedy, Family, Fantasy",en,PG,0,0
+631,tt0357507,Boogeyman,2005,2/4/05,89,20000000,4.2,32,29533,67192859,"Drama, Horror, Mystery",en,PG-13,0,0
+632,tt0357277,Elektra,2005,1/13/05,97,43000000,4.7,34,86665,56681566,"Action, Adventure, Crime",en,PG-13,0,0
+633,tt0331933,Man of the House,2005,2/25/05,100,40000000,5.4,35,22730,21577624,"Comedy, Crime",en,PG-13,0,0
+634,tt0329774,xXx: State of the Union,2005,4/27/05,101,60000000,4.5,37,66825,71073932,"Action, Adventure, Crime",en,PG-13,0,0
+635,tt0318081,A Sound of Thunder,2005,5/15/05,110,80000000,4.2,24,18785,5989640,"Action, Adventure, Horror",en,PG-13,0,0
+636,tt0264323,2001 Maniacs,2005,5/12/05,87,3000000,5.3,,11939,0,"Comedy, Horror",en,R,0,0
+637,tt0257516,Cursed,2005,2/25/05,97,35000000,5,31,30316,19294901,"Comedy, Horror",en,PG-13,0,0
+638,tt0421051,Daniel the Wizard,2004,8/12/04,81,0,1.8,,13824,0,"Comedy, Crime, Fantasy",de,Not Rated,0,0
+639,tt0411705,9 Songs,2004,5/16/04,71,1000000,4.8,43,21335,1574623,"Drama, Music, Romance",en,Not Rated,0,0
+640,tt0396592,Fat Albert,2004,12/12/04,93,26000000,4.3,39,11193,48563556,"Animation, Comedy, Family",en,PG,0,0
+641,tt0388419,Christmas with the Kranks,2004,11/24/04,99,60000000,5.4,22,41421,0,"Comedy, Family",en,PG,0,0
+642,tt0387575,Seed of Chucky,2004,11/11/04,87,12000000,4.8,46,38451,24829644,"Comedy, Fantasy, Horror",en,R,0,0
+643,tt0368975,Sleepover,2004,7/9/04,89,0,5.4,33,15276,0,"Comedy, Family, Romance",en,PG,0,0
+644,tt0367631,D.E.B.S.,2004,1/21/04,91,3500000,5.3,42,14693,0,"Action, Comedy, Romance",en,PG-13,0,0
+645,tt0367085,Soul Plane,2004,5/28/04,86,16000000,4.5,33,21531,14822346,Comedy,en,R,0,0
+646,tt0366174,Anacondas: The Hunt for the Blood Orchid,2004,8/26/04,97,0,4.7,40,28821,0,"Action, Adventure, Horror",en,PG-13,0,0
+647,tt0365957,You Got Served,2004,1/30/04,95,0,3.9,37,25780,0,"Drama, Music",en,PG-13,0,0
+648,tt0365125,A Dirty Shame,2004,9/12/04,89,15000000,5.1,56,12134,1914166,Comedy,en,NC-17,0,0
+649,tt0363282,New York Minute,2004,5/7/04,91,30000000,5,33,21609,23400000,"Comedy, Crime, Family",en,PG,0,0
+650,tt0361925,Welcome to Mooseport,2004,2/24/04,110,30000000,5.2,33,12100,14000000,"Comedy, Romance",en,PG-13,0,0
+651,tt0361841,Little Black Book,2004,8/6/04,107,35000000,5.3,36,17250,22034832,"Comedy, Romance, Drama",en,PG-13,0,0
+652,tt0361620,First Daughter,2004,9/24/04,106,30000000,5.1,31,20879,0,"Comedy, Drama, Romance",en,PG,0,0
+653,tt0361467,Confessions of a Teenage Drama Queen,2004,2/17/04,89,15000000,4.7,33,27278,29331068,"Comedy, Family, Music",en,PG,0,0
+654,tt0358349,Agent Cody Banks 2: Destination London,2004,3/12/04,100,26000000,4.6,32,13947,28818995,"Action, Adventure, Comedy",en,PG,0,0
+655,tt0356634,Garfield,2004,6/10/04,80,50000000,5,27,78431,200804534,"Animation, Comedy, Family",en,PG,0,0
+656,tt0335121,Godsend,2004,4/30/04,102,25000000,4.8,24,24754,30120671,"Drama, Fantasy, Horror",en,PG-13,0,0
+657,tt0331632,Scooby-Doo 2: Monsters Unleashed,2004,3/24/04,93,0,5.1,34,49238,181466833,"Adventure, Comedy, Family",en,PG,0,0
+658,tt0329691,Torque,2004,1/16/04,84,40000000,4.1,41,26895,46546197,"Action, Comedy, Crime",en,PG-13,0,0
+659,tt0327554,Catwoman,2004,7/22/04,104,100000000,3.4,27,109877,82102379,"Action, Crime, Fantasy",en,PG-13,0,0
+660,tt0327247,The Whole Ten Yards,2004,4/7/04,98,40000000,5.5,24,53731,26155781,"Comedy, Crime, Thriller",en,PG-13,0,0
+661,tt0327162,The Stepford Wives,2004,6/10/04,93,90000000,5.3,42,60359,102000000,"Comedy, Horror, Sci-Fi",en,PG-13,0,0
+662,tt0326856,Envy,2004,4/30/04,99,40000000,4.8,31,29720,0,Comedy,en,PG-13,0,0
+663,tt0316732,Taxi,2004,10/6/04,97,25000000,4.5,27,39782,71255003,"Action, Comedy, Crime",en,PG-13,0,0
+664,tt0315824,The Big Bounce,2004,1/30/04,88,50000000,4.9,42,17572,6808550,"Comedy, Crime",en,PG-13,0,0
+665,tt0315297,Twisted,2004,2/27/04,97,50000000,5.3,26,20273,25195000,"Crime, Drama, Mystery",en,R,0,0
+666,tt0299172,Home on the Range,2004,4/2/04,76,110000000,5.4,50,20121,103951461,"Animation, Adventure, Comedy",en,PG,0,0
+667,tt0276830,Renegade,2004,2/9/04,124,53000000,5.2,,10276,0,"Adventure, Western",en,R,0,0
+668,tt0270846,Superbabies: Baby Geniuses 2,2004,8/27/04,88,0,1.9,9,29628,9109322,"Comedy, Family, Sci-Fi",en,PG,0,0
+669,tt0252028,Surviving Christmas,2004,9/21/04,91,45000000,5.4,19,22034,14793624,"Comedy, Romance",en,PG-13,0,0
+670,tt0204313,Exorcist: The Beginning,2004,8/20/04,114,80000000,5.2,30,33263,78000586,"Horror, Mystery, Thriller",en,R,0,0
+671,tt0167456,Thunderbirds,2004,7/23/04,95,57000000,4.3,36,13042,28283637,"Action, Adventure, Comedy",en,PG,0,0
+672,tt0368226,The Room,2003,6/27/03,99,6000000,3.7,9,81086,1752988,Drama,en,R,0,0
+673,tt0339034,From Justin to Kelly,2003,6/20/03,81,12000000,2.1,14,24707,4922166,"Comedy, Musical, Romance",en,PG,0,0
+674,tt0338763,Battle Royale II,2003,7/5/03,155,9080000,4.7,,19216,0,"Action, Drama, Thriller",ja,Not Rated,0,0
+675,tt0338459,Spy Kids 3-D: Game Over,2003,7/25/03,84,38000000,4.3,57,54329,197011982,"Action, Adventure, Comedy",en,PG,0,0
+676,tt0338094,The Haunted Mansion,2003,11/25/03,88,90000000,5,34,42520,182290266,"Comedy, Family, Fantasy",en,PG,0,0
+677,tt0333780,Legally Blonde 2,2003,7/2/03,95,45000000,4.8,47,60812,124914842,Comedy,en,PG-13,0,0
+678,tt0331468,Cold Creek Manor,2003,9/19/03,118,0,5,37,20901,29119434,"Drama, Mystery, Thriller",en,R,0,0
+679,tt0330099,The Brown Bunny,2003,8/27/04,93,10000000,5,51,13663,365734,Drama,en,Not Rated,0,0
+680,tt0329717,Hollywood Homicide,2003,6/9/03,116,75000000,5.3,47,35658,51142659,"Action, Comedy, Crime",en,PG-13,0,0
+681,tt0329028,Dumb and Dumberer: When Harry Met Lloyd,2003,4/14/03,85,19000000,3.4,19,37070,39267515,Comedy,en,PG-13,0,0
+682,tt0328099,Malibu's Most Wanted,2003,4/10/03,86,15000000,5.2,43,18420,34000000,"Comedy, Crime",en,PG-13,0,0
+683,tt0326769,Biker Boyz,2003,1/31/03,110,24000000,4.7,36,12689,23510601,"Action, Drama",en,PG-13,0,0
+684,tt0325703,Lara Croft Tomb Raider: The Cradle of Life,2003,7/21/03,117,95000000,5.6,43,129031,160099222,"Action, Adventure, Fantasy",en,PG-13,0,0
+685,tt0322589,Honey,2003,11/24/03,94,18000000,5.4,37,43030,62646763,"Drama, Music, Romance",en,PG-13,0,0
+686,tt0317676,House of the Dead,2003,4/11/03,90,7000000,2,15,35735,13818181,"Action, Adventure, Horror",en,R,0,0
+687,tt0317303,Daddy Day Care,2003,5/9/03,92,60000000,5.6,39,63073,164433867,"Comedy, Family",en,PG,0,0
+688,tt0313911,Agent Cody Banks,2003,3/14/03,102,28000000,5.1,41,32698,58795814,"Action, Adventure, Comedy",en,PG,0,0
+689,tt0312528,The Cat in the Hat,2003,11/21/03,82,109000000,4,19,51670,133818283,"Adventure, Comedy, Family",en,PG,0,0
+690,tt0306841,The Lizzie McGuire Movie,2003,5/2/03,94,17000000,5.5,56,35445,55534455,"Adventure, Comedy, Family",en,PG,0,0
+691,tt0306734,The Divorce,2003,8/8/03,117,0,4.9,51,10923,12991996,"Drama, Romance, Comedy",en,PG-13,0,0
+692,tt0306047,Scary Movie 3,2003,10/24/03,84,48000000,5.5,49,136397,220673217,"Comedy, Horror",en,PG-13,0,0
+693,tt0305711,Just Married,2003,1/9/03,95,18000000,5.5,28,67173,101564935,"Comedy, Romance",en,PG-13,0,0
+694,tt0305357,Charlie's Angels: Full Throttle,2003,6/27/03,106,120000000,4.9,48,120188,259175788,"Action, Adventure, Comedy",en,PG-13,0,0
+695,tt0304711,The Order,2003,9/5/03,102,35000000,5.2,21,16842,11560806,"Horror, Mystery, Thriller",en,R,0,0
+696,tt0299930,Gigli,2003,8/1/03,121,54000000,2.5,18,45816,7266209,"Comedy, Crime, Romance",en,R,0,0
+697,tt0298814,The Core,2003,3/28/03,135,60000000,5.5,48,92671,74208267,"Action, Adventure, Sci-Fi",en,PG-13,0,0
+698,tt0288045,The Medallion,2003,8/15/03,88,41000000,5.3,38,38803,0,"Action, Comedy, Fantasy",en,PG-13,0,0
+699,tt0287978,Daredevil,2003,2/14/03,103,78000000,5.3,42,205233,179179718,"Action, Crime",en,PG-13,0,0
+700,tt0285531,Dreamcatcher,2003,3/21/03,134,68000000,5.5,35,88207,75700000,"Drama, Horror, Sci-Fi",en,R,0,0
+701,tt0283426,The Jungle Book 2,2003,2/7/03,72,20000000,5.4,38,14874,135680000,"Animation, Adventure, Family",en,G,0,0
+702,tt0282209,Darkness Falls,2003,1/24/03,86,0,5,23,30014,0,"Fantasy, Horror, Mystery",en,PG-13,0,0
+703,tt0270980,My Boss's Daughter,2003,8/21/03,86,14000000,4.7,15,28056,0,"Comedy, Romance",en,PG-13,0,0
+704,tt0264150,View from the Top,2003,3/21/03,87,0,5.2,27,25378,19526014,"Comedy, Romance",en,PG-13,0,0
+705,tt0257568,Kangaroo Jack,2003,1/17/03,89,0,4.4,16,29415,0,"Action, Adventure, Comedy",en,PG,0,0
+706,tt0245803,Bulletproof Monk,2003,3/28/03,104,52000000,5.5,40,47433,37713879,"Action, Comedy, Fantasy",en,PG-13,0,0
+707,tt0199626,In the Cut,2003,9/9/03,119,12000000,5.3,46,21646,23726793,"Mystery, Thriller",en,R,0,0
+708,tt0308506,Like Mike,2002,7/3/02,99,30000000,5.3,47,18813,0,"Comedy, Family, Fantasy",en,PG,0,0
+709,tt0308208,Ballistic: Ecks vs. Sever,2002,9/20/02,91,70000000,3.7,19,19074,19924033,"Action, Crime, Mystery",en,R,0,0
+710,tt0302640,The Hot Chick,2002,12/13/02,104,0,5.5,29,89209,35081550,"Comedy, Fantasy",en,PG-13,0,0
+711,tt0297181,I Spy,2002,10/31/02,97,70000000,5.4,35,48805,51386477,"Action, Adventure, Comedy",en,PG-13,0,0
+712,tt0297162,Half Past Dead,2002,11/15/02,98,13000000,4.7,23,14544,19233280,"Action, Crime, Thriller",en,PG-13,0,0
+713,tt0295427,The Master of Disguise,2002,8/2/02,80,0,3.4,12,22167,43411001,"Adventure, Comedy, Family",en,PG,0,0
+714,tt0295254,Feardotcom,2002,8/9/02,101,40000000,3.4,16,20040,18902015,"Crime, Horror, Thriller",en,R,0,0
+715,tt0291502,Swept Away,2002,10/11/02,89,10000000,3.6,18,15632,598645,"Comedy, Romance",en,R,0,0
+716,tt0290095,The Tuxedo,2002,9/27/02,98,60000000,5.4,30,78569,104391623,"Action, Comedy, Sci-Fi",en,PG-13,0,0
+717,tt0288477,Ghost Ship,2002,10/25/02,91,35000000,5.5,28,93083,68349884,Horror,en,R,0,0
+718,tt0287717,Spy Kids 2: Island of Lost Dreams,2002,8/7/02,100,38000000,5.2,66,59920,119723358,"Action, Adventure, Comedy",en,PG,0,0
+719,tt0285462,Boat Trip,2002,10/1/02,94,20000000,4.9,18,30109,8586376,Comedy,en,R,0,0
+720,tt0284490,Showtime,2002,3/14/02,95,85000000,5.5,32,60215,77741732,"Action, Comedy, Crime",en,PG-13,0,0
+721,tt0283632,They,2002,11/1/02,89,17000000,4.8,31,12260,0,"Horror, Mystery, Thriller",en,PG-13,0,0
+722,tt0283026,Swimfan,2002,9/6/02,85,8500000,5.1,29,18875,0,"Drama, Thriller",en,PG-13,0,0
+723,tt0281373,Snow Dogs,2002,1/18/02,99,35000000,5.2,29,25025,81000000,"Adventure, Comedy, Family",en,PG,0,0
+724,tt0280720,The Guru,2002,8/21/02,94,0,5.3,47,14732,0,"Comedy, Music, Romance",en,R,0,0
+725,tt0277296,The Scorpion King,2002,4/18/02,92,60000000,5.5,45,129436,165333180,"Action, Adventure, Fantasy",en,PG-13,0,0
+726,tt0275022,Crossroads,2002,2/15/02,93,12000000,3.5,27,38176,61141030,"Comedy, Drama, Romance",en,PG-13,0,0
+727,tt0273517,Darkness,2002,10/2/02,88,10600000,5.5,15,18723,12241855,Horror,en,PG-13,0,0
+728,tt0271367,Eight Legged Freaks,2002,7/17/02,99,30000000,5.4,53,52353,45867333,"Action, Adventure, Comedy",en,PG-13,0,0
+729,tt0271263,Eight Crazy Nights,2002,11/27/02,76,0,5.4,23,21356,23833131,"Animation, Comedy, Musical",en,PG-13,0,0
+730,tt0267913,Scooby-Doo,2002,6/14/02,86,84000000,5.1,35,98283,275650703,"Adventure, Comedy, Family",en,PG,0,0
+731,tt0265808,Stealing Harvard,2002,9/13/02,85,0,5.2,25,12449,0,"Comedy, Crime",en,PG-13,0,0
+732,tt0265298,Big Fat Liar,2002,2/8/02,88,15000000,5.4,36,34809,52970014,"Adventure, Comedy, Family",en,PG,0,0
+733,tt0261289,Serving Sara,2002,8/23/02,99,29000000,5.4,18,16632,16930185,"Comedy, Romance",en,PG-13,0,0
+734,tt0253867,The Sweetest Thing,2002,4/12/02,84,43000000,5.2,32,54575,68696770,"Comedy, Romance",en,R,0,0
+735,tt0252076,Maid in Manhattan,2002,12/13/02,105,55000000,5.3,45,83328,154906693,"Comedy, Drama, Romance",en,PG-13,0,0
+736,tt0246894,Rollerball,2002,2/8/02,98,70000000,3.1,14,25564,25852764,"Action, Sci-Fi, Sport",en,PG-13,0,0
+737,tt0243585,Stuart Little 2,2002,7/19/02,77,120000000,5.5,66,49789,169956806,"Animation, Adventure, Comedy",en,PG,0,0
+738,tt0240900,Slackers,2002,2/1/02,86,14000000,5.4,12,13697,6413915,"Comedy, Romance",en,R,0,0
+739,tt0238546,Queen of the Damned,2002,2/10/02,101,35000000,5.3,30,52009,45479110,"Drama, Fantasy, Horror",en,R,0,0
+740,tt0233469,Collateral Damage,2002,2/6/02,108,85000000,5.5,33,71485,78382433,"Action, Drama, Thriller",en,R,0,0
+741,tt0220506,Halloween: Resurrection,2002,7/1/02,94,13000000,4,19,37477,37664855,"Horror, Thriller",en,R,0,0
+742,tt0180052,The Adventures of Pluto Nash,2002,8/15/02,95,100000000,3.8,12,24331,7103973,"Action, Comedy, Sci-Fi",en,PG-13,0,0
+743,tt0160184,Eye See You,2002,1/4/02,96,55000000,5.3,,24212,6632383,"Crime, Thriller",en,R,0,0
+744,tt0157472,Clockstoppers,2002,3/17/02,94,26000000,5.2,40,13342,38793283,"Action, Adventure, Comedy",en,PG,0,0
+745,tt0265087,Black Knight,2001,11/21/01,95,50000000,4.9,32,37784,33422806,"Adventure, Comedy, Fantasy",en,PG-13,0,0
+746,tt0258038,Pootie Tang,2001,6/29/01,81,0,5.3,31,13328,0,"Action, Adventure, Comedy",en,PG-13,0,0
+747,tt0257106,Scary Movie 2,2001,7/4/01,83,45000000,5.3,29,148424,141220678,"Comedy, Horror",en,R,0,0
+748,tt0255798,The Animal,2001,6/1/01,84,22000000,4.8,43,56693,84772742,"Comedy, Sci-Fi",en,PG-13,0,0
+749,tt0250310,Corky Romano,2001,10/12/01,86,11000000,4.7,20,12432,23978402,"Comedy, Crime",en,PG-13,0,0
+750,tt0246989,Tomcats,2001,3/30/01,95,11000000,5.4,15,17369,23430766,Comedy,en,R,0,0
+751,tt0246544,The Musketeer,2001,9/7/01,104,40000000,4.9,27,13962,27053815,"Action, Adventure, Romance",en,PG-13,0,0
+752,tt0242998,Valentine,2001,2/1/01,96,10000000,4.9,18,24818,16300000,"Horror, Mystery, Thriller",en,R,0,0
+753,tt0240515,Freddy Got Fingered,2001,4/18/01,87,14000000,4.6,13,45729,14343028,Comedy,en,R,0,0
+754,tt0240462,Dr. Dolittle 2,2001,6/22/01,87,70000000,4.7,49,41458,176104344,"Comedy, Family, Fantasy",en,PG,0,0
+755,tt0239949,Say It Isn't So,2001,3/10/01,95,25000000,5,21,12531,12320393,"Comedy, Romance",en,R,0,0
+756,tt0239395,Cats & Dogs,2001,7/4/01,87,60000000,5.1,47,56083,93375151,"Action, Comedy, Family",en,PG,0,0
+757,tt0238552,Replicant,2001,5/11/01,100,17000000,5.4,,13618,0,"Action, Sci-Fi, Thriller",en,R,0,0
+758,tt0236348,Josie and the Pussycats,2001,4/6/01,98,22000000,5.4,47,21561,0,"Comedy, Music",en,PG-13,0,0
+759,tt0234829,Summer Catch,2001,8/22/01,104,34000000,5.1,21,15061,19693891,"Comedy, Drama, Romance",en,PG-13,0,0
+760,tt0231775,Down to Earth,2001,2/16/01,87,0,5.5,32,21481,0,"Comedy, Fantasy",en,PG-13,0,0
+761,tt0231402,Crocodile Dundee in Los Angeles,2001,4/12/01,92,21150000,4.8,37,23305,39438674,"Action, Adventure, Comedy",en,PG,0,0
+762,tt0228333,Ghosts of Mars,2001,8/24/01,98,28000000,4.9,35,50683,14010832,"Action, Horror, Sci-Fi",en,R,0,0
+763,tt0227538,Spy Kids,2001,3/18/01,88,35000000,5.5,71,107321,147934180,"Action, Adventure, Comedy",en,PG,0,0
+764,tt0211443,Jason X,2001,7/24/01,91,11000000,4.4,25,50202,16951798,"Action, Horror, Sci-Fi",en,R,0,0
+765,tt0209475,The Wedding Planner,2001,1/26/01,103,35000000,5.3,33,75468,94728529,"Comedy, Romance",en,PG-13,0,0
+766,tt0166276,Monkeybone,2001,2/23/01,93,75000000,4.7,40,16607,5409517,"Animation, Comedy, Fantasy",en,PG-13,0,0
+767,tt0132245,Driven,2001,4/27/01,116,94000000,4.6,29,39077,54744738,"Action, Drama, Sport",en,PG-13,0,0
+768,tt0118589,Glitter,2001,9/21/01,104,22000000,2.3,14,21374,5271666,"Drama, Music, Romance",en,PG-13,0,0
+769,tt0249380,Baise-moi,2000,6/28/00,77,0,4.4,35,16675,940944,"Crime, Drama, Thriller",fr,Not Rated,0,0
+770,tt0242423,"Dude, Where's My Car?",2000,12/15/00,83,13000000,5.5,30,133571,73180723,"Comedy, Mystery, Sci-Fi",en,PG-13,0,0
+771,tt0229260,Book of Shadows: Blair Witch 2,2000,10/27/00,90,0,3.9,15,35583,0,"Adventure, Fantasy, Horror",en,R,0,0
+772,tt0219653,Dracula 2000,2000,12/22/00,99,28000000,4.9,26,31851,47053625,"Action, Fantasy, Horror",en,R,0,0
+773,tt0217756,Ready to Rumble,2000,4/7/00,107,24000000,5.4,23,13485,12372410,"Comedy, Sport",en,PG-13,0,0
+774,tt0217630,Loser,2000,7/21/00,98,0,5.3,35,26423,0,"Comedy, Romance",en,PG-13,0,0
+775,tt0213790,The Ladies Man,2000,10/13/00,84,24000000,5.2,22,12342,13700000,Comedy,en,R,0,0
+776,tt0211181,102 Dalmatians,2000,10/7/00,100,85000000,4.9,35,34382,183611771,"Adventure, Comedy, Family",en,G,0,0
+777,tt0208988,Get Carter,2000,10/6/00,102,63600000,5.2,24,32390,19412993,"Action, Crime, Drama",en,R,0,0
+778,tt0208003,Big Momma's House,2000,5/31/00,99,30000000,5.2,33,80267,173959438,"Action, Comedy, Crime",en,PG-13,0,0
+779,tt0205271,Dr. T & the Women,2000,9/13/00,122,23000000,4.6,64,17606,22844291,"Comedy, Drama, Romance",en,R,0,0
+780,tt0204626,The Watcher,2000,9/8/00,97,33000000,5.3,22,25683,0,"Crime, Drama, Mystery",en,R,0,0
+781,tt0192731,Urban Legends: Final Cut,2000,9/22/00,97,14000000,4.3,16,15998,38574362,"Horror, Mystery, Thriller",en,R,0,0
+782,tt0190374,Dungeons & Dragons,2000,12/8/00,107,35000000,3.6,14,31803,15185241,"Action, Adventure, Fantasy",en,PG-13,0,0
+783,tt0186975,Down to You,2000,1/21/00,91,9000000,5,13,14285,0,"Comedy, Drama, Romance",en,PG-13,0,0
+784,tt0185431,Little Nicky,2000,11/10/00,90,85000000,5.3,38,97293,58292295,"Comedy, Fantasy",en,PG-13,0,0
+785,tt0185183,Battlefield Earth,2000,5/10/00,118,44000000,2.5,9,75606,21400000,"Action, Adventure, Sci-Fi",en,PG-13,0,0
+786,tt0184907,Snow Day,2000,2/11/00,89,130000000,5.1,34,11415,62500000,"Adventure, Comedy, Family",en,PG,0,0
+787,tt0175526,Cherry Falls,2000,8/25/00,92,0,5.2,,12176,0,"Horror, Mystery, Thriller",en,R,0,0
+788,tt0163983,Bless the Child,2000,8/11/00,107,40000000,5.1,17,13810,0,"Crime, Drama, Horror",en,R,0,0
+789,tt0162983,Hanging Up,2000,2/16/00,94,60000000,4.9,33,11753,51880044,"Comedy, Drama",en,PG-13,0,0
+790,tt0160484,Lost Souls,2000,10/13/00,97,50000000,4.8,16,10352,31355910,"Drama, Horror, Thriller",en,R,0,0
+791,tt0160127,Charlie's Angels,2000,11/2/00,98,92000000,5.5,52,174911,264105545,"Action, Adventure, Comedy",en,PG-13,0,0
+792,tt0158622,The Flintstones in Viva Rock Vegas,2000,4/28/00,90,83000000,3.6,27,21434,59468275,"Comedy, Family, Romance",en,PG,0,0
+793,tt0157262,2001: A Space Travesty,2000,10/31/00,99,26000000,3.6,,11382,0,"Comedy, Sci-Fi",en,R,0,0
+794,tt0156841,The Next Best Thing,2000,3/3/00,108,25000000,4.7,25,10706,24362772,"Comedy, Drama, Romance",en,PG-13,0,0
+795,tt0144964,Highlander: Endgame,2000,9/1/00,87,25000000,4.6,21,19252,15843608,"Action, Adventure, Fantasy",en,R,0,0
+796,tt0144528,Nutty Professor II: The Klumps,2000,7/27/00,106,84000000,4.4,38,47897,123307945,"Comedy, Romance, Sci-Fi",en,PG-13,0,0
+797,tt0134983,Supernova,2000,1/14/00,90,90000000,4.9,19,16976,14828081,"Horror, Sci-Fi, Thriller",en,PG-13,0,0
+798,tt0134084,Scream 3,2000,2/3/00,116,40000000,5.6,56,122880,161834276,"Horror, Mystery",en,R,0,0
+799,tt0132910,The Crow: Salvation,2000,10/31/00,102,10000000,4.9,,10772,0,"Action, Crime, Fantasy",en,R,0,0
+800,tt0131704,The Adventures of Rocky & Bullwinkle,2000,6/30/00,92,76000000,4.2,36,19239,35134820,"Animation, Adventure, Comedy",en,PG,0,0
+801,tt0176269,Universal Soldier: The Return,1999,8/5/99,83,45000000,4.2,24,27613,10667893,"Action, Sci-Fi",en,R,0,0
+802,tt0171363,The Haunting,1999,7/23/99,113,80000000,5,42,71102,91188905,"Fantasy, Horror, Mystery",en,PG-13,0,0
+803,tt0167427,Superstar,1999,10/8/99,81,0,5.2,42,17842,0,"Comedy, Romance",en,PG-13,0,0
+804,tt0163187,Runaway Bride,1999,7/30/99,116,70000000,5.6,39,91690,309457509,"Comedy, Romance",en,PG,0,0
+805,tt0156934,Random Hearts,1999,10/8/99,133,64000000,5.3,38,19858,74608570,"Drama, Mystery, Romance",en,R,0,0
+806,tt0145893,Simply Irresistible,1999,2/5/99,96,6000000,5.3,27,13201,4398989,"Comedy, Drama, Fantasy",en,PG-13,0,0
+807,tt0144814,The Rage: Carrie 2,1999,3/11/99,104,21000000,4.7,42,15443,17762705,"Horror, Sci-Fi, Thriller",en,R,0,0
+808,tt0141369,Inspector Gadget,1999,7/23/99,78,75000000,4.2,36,44982,0,"Action, Adventure, Comedy",en,PG,0,0
+809,tt0141098,Forces of Nature,1999,3/12/99,105,75000000,5.4,46,32058,93888180,"Comedy, Romance",en,PG-13,0,0
+810,tt0138304,The Astronaut's Wife,1999,8/26/99,109,75000000,5.4,37,52511,19598588,"Drama, Sci-Fi, Thriller",en,R,0,0
+811,tt0133046,Teaching Mrs. Tingle,1999,8/11/99,96,13000000,5.3,35,19571,8946237,"Comedy, Thriller",en,PG-13,0,0
+812,tt0131646,Wing Commander,1999,3/11/99,100,30000000,4.3,21,16023,0,"Action, Adventure, Sci-Fi",en,PG-13,0,0
+813,tt0120891,Wild Wild West,1999,6/29/99,106,170000000,5,38,151929,222104681,"Action, Comedy, Sci-Fi",en,PG-13,0,0
+814,tt0120764,My Favorite Martian,1999,2/11/99,94,65000000,5.1,33,12727,36850101,"Comedy, Family, Sci-Fi",en,PG,0,0
+815,tt0120662,Eye of the Beholder,1999,9/4/99,109,15000000,5.1,29,14489,17589705,"Drama, Mystery, Thriller",en,R,0,0
+816,tt0120604,Beowulf,1999,4/1/99,95,20000000,4.1,,11088,1531251,"Action, Adventure, Fantasy",en,R,0,0
+817,tt0120596,The Bachelor,1999,11/5/99,101,51000000,5,31,16485,36911617,"Comedy, Romance",en,PG-13,0,0
+818,tt0120458,Virus,1999,1/14/99,99,75000000,5,19,26334,30700000,"Action, Horror, Sci-Fi",en,R,0,0
+819,tt0118665,Baby Geniuses,1999,3/12/99,97,12000000,2.6,6,24887,36450736,"Comedy, Crime, Family",en,PG,0,0
+820,tt0155975,Psycho,1998,12/4/98,105,60000000,4.6,47,45539,37141130,"Horror, Mystery, Thriller",en,R,0,0
+821,tt0144120,Bride of Chucky,1998,10/16/98,89,25000000,5.4,48,51872,50671850,"Comedy, Horror",en,R,0,0
+822,tt0141109,Jack Frost,1998,12/10/98,101,27000000,5.4,40,32314,0,"Comedy, Drama, Family",en,PG,0,0
+823,tt0130018,I Still Know What You Did Last Summer,1998,11/13/98,100,65000000,4.7,21,68179,40002112,"Horror, Mystery",en,R,0,0
+824,tt0126388,Legionnaire,1998,12/3/98,99,20000000,5.5,,22429,0,"Action, Adventure, Drama",en,R,0,0
+825,tt0120841,Species II,1998,4/10/98,93,35000000,4.5,19,27201,19165560,"Action, Horror, Sci-Fi",en,R,0,0
+826,tt0120786,The Patriot,1998,7/10/98,90,25000000,4.2,,11684,0,"Action, Thriller",en,R,0,0
+827,tt0120738,Lost in Space,1998,4/3/98,130,80000000,5.2,42,68956,136159423,"Action, Adventure, Family",en,PG-13,0,0
+828,tt0120724,Knock Off,1998,9/4/98,91,33000000,4.9,37,13775,0,"Action, Crime, Thriller",en,R,0,0
+829,tt0120701,Holy Man,1998,10/8/98,114,60000000,4.9,41,18914,12069719,"Comedy, Drama",en,PG,0,0
+830,tt0120685,Godzilla,1998,5/20/98,139,130000000,5.4,32,180722,379014294,"Action, Sci-Fi, Thriller",en,PG-13,0,0
+831,tt0119891,Phantoms,1998,1/23/98,96,0,5.5,26,19501,5624282,"Horror, Sci-Fi, Thriller",en,R,0,0
+832,tt0118998,Doctor Dolittle,1998,6/26/98,85,71000000,5.4,46,90727,294456605,"Comedy, Family, Fantasy",en,PG-13,0,0
+833,tt0118747,Blues Brothers 2000,1998,2/5/98,123,28000000,4.9,,31257,14051384,"Action, Comedy, Crime",en,PG-13,0,0
+834,tt0118661,The Avengers,1998,8/13/98,89,60000000,3.8,12,40716,48585416,"Action, Adventure, Sci-Fi",en,PG-13,0,0
+835,tt0118539,3 Ninjas: High Noon at Mega Mountain,1998,4/10/98,93,0,2.9,44,10454,375805,"Action, Adventure, Comedy",en,PG,0,0
+836,tt0120461,Volcano,1997,4/25/97,104,90000000,5.5,55,71447,122823468,"Action, Drama, Sci-Fi",en,PG-13,0,0
+837,tt0120390,Turbulence,1997,1/9/97,100,55000000,4.9,,10590,11466088,"Action, Thriller",en,R,0,0
+838,tt0120207,Steel,1997,8/15/97,97,16000000,2.8,,11116,1686429,"Action, Adventure, Crime",en,PG-13,0,0
+839,tt0120185,Spice World,1997,12/18/97,93,25000000,3.5,32,33004,100000000,"Comedy, Family, Music",en,PG,0,0
+840,tt0120179,Speed 2: Cruise Control,1997,6/13/97,121,160000000,3.9,23,74091,164508066,"Action, Adventure, Crime",en,PG-13,0,0
+841,tt0120177,Spawn,1997,7/31/97,96,40000000,5.3,34,63586,87840042,"Action, Drama, Horror",en,PG-13,0,0
+842,tt0119718,Mr. Magoo,1997,12/25/97,87,30000000,4,18,14210,75000000,"Adventure, Comedy, Family",en,PG,0,0
+843,tt0119707,Mortal Kombat: Annihilation,1997,11/11/97,95,30000000,3.7,11,46213,51376861,"Action, Adventure, Fantasy",en,PG-13,0,0
+844,tt0119432,Jungle 2 Jungle,1997,3/4/97,105,32000000,5.2,42,22597,59927618,"Comedy, Family",en,PG,0,0
+845,tt0119303,Home Alone 3,1997,12/12/97,102,32000000,4.5,,103529,79082515,"Action, Comedy, Crime",en,PG,0,0
+846,tt0119190,George of the Jungle,1997,7/15/97,92,55000000,5.5,53,70834,174463257,"Action, Adventure, Comedy",en,PG,0,0
+847,tt0119137,Flubber,1997,11/26/97,93,80000000,5.3,37,83686,177977226,"Comedy, Family, Sci-Fi",en,PG,0,0
+848,tt0119123,Fire Down Below,1997,9/5/97,105,60000000,5.1,40,16550,16000000,"Action, Drama, Thriller",en,R,0,0
+849,tt0119109,Fathers' Day,1997,5/9/97,98,85000000,5.3,43,14602,35598376,"Comedy, Romance",en,PG-13,0,0
+850,tt0119013,Double Team,1997,4/4/97,93,30000000,4.8,,31236,0,"Action, Comedy, Sci-Fi",en,R,0,0
+851,tt0118688,Batman & Robin,1997,6/20/97,125,125000000,3.8,28,232132,238207122,"Action, Sci-Fi",en,PG-13,0,0
+852,tt0118615,Anaconda,1997,4/11/97,89,45000000,4.8,37,95790,136000000,"Action, Adventure, Horror",en,PG-13,0,0
+853,tt0118604,An American Werewolf in Paris,1997,5/29/97,105,22000000,5.1,31,23070,26570463,"Comedy, Fantasy, Horror",en,R,0,0
+854,tt0118570,Air Bud,1997,8/1/97,98,3000000,5.2,,16381,23144499,"Comedy, Drama, Family",en,PG,0,0
+855,tt0117826,Bordello of Blood,1996,8/16/96,87,15000000,5.4,36,13530,5600000,"Comedy, Fantasy, Horror",en,R,0,0
+856,tt0117765,Striptease,1996,6/28/96,115,50000000,4.5,37,42377,113309743,"Comedy, Crime, Drama",en,R,0,0
+857,tt0117723,Spy Hard,1996,5/24/96,81,18000000,5.4,25,35729,0,"Action, Comedy",en,PG-13,0,0
+858,tt0117331,The Phantom,1996,6/6/96,100,45000000,4.9,,32094,17300889,"Action, Adventure, Comedy",en,PG,0,0
+859,tt0116756,Kazaam,1996,7/17/96,93,20000000,3,24,22908,18937262,"Comedy, Family, Fantasy",en,PG,0,0
+860,tt0116654,The Island of Dr. Moreau,1996,8/23/96,96,40000000,4.6,,30839,49627779,"Horror, Sci-Fi, Thriller",en,PG-13,0,0
+861,tt0116514,Hellraiser: Bloodline,1996,3/8/96,85,4000000,5.2,21,19112,16675000,"Horror, Sci-Fi",en,R,0,0
+862,tt0116421,The Glimmer Man,1996,10/4/96,91,45000000,5.4,33,18622,0,"Action, Comedy, Crime",en,R,0,0
+863,tt0116322,Flipper,1996,5/17/96,95,25530000,5.3,43,10113,20080020,"Adventure, Family",en,PG,0,0
+864,tt0116311,First Kid,1996,8/30/96,101,0,5.3,48,10130,0,"Family, Comedy",en,PG,0,0
+865,tt0116151,Dunston Checks In,1996,1/12/96,88,16000000,5.4,54,11806,0,"Comedy, Adventure, Family",en,PG,0,0
+866,tt0116000,D3: The Mighty Ducks,1996,10/4/96,104,0,5.5,,24372,22955097,"Action, Comedy, Drama",en,PG,0,0
+867,tt0115986,The Crow: City of Angels,1996,8/29/96,84,13000000,4.7,,19023,17917287,"Action, Crime, Fantasy",en,R,0,0
+868,tt0115683,Bio-Dome,1996,1/12/96,88,15000000,4.5,1,25825,0,Comedy,en,PG-13,0,0
+869,tt0115624,Barb Wire,1996,5/2/96,98,0,3.3,40,24862,3793614,"Action, Sci-Fi",en,R,0,0
+870,tt0114825,Vampire in Brooklyn,1995,10/26/95,100,14000000,4.6,27,21472,19800000,"Comedy, Fantasy, Horror",en,R,0,0
+871,tt0114781,Under Siege 2: Dark Territory,1995,7/13/95,100,60000000,5.5,52,43376,104324083,"Action, Adventure, Thriller",en,R,0,0
+872,tt0114614,Tank Girl,1995,3/31/95,104,25000000,5.4,46,29953,4064495,"Action, Comedy, Sci-Fi",en,R,0,0
+873,tt0114436,Showgirls,1995,9/22/95,128,45000000,4.9,16,61718,20350754,Drama,en,NC-17,0,0
+874,tt0114345,The Scarlet Letter,1995,10/13/95,135,50000000,5.3,,14275,10382407,"Drama, Romance",en,R,0,0
+875,tt0113986,Nine Months,1995,7/12/95,103,0,5.5,47,34895,69660733,"Comedy, Romance",en,PG-13,0,0
+876,tt0113820,Mighty Morphin Power Rangers: The Movie,1995,6/30/95,95,15000000,5.2,40,25040,66000000,"Action, Adventure, Family",en,PG,0,0
+877,tt0113451,Jade,1995,10/13/95,95,50000000,5.3,,11312,9851610,"Crime, Drama, Thriller",en,R,0,0
+878,tt0113253,Halloween: The Curse of Michael Myers,1995,9/29/95,87,5000000,4.8,10,31082,15116634,"Horror, Thriller",en,R,0,0
+879,tt0113114,Free Willy 2: The Adventure Home,1995,7/19/95,95,0,5.1,,16923,0,"Adventure, Drama, Family",en,PG,0,0
+880,tt0113010,Fair Game,1995,11/3/95,91,50000000,4.3,13,12043,11534477,"Action, Romance, Thriller",en,R,0,0
+881,tt0112715,Congo,1995,6/9/95,109,50000000,5.3,22,41882,152022101,"Action, Adventure, Mystery",en,PG-13,0,0
+882,tt0112625,Candyman: Farewell to the Flesh,1995,3/17/95,95,0,5.3,,10456,13940383,"Horror, Thriller",en,R,0,0
+883,tt0112462,Batman Forever,1995,6/16/95,121,100000000,5.4,51,233122,336529144,"Action, Adventure",en,PG-13,0,0
+884,tt0111301,Street Fighter,1994,12/23/94,102,35000000,4,,65378,99423521,"Action, Adventure, Comedy",en,PG-13,0,0
+885,tt0110989,Ri¢hie Ri¢h,1994,12/19/94,95,40000000,5.4,49,62967,0,"Comedy, Family",en,PG,0,0
+886,tt0110978,Texas Chainsaw Massacre: The Next Generation,1994,9/22/95,87,600000,3.3,50,19852,185898,"Comedy, Horror, Thriller",en,R,0,0
+887,tt0110907,Ready to Wear,1994,12/23/94,133,15000000,5.1,48,14264,11300653,"Comedy, Drama",en,R,0,0
+888,tt0110857,Police Academy: Mission to Moscow,1994,6/9/94,83,10000000,3.6,11,31560,126247,"Comedy, Crime",en,PG,0,0
+889,tt0110725,On Deadly Ground,1994,2/18/94,101,50000000,4.6,33,22003,49000000,"Action, Adventure, Thriller",en,R,0,0
+890,tt0110687,North,1994,7/22/94,87,40000000,4.5,,13117,0,"Adventure, Comedy, Drama",en,PG,0,0
+891,tt0110657,The Next Karate Kid,1994,7/18/94,107,12000000,4.5,36,25947,15826984,"Action, Drama, Family",en,PG,0,0
+892,tt0110647,The NeverEnding Story III,1994,10/26/94,95,17000000,3.2,,10646,0,"Adventure, Comedy, Family",en,G,0,0
+893,tt0110613,My Girl 2,1994,2/11/94,99,0,5.3,,18196,0,"Comedy, Drama, Family",en,PG,0,0
+894,tt0110216,Junior,1994,11/22/94,109,60000000,4.6,59,64431,108431355,"Comedy, Romance, Sci-Fi",en,PG-13,0,0
+895,tt0110123,In the Army Now,1994,8/12/94,91,0,5,,12628,28881266,"Comedy, War",en,PG,0,0
+896,tt0110093,I Love Trouble,1994,6/29/94,123,45000000,5.3,,11359,61947267,"Action, Comedy, Romance",en,PG,0,0
+897,tt0110027,Highlander: The Final Dimension,1994,11/29/94,99,26000000,4.5,28,19694,36800000,"Action, Fantasy, Romance",en,PG-13,0,0
+898,tt0109813,The Flintstones,1994,5/26/94,91,46000000,4.9,38,74953,341631208,"Comedy, Family, Fantasy",en,PG,0,0
+899,tt0109456,Color of Night,1994,8/19/94,121,40000000,5.2,36,22514,19726050,"Mystery, Romance, Thriller",en,R,0,0
+900,tt0109287,Blank Check,1994,2/11/94,93,13000000,5.3,42,18783,0,"Comedy, Crime, Family",en,PG,0,0
+901,tt0109198,Bad Girls,1994,4/22/94,99,0,5.2,,11559,15240435,"Action, Adventure, Romance",en,R,0,0
+902,tt0106761,Double Dragon,1994,11/4/94,96,3500000,3.8,,11110,2341309,"Action, Adventure, Comedy",en,PG-13,0,0
+903,tt0108539,Weekend at Bernie's II,1993,7/9/93,97,0,4.9,,12541,0,"Adventure, Comedy, Fantasy",en,PG,0,0
+904,tt0108308,Teenage Mutant Ninja Turtles III,1993,3/17/93,96,21000000,4.8,40,30696,42273609,"Action, Adventure, Comedy",en,PG,0,0
+905,tt0108255,Super Mario Bros.,1993,5/28/93,104,48000000,4.1,,48264,20915465,"Adventure, Comedy, Family",en,PG,0,0
+906,tt0108162,Sliver,1993,5/21/93,107,40000000,5.1,38,28856,116300000,"Drama, Thriller",en,R,0,0
+907,tt0107978,RoboCop 3,1993,4/17/93,104,22000000,4.1,40,45472,10696210,"Action, Crime, Sci-Fi",en,PG-13,0,0
+908,tt0107478,Made in America,1993,5/27/93,111,22000000,5.1,,15529,0,Comedy,en,PG-13,0,0
+909,tt0107438,Look Who's Talking Now,1993,11/5/93,96,0,4.4,,27417,0,"Comedy, Family, Romance",en,PG-13,0,0
+910,tt0107387,Leprechaun,1993,1/8/93,92,900000,4.8,17,23314,8556940,"Comedy, Fantasy, Horror",en,R,0,0
+911,tt0107254,Jason Goes to Hell: The Final Friday,1993,8/13/93,87,3000000,4.2,17,28114,15938065,"Fantasy, Horror, Thriller",en,R,0,0
+912,tt0106598,Coneheads,1993,7/23/93,88,0,5.3,49,50596,0,"Comedy, Sci-Fi",en,PG,0,0
+913,tt0106471,Boxing Helena,1993,6/18/93,107,0,4.8,26,11314,1796389,"Drama, Mystery, Romance",en,R,0,0
+914,tt0106400,The Beverly Hillbillies,1993,10/15/93,92,0,5,37,17213,0,"Comedy, Family",en,PG,0,0
+915,tt0106375,Beethoven's 2nd,1993,12/14/93,89,15000000,4.9,,25486,118243066,"Comedy, Family, Romance",en,PG,0,0
+916,tt0106453,Body of Evidence,1992,1/15/93,99,30000000,4.5,29,13929,13273595,"Drama, Thriller",en,R,0,0
+917,tt0105629,Toys,1992,12/18/92,118,0,5.1,40,30243,23278931,"Adventure, Comedy, Drama",en,PG-13,0,0
+918,tt0105477,Stop! Or My Mom Will Shoot,1992,2/21/92,87,0,4.3,,38027,70611210,"Action, Comedy",en,PG-13,0,0
+919,tt0105428,Sleepwalkers,1992,4/10/92,91,15000000,5.3,38,20169,30524763,"Fantasy, Horror",en,R,0,0
+920,tt0105156,Poison Ivy,1992,5/8/92,93,3000000,5.4,51,17043,1829804,"Drama, Thriller",en,R,0,0
+921,tt0105128,Pet Sematary II,1992,8/28/92,100,8000000,4.9,35,19345,17092453,"Fantasy, Horror",en,R,0,0
+922,tt0104692,The Lawnmower Man,1992,3/5/92,108,10000000,5.5,42,33648,32100816,"Horror, Sci-Fi",en,R,0,0
+923,tt0104437,"Honey, I Blew Up the Kid",1992,7/16/92,89,40000000,4.9,50,40782,58662452,"Adventure, Comedy, Family",en,PG,0,0
+924,tt0104409,Hellraiser III: Hell on Earth,1992,9/11/92,97,5000000,5.5,50,27223,12534961,Horror,en,R,0,0
+925,tt0104299,Freejack,1992,1/17/92,110,30000000,5.4,,14796,0,"Action, Crime, Sci-Fi",en,R,0,0
+926,tt0104009,Cool World,1992,7/10/92,102,30000000,4.9,28,20565,14110589,"Animation, Comedy, Fantasy",en,PG-13,0,0
+927,tt0103596,3 Ninjas,1992,8/7/92,84,6500000,5.3,36,20103,29000301,"Action, Comedy, Family",en,PG,0,0
+928,tt0103956,Child's Play 3,1991,8/30/91,90,13000000,5.1,27,35657,20560255,"Horror, Thriller",en,R,0,0
+929,tt0102782,Return to the Blue Lagoon,1991,8/2/91,102,11000000,5.2,28,17990,2807854,"Adventure, Drama, Romance",en,PG-13,0,0
+930,tt0102719,Problem Child 2,1991,7/3/91,90,0,4.9,,20596,0,"Comedy, Family",en,PG-13,0,0
+931,tt0102558,Nothing But Trouble,1991,2/14/91,94,40000000,5.2,13,22399,8479793,Comedy,en,PG-13,0,0
+932,tt0102216,King Ralph,1991,2/15/91,97,0,5.3,,15032,0,"Comedy, Romance",en,PG,0,0
+933,tt0102034,Highlander II: The Quickening,1991,1/13/91,91,30000000,4.3,31,43267,15556340,"Action, Adventure, Fantasy",en,R,0,0
+934,tt0101917,Freddy's Dead: The Final Nightmare,1991,9/5/91,89,11000000,4.9,39,41164,34872033,"Fantasy, Horror",en,R,0,0
+935,tt0101627,Critters 3,1991,12/11/91,86,0,4.4,,10865,0,"Comedy, Horror, Sci-Fi",en,PG-13,0,0
+936,tt0105643,Troll 2,1990,10/12/90,95,0,2.9,,30579,0,"Comedy, Fantasy, Horror",en,PG-13,0,0
+937,tt0103923,Captain America,1990,12/14/90,97,10000000,3.2,,11178,0,"Action, Adventure, Sci-Fi",en,PG-13,0,0
+938,tt0100507,Rocky V,1990,11/16/90,104,42000000,5.3,55,125483,119946358,"Drama, Sport",en,PG-13,0,0
+939,tt0100419,Problem Child,1990,7/27/90,81,15000000,5.5,27,28263,0,"Comedy, Family",en,PG,0,0
+940,tt0100240,The NeverEnding Story II: The Next Chapter,1990,10/24/90,89,32000000,5.2,,24148,16283667,"Adventure, Drama, Family",en,PG,0,0
+941,tt0100050,Look Who's Talking Too,1990,12/14/90,81,0,4.7,,44113,0,"Comedy, Family, Romance",en,PG-13,0,0
+942,tt0099994,Leatherface: Texas Chainsaw Massacre III,1990,1/12/90,85,0,5.1,30,14013,5765562,"Horror, Thriller",en,R,0,0
+943,tt0098966,Three Men and a Little Lady,1990,11/21/90,104,0,5.5,51,22514,0,"Comedy, Drama, Family",en,PG,0,0
+944,tt0100934,Wild Orchid,1989,12/22/89,105,7000000,4.6,19,11206,0,"Drama, Romance",en,R,0,0
+945,tt0098382,Star Trek V: The Final Frontier,1989,6/9/89,107,30000000,5.5,43,55479,70200000,"Action, Adventure, Fantasy",en,PG,0,0
+946,tt0098105,Police Academy 6: City Under Siege,1989,3/9/89,84,0,4.5,16,27855,11567217,"Comedy, Crime",en,PG,0,0
+947,tt0098097,Pink Cadillac,1989,5/26/89,122,0,5.4,,10715,0,"Action, Comedy, Crime",en,PG-13,0,0
+948,tt0097981,A Nightmare on Elm Street 5: The Dream Child,1989,8/11/89,89,8000000,5.2,54,40520,22168359,"Fantasy, Horror",en,R,0,0
+949,tt0097647,The Karate Kid Part III,1989,6/29/89,112,0,5.2,36,50598,38956288,"Action, Drama, Family",en,PG,0,0
+950,tt0097474,Halloween 5: The Revenge of Michael Myers,1989,10/12/89,96,5000000,5.1,28,34567,11642254,"Horror, Thriller",en,R,0,0
+951,tt0097388,Friday the 13th Part VIII: Jason Takes Manhattan,1989,7/28/89,100,5000000,4.6,14,33330,14000000,"Adventure, Horror, Thriller",en,R,0,0
+952,tt0097368,The Fly II,1989,2/10/89,105,0,5.1,36,21122,38903179,"Drama, Horror, Sci-Fi",en,R,0,0
+953,tt0097179,DeepStar Six,1989,1/13/89,99,8000000,5.4,34,10342,8143225,"Action, Horror, Sci-Fi",en,R,0,0
+954,tt0097138,Cyborg,1989,4/7/89,86,500000,5.1,24,28754,10166459,"Action, Sci-Fi, Thriller",en,R,0,0
+955,tt0096870,Going Overboard,1989,5/11/89,99,0,1.8,,12215,0,Comedy,en,R,0,0
+956,tt0097257,Earth Girls Are Easy,1988,5/12/88,100,10000000,5.4,66,20072,3916303,"Comedy, Musical, Romance",en,PG,0,0
+957,tt0095889,Poltergeist III,1988,6/10/88,98,10500000,4.7,40,16846,14144000,"Horror, Thriller",en,PG-13,0,0
+958,tt0095882,Police Academy 5: Assignment: Miami Beach,1988,3/17/88,90,0,4.7,18,32332,19510371,"Comedy, Crime",en,PG,0,0
+959,tt0095687,My Stepmother Is an Alien,1988,12/9/88,105,20000000,5.4,,24711,13854000,"Comedy, Sci-Fi",en,Approved,0,0
+960,tt0095560,Mac and Me,1988,8/12/88,95,0,3.4,,11344,5935269,"Adventure, Family, Fantasy",en,PG,0,0
+961,tt0095179,Friday the 13th Part VII: The New Blood,1988,5/13/88,88,2800000,5.3,13,32293,19170001,"Horror, Thriller",en,R,0,0
+962,tt0094824,Caddyshack II,1988,7/22/88,98,0,3.8,7,14534,0,"Comedy, Sport",en,PG,0,0
+963,tt0089280,Hobgoblins,1988,7/14/88,88,0,2.3,,10425,0,"Comedy, Horror, Sci-Fi",en,Not Rated,0,0
+964,tt0094118,Teen Wolf Too,1987,11/20/87,95,0,3.4,8,10517,0,"Comedy, Fantasy",en,PG,0,0
+965,tt0094074,Superman IV: The Quest for Peace,1987,7/23/87,90,17000000,3.7,24,42527,19300000,"Action, Adventure, Sci-Fi",en,PG,0,0
+966,tt0093857,Revenge of the Nerds II: Nerds in Paradise,1987,7/10/87,88,0,5.2,28,13224,22642033,Comedy,en,PG-13,0,0
+967,tt0093756,Police Academy 4: Citizens on Patrol,1987,4/2/87,88,0,5,26,39854,28061343,"Comedy, Crime",en,PG,0,0
+968,tt0093507,Masters of the Universe,1987,8/7/87,106,22000000,5.4,35,36490,17336370,"Action, Adventure, Fantasy",en,PG,0,0
+969,tt0093300,Jaws: The Revenge,1987,7/17/87,89,23000000,3,15,40792,51881013,"Adventure, Horror, Thriller",en,PG-13,0,0
+970,tt0093278,Ishtar,1987,5/15/87,107,55000000,4.4,52,10185,14375181,"Action, Adventure, Comedy",en,PG-13,0,0
+971,tt0091799,Psycho III,1986,4/2/86,93,0,5.4,58,12944,14481606,"Horror, Mystery, Thriller",en,R,0,0
+972,tt0091777,Police Academy 3: Back in Training,1986,3/20/86,83,0,5.4,33,42083,43579163,Comedy,en,PG,0,0
+973,tt0091499,Maximum Overdrive,1986,7/25/86,98,10000000,5.5,24,29696,7433663,"Action, Comedy, Horror",en,R,0,0
+974,tt0091225,Howard the Duck,1986,8/1/86,110,37000000,4.7,28,42725,37962774,"Action, Adventure, Comedy",en,PG,0,0
+975,tt0089893,Red Sonja,1985,4/9/85,89,17900000,5.1,35,38327,6948633,"Action, Adventure, Fantasy",en,PG-13,0,0
+976,tt0089686,A Nightmare on Elm Street 2: Freddy's Revenge,1985,10/31/85,87,3000000,5.5,43,60922,29999213,Horror,en,R,0,0
+977,tt0089421,King Solomon's Mines,1985,11/22/85,100,12500000,5.3,29,12371,238227,"Action, Adventure, Comedy",en,PG-13,0,0
+978,tt0089173,Friday the 13th: A New Beginning,1985,3/22/85,92,2200000,4.8,16,33550,21930418,"Horror, Mystery, Thriller",en,R,0,0
+979,tt0088206,Supergirl,1984,7/1/84,124,35000000,4.4,42,18482,14296438,"Action, Adventure, Fantasy",en,PG,0,0
+980,tt0087032,Cannonball Run II,1984,6/29/84,108,0,5.1,13,14805,28078073,"Action, Comedy",en,PG,0,0
+981,tt0086393,Superman III,1983,6/17/83,125,39000000,5,44,63622,75850624,"Action, Adventure, Comedy",en,PG,0,0
+982,tt0086361,Staying Alive,1983,7/11/83,93,22000000,4.7,23,14418,64892670,"Drama, Music, Romance",en,PG,0,0
+983,tt0086129,Porky's II: The Next Day,1983,6/24/83,98,6500000,5.1,38,10800,33759266,Comedy,en,R,0,0
+984,tt0085750,Jaws 3-D,1983,3/16/83,99,20500000,3.7,27,39434,87987055,"Adventure, Horror, Thriller",en,PG,0,0
+985,tt0085636,Halloween III: Season of the Witch,1982,10/22/82,98,2500000,5,50,43407,14400000,"Horror, Mystery, Sci-Fi",en,R,0,0
+986,tt0084745,Swamp Thing,1982,2/19/82,91,10000000,5.4,50,12940,0,"Horror, Sci-Fi",en,PG,0,0
+987,tt0084021,Grease 2,1982,6/11/82,115,13200000,4.4,52,32491,15171476,"Comedy, Drama, Musical",en,PG,0,0
+988,tt0081777,Xanadu,1980,8/8/80,96,20000000,5.3,31,11924,22471595,"Fantasy, Musical, Romance",en,PG,0,0
+989,tt0081529,Smokey and the Bandit II,1980,8/15/80,100,0,5.3,41,14590,66132626,"Action, Comedy",en,PG,0,0
+990,tt0081383,Prom Night,1980,7/18/80,92,1500000,5.4,45,15474,14796236,"Horror, Thriller",en,R,0,0
+991,tt0081353,Popeye,1980,12/12/80,114,20000000,5.3,64,29139,49823037,"Adventure, Comedy, Family",en,PG,0,0
+992,tt0080491,Caligula,1979,1/21/79,156,17500000,5.4,,33249,23438120,"Drama, History",en,Unrated,0,0
+993,tt0080391,Attack of the Killer Tomatoes!,1978,10/1/78,83,90000,4.7,9,12470,0,"Adventure, Comedy, Horror",en,PG,0,0
+994,tt0076009,Exorcist II: The Heretic,1977,6/17/77,117,14000000,3.8,39,21720,30749142,Horror,en,R,0,0
+995,tt0065832,Hercules in New York,1970,2/23/70,92,300000,3.3,23,17019,0,"Adventure, Comedy, Fantasy",en,G,0,0
+996,tt0061452,Casino Royale,1967,4/23/67,131,12000000,5.2,48,26905,41744718,Comedy,en,Approved,0,0
+997,tt0060666,Manos: The Hands of Fate,1966,11/15/66,70,19000,1.9,,34622,0,Horror,en,Not Rated,0,0
+998,tt0058548,Santa Claus Conquers the Martians,1964,11/14/64,81,200000,2.7,,10719,0,"Adventure, Comedy, Family",en,Not Rated,0,0
+999,tt0052077,Plan 9 from Outer Space,1957,7/22/59,79,60000,4,,35775,0,"Horror, Sci-Fi",en,Not Rated,0,0
