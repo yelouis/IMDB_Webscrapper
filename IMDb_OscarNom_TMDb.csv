@@ -1,0 +1,501 @@
+,id,movie,year,date_released,time_minute,budget,imdb_rating,metascore,vote,gross_earning,genre,original_language,certificate,Oscar,COVID
+0,tt6294822,The Post,2017,1/19/17,116,50000000,7.2,83,132894,179769467,"Drama, Thriller",en,PG-13,0,0
+1,tt5776858,Phantom Thread,2017,12/25/17,130,35000000,7.5,90,108958,47756590,"Drama, Romance",en,R,0,0
+2,tt5027774,"Three Billboards Outside Ebbing, Missouri",2017,11/10/17,115,15000000,8.2,88,419889,160192031,"Comedy, Crime, Drama",en,R,0,0
+3,tt4925292,Lady Bird,2017,9/8/17,94,10000000,7.4,94,234677,76858273,"Comedy, Drama",en,R,0,0
+4,tt4555426,Darkest Hour,2017,11/22/17,125,30000000,7.4,75,168679,150847207,"Biography, Drama, History",en,PG-13,0,0
+5,tt5580390,The Shape of Water,2017,12/1/17,123,19500000,7.3,87,362803,194989655,"Adventure, Drama, Fantasy",en,R,1,0
+6,tt5013056,Dunkirk,2017,7/19/17,106,100000000,7.9,94,541969,525573161,"Action, Drama, History",en,PG-13,0,0
+7,tt5052448,Get Out,2017,2/24/17,104,4500000,7.7,85,482103,255407969,"Horror, Mystery, Thriller",en,R,0,0
+8,tt5726616,Call Me by Your Name,2017,9/1/17,132,4000000,7.9,93,204835,41063475,"Drama, Romance",en,R,0,0
+9,tt2671706,Fences,2016,12/16/16,139,24000000,7.2,79,96478,64414761,Drama,en,PG-13,0,0
+10,tt4846340,Hidden Figures,2016,12/10/16,127,25000000,7.8,74,196571,230698791,"Biography, Drama, History",en,PG,0,0
+11,tt3741834,Lion,2016,1/20/16,118,12000000,8,69,209858,140312928,"Biography, Drama",en,PG-13,0,0
+12,tt2119532,Hacksaw Ridge,2016,10/7/16,139,40000000,8.1,71,425820,175302354,"Biography, Drama, History",en,R,0,0
+13,tt4975722,Moonlight,2016,10/21/16,111,4000000,7.4,99,267907,65046687,Drama,en,R,1,0
+14,tt2543164,Arrival,2016,11/10/16,116,47000000,7.9,81,583620,203388186,"Drama, Mystery, Sci-Fi",en,PG-13,0,0
+15,tt3783958,La La Land,2016,11/29/16,128,30000000,8,94,494895,446486224,"Comedy, Drama, Music",en,PG-13,0,0
+16,tt2582782,Hell or High Water,2016,8/12/16,102,12000000,7.6,88,200841,37589296,"Action, Crime, Drama",en,R,0,0
+17,tt4034228,Manchester by the Sea,2016,11/18/16,137,9000000,7.8,96,242206,78988148,Drama,en,R,0,0
+18,tt1663202,The Revenant,2015,12/25/15,156,135000000,8,76,693062,532950503,"Action, Adventure, Drama",en,R,0,0
+19,tt1596363,The Big Short,2015,12/11/15,130,28000000,7.8,81,354405,133346506,"Biography, Comedy, Drama",en,R,0,0
+20,tt3682448,Bridge of Spies,2015,10/15/15,142,40000000,7.6,81,283866,165478348,"Drama, History, Thriller",en,PG-13,0,0
+21,tt3659388,The Martian,2015,9/30/15,144,108000000,8,80,748839,630161890,"Adventure, Drama, Sci-Fi",en,PG-13,0,0
+22,tt3170832,Room,2015,10/16/15,118,13000000,8.1,86,363603,35401758,"Drama, Thriller",en,R,0,0
+23,tt1895587,Spotlight,2015,11/6/15,129,20000000,8.1,93,412620,98690254,"Biography, Crime, Drama",en,R,1,0
+24,tt1392190,Mad Max: Fury Road,2015,5/13/15,120,150000000,8.1,90,867056,378858340,"Action, Adventure, Sci-Fi",en,R,0,0
+25,tt2381111,Brooklyn,2015,10/20/15,117,11000000,7.5,88,129241,62076141,"Drama, Romance",en,PG-13,0,0
+26,tt2179136,American Sniper,2014,12/11/14,133,58800000,7.3,72,434135,542307423,"Action, Biography, Drama",en,R,0,0
+27,tt1020072,Selma,2014,12/25/14,128,20000000,7.5,80,85155,66787908,"Biography, Drama, History",en,PG-13,0,0
+28,tt2980516,The Theory of Everything,2014,11/26/14,123,15000000,7.7,72,397334,123726688,"Biography, Drama, Romance",en,PG-13,0,0
+29,tt2084970,The Imitation Game,2014,11/14/14,114,14000000,8,73,675036,233555708,"Biography, Drama, Thriller",en,PG-13,0,0
+30,tt2562232,Birdman or (The Unexpected Virtue of Ignorance),2014,8/27/14,119,18000000,7.7,87,572361,103215094,"Comedy, Drama",en,R,1,0
+31,tt2278388,The Grand Budapest Hotel,2014,2/26/14,99,30000000,8.1,88,695611,174600318,"Adventure, Comedy, Crime",en,R,0,0
+32,tt1065073,Boyhood,2014,6/5/14,165,4000000,7.9,100,332806,44349000,Drama,en,R,0,0
+33,tt2582802,Whiplash,2014,10/10/14,106,3300000,8.5,88,701722,13092000,"Drama, Music",en,R,0,0
+34,tt1800241,American Hustle,2013,12/12/13,138,40000000,7.2,90,443887,251171807,"Crime, Drama",en,R,0,0
+35,tt0993846,The Wolf of Wall Street,2013,12/25/13,180,100000000,8.2,75,1158805,392000694,"Biography, Crime, Drama",en,R,0,0
+36,tt1798709,Her,2013,12/18/13,126,23000000,8,90,531183,47351251,"Drama, Romance, Sci-Fi",en,R,0,0
+37,tt1535109,Captain Phillips,2013,10/10/13,134,55000000,7.8,82,415828,95000000,"Adventure, Biography, Crime",en,PG-13,0,0
+38,tt0790636,Dallas Buyers Club,2013,11/17/13,117,5000000,8,80,434738,55736588,"Biography, Drama",en,R,0,0
+39,tt2431286,Philomena,2013,11/1/13,98,12000000,7.6,77,93418,100129872,"Biography, Comedy, Drama",en,PG-13,0,0
+40,tt2024544,12 Years a Slave,2013,10/18/13,134,20000000,8.1,96,631255,187000000,"Biography, Drama, History",en,R,1,0
+41,tt1454468,Gravity,2013,10/3/13,91,105000000,7.7,96,761411,723192705,"Drama, Sci-Fi, Thriller",en,PG-13,0,0
+42,tt1821549,Nebraska,2013,9/21/13,115,12000000,7.7,87,111382,17654912,"Adventure, Comedy, Drama",en,R,0,0
+43,tt1853728,Django Unchained,2012,12/25/12,165,100000000,8.4,81,1334562,425368238,"Drama, Western",en,R,0,0
+44,tt1790885,Zero Dark Thirty,2012,12/19/12,157,40000000,7.4,95,268815,132820716,"Drama, History, Thriller",en,R,0,0
+45,tt1707386,Les Misérables,2012,12/18/12,158,61000000,7.6,63,305555,441809770,"Drama, History, Musical",en,PG-13,0,0
+46,tt0443272,Lincoln,2012,11/9/12,150,65000000,7.3,86,242194,275293450,"Biography, Drama, History",en,PG-13,0,0
+47,tt0454876,Life of Pi,2012,11/20/12,127,120000000,7.9,79,574537,609016565,"Adventure, Drama, Fantasy",en,PG,0,0
+48,tt1045658,Silver Linings Playbook,2012,9/8/12,122,21000000,7.7,81,655278,236412453,"Comedy, Drama, Romance",en,R,0,0
+49,tt1024648,Argo,2012,10/11/12,120,44500000,7.7,86,567011,232324128,"Biography, Drama, Thriller",en,R,1,0
+50,tt1602620,Amour,2012,7/1/12,127,8900000,7.9,94,91995,29844753,"Drama, Romance",fr,PG-13,0,0
+51,tt2125435,Beasts of the Southern Wild,2012,6/29/12,93,1800000,7.3,86,80137,21107746,"Adventure, Drama, Fantasy",en,PG-13,0,0
+52,tt0477302,Extremely Loud & Incredibly Close,2011,12/24/11,129,40000000,6.9,46,97157,55247881,"Adventure, Drama, Mystery",en,PG-13,0,0
+53,tt1568911,War Horse,2011,12/25/11,146,66000000,7.2,72,145363,177584879,"Action, Adventure, Drama",en,PG-13,0,0
+54,tt0970179,Hugo,2011,11/22/11,126,170000000,7.5,83,301859,185770160,"Drama, Family, Fantasy",en,PG,0,0
+55,tt1210166,Moneyball,2011,9/22/11,133,50000000,7.6,87,362505,110206216,"Biography, Drama, Sport",en,PG-13,0,0
+56,tt1033575,The Descendants,2011,9/9/11,115,20000000,7.3,84,231224,177243185,"Comedy, Drama",en,R,0,0
+57,tt1454029,The Help,2011,8/9/11,146,25000000,8,62,423189,216639112,Drama,en,PG-13,0,0
+58,tt0478304,The Tree of Life,2011,5/18/11,139,32000000,6.8,85,166524,54674226,"Drama, Fantasy",en,PG-13,0,0
+59,tt1655442,The Artist,2011,10/8/11,100,15000000,7.9,89,228801,133432856,"Comedy, Drama, Romance",en,PG-13,1,0
+60,tt1605783,Midnight in Paris,2011,5/11/11,94,30000000,7.7,81,383641,151119219,"Comedy, Fantasy, Romance",en,PG-13,0,0
+61,tt1403865,True Grit,2010,12/22/10,110,38000000,7.6,80,307985,252276927,"Drama, Western",en,PG-13,0,0
+62,tt0964517,The Fighter,2010,12/17/10,116,25000000,7.8,79,336749,93617009,"Biography, Drama, Sport",en,R,0,0
+63,tt1285016,The Social Network,2010,10/1/10,120,40000000,7.7,95,615834,224920315,"Biography, Drama",en,PG-13,0,0
+64,tt1504320,The King's Speech,2010,9/6/10,118,15000000,8,88,632774,414211549,"Biography, Drama, History",en,R,1,0
+65,tt1542344,127 Hours,2010,11/5/10,94,18000000,7.5,82,344601,35692920,"Adventure, Biography, Drama",en,R,0,0
+66,tt0947798,Black Swan,2010,12/3/10,108,13000000,8,79,691584,329398046,"Drama, Thriller",en,R,0,0
+67,tt1375666,Inception,2010,7/15/10,148,160000000,8.8,74,2031297,825532764,"Action, Adventure, Sci-Fi",en,PG-13,0,0
+68,tt0435761,Toy Story 3,2010,6/16/10,103,200000000,8.3,92,747174,1066969703,"Animation, Adventure, Comedy",en,G,0,0
+69,tt0842926,The Kids Are All Right,2010,7/9/10,106,3500000,7,86,125103,34705850,"Comedy, Drama, Romance",en,R,0,0
+70,tt1399683,Winter's Bone,2010,6/11/10,100,2000000,7.1,90,134773,13831503,"Drama, Mystery",en,R,0,0
+71,tt0499549,Avatar,2009,12/10/09,162,237000000,7.8,83,1108620,2787965087,"Action, Adventure, Fantasy",en,PG-13,0,0
+72,tt0878804,The Blind Side,2009,11/20/09,129,29000000,7.6,53,288900,309208309,"Biography, Drama, Sport",en,PG-13,0,0
+73,tt1019452,A Serious Man,2009,9/30/09,106,7000000,7,84,132199,31430334,"Comedy, Drama",en,R,0,0
+74,tt1193138,Up in the Air,2009,9/5/09,109,25000000,7.4,83,315934,163670000,"Comedy, Drama, Romance",en,R,0,0
+75,tt1136608,District 9,2009,8/5/09,112,30000000,7.9,81,633828,210819611,"Action, Sci-Fi, Thriller",en,R,0,0
+76,tt0361748,Inglourious Basterds,2009,8/18/09,153,70000000,8.3,69,1245424,321455689,"Adventure, Drama, War",en,R,0,0
+77,tt1049413,Up,2009,5/28/09,96,175000000,8.2,88,921464,735099082,"Animation, Adventure, Comedy",en,PG,0,0
+78,tt1174732,An Education,2009,10/29/09,100,7500000,7.3,85,127702,26096852,Drama,en,PG-13,0,0
+79,tt0929632,Precious,2009,11/6/09,110,10000000,7.3,78,104845,47536959,Drama,en,R,0,0
+80,tt0421715,The Curious Case of Benjamin Button,2008,12/25/08,166,150000000,7.8,70,581283,333932083,"Drama, Fantasy, Romance",en,PG-13,0,0
+81,tt0976051,The Reader,2008,1/2/08,124,32000000,7.6,58,228649,113019290,"Drama, Romance",en,R,0,0
+82,tt1013753,Milk,2008,11/5/08,128,20000000,7.5,84,163339,54586584,"Biography, Drama",en,R,0,0
+83,tt0870111,Frost/Nixon,2008,10/15/08,122,25000000,7.7,80,102284,18593156,"Biography, Drama, History",en,R,0,0
+84,tt1010048,Slumdog Millionaire,2008,5/12/08,120,15000000,8,84,791375,377910544,"Drama, Romance",en,R,1,0
+85,tt0467406,Juno,2007,12/5/07,96,7500000,7.4,81,486404,231411584,"Comedy, Drama",en,PG-13,0,0
+86,tt0465538,Michael Clayton,2007,7/12/07,119,25000000,7.2,82,155184,92991835,"Crime, Drama, Mystery",en,R,0,0
+87,tt0783233,Atonement,2007,9/7/07,123,30000000,7.8,85,247452,131016624,"Drama, Mystery, Romance",en,R,0,0
+88,tt0477348,No Country for Old Men,2007,11/8/07,122,25000000,8.1,91,842243,171627166,"Crime, Drama, Thriller",en,R,1,0
+89,tt0498380,Letters from Iwo Jima,2006,12/19/06,141,19000000,7.9,89,152972,68673228,"Action, Adventure, Drama",en,R,0,0
+90,tt0407887,The Departed,2006,10/5/06,151,90000000,8.5,85,1172148,291465034,"Crime, Drama, Thriller",en,R,1,0
+91,tt0436697,The Queen,2006,9/15/06,103,15000000,7.3,91,103221,123384128,"Biography, Drama, History",en,PG-13,0,0
+92,tt0449467,Babel,2006,9/8/06,143,25000000,7.4,69,287047,135330182,Drama,en,R,0,0
+93,tt0449059,Little Miss Sunshine,2006,7/26/06,101,8000000,7.8,80,435317,100523181,"Comedy, Drama",en,R,0,0
+94,tt0408306,Munich,2005,12/23/05,164,70000000,7.5,74,210214,130358911,"Action, Drama, History",en,R,0,0
+95,tt0388795,Brokeback Mountain,2005,9/10/05,134,14000000,7.7,87,319651,178043761,"Drama, Romance",en,R,0,0
+96,tt0379725,Capote,2005,9/30/05,114,7000000,7.3,88,124199,49084830,"Biography, Crime, Drama",en,R,0,0
+97,tt0433383,"Good Night, and Good Luck.",2005,9/16/05,93,7000000,7.4,80,93541,54600000,"Biography, Drama, History",en,PG,0,0
+98,tt0338751,The Aviator,2004,12/17/04,170,110000000,7.5,77,329962,213719942,"Biography, Drama",en,PG-13,0,0
+99,tt0405159,Million Dollar Baby,2004,12/15/04,132,30000000,8.1,86,628745,216763646,"Drama, Sport",en,PG-13,1,0
+100,tt0375063,Sideways,2004,10/22/04,127,16000000,7.5,94,178071,109502303,"Comedy, Drama, Romance",en,R,0,0
+101,tt0350258,Ray,2004,10/29/04,152,40000000,7.7,73,137043,124731534,"Biography, Drama, Music",en,PG-13,0,0
+102,tt0375679,Crash,2004,5/6/05,112,6500000,7.7,66,416981,98410061,"Crime, Drama, Thriller",en,R,1,0
+103,tt0308644,Finding Neverland,2004,10/17/04,106,25000000,7.7,67,197228,116766556,"Biography, Drama, Family",en,PG,0,0
+104,tt0167260,The Lord of the Rings: The Return of the King,2003,12/1/03,201,94000000,8.9,94,1619911,1118888979,"Action, Adventure, Drama",en,PG-13,1,0
+105,tt0311113,Master and Commander: The Far Side of the World,2003,11/14/03,138,150000000,7.4,81,199934,212011111,"Action, Adventure, Drama",en,PG-13,0,0
+106,tt0335266,Lost in Translation,2003,9/18/03,102,4000000,7.7,89,408650,119723856,"Comedy, Drama",en,R,0,0
+107,tt0329575,Seabiscuit,2003,7/22/03,140,87000000,7.3,72,66386,148336445,"Drama, History, Sport",en,PG-13,0,0
+108,tt0327056,Mystic River,2003,10/7/03,138,25000000,7.9,84,414774,156822020,"Crime, Drama, Mystery",en,R,0,0
+109,tt0274558,The Hours,2002,12/27/02,110,25000000,7.5,80,123226,41597830,"Drama, Romance",en,PG-13,0,0
+110,tt0299658,Chicago,2002,12/26/02,113,45000000,7.1,81,213917,306776732,"Comedy, Crime, Musical",en,PG-13,1,0
+111,tt0217505,Gangs of New York,2002,12/14/02,167,100000000,7.5,72,400549,193772504,"Crime, Drama",en,R,0,0
+112,tt0167261,The Lord of the Rings: The Two Towers,2002,12/18/02,179,79000000,8.7,87,1464267,926287400,"Action, Adventure, Drama",en,PG-13,0,0
+113,tt0253474,The Pianist,2002,9/17/02,150,35000000,8.5,85,717171,120072577,"Biography, Drama, Music",en,R,0,0
+114,tt0268978,A Beautiful Mind,2001,12/11/01,135,60000000,8.2,72,836626,313542341,"Biography, Drama",en,PG-13,1,0
+115,tt0120737,The Lord of the Rings: The Fellowship of the Ring,2001,12/18/01,178,93000000,8.8,92,1635754,871368364,"Action, Adventure, Drama",en,PG-13,0,0
+116,tt0280707,Gosford Park,2001,11/7/01,131,19800000,7.2,90,79633,87754044,"Comedy, Drama, Mystery",en,R,0,0
+117,tt0203009,Moulin Rouge!,2001,5/24/01,127,52500000,7.6,66,264598,179213434,"Drama, Musical, Romance",en,PG-13,0,0
+118,tt0247425,In the Bedroom,2001,11/23/01,131,1700000,7.4,86,37140,0,"Crime, Drama",en,R,0,0
+119,tt0241303,Chocolat,2000,3/2/00,121,25000000,7.2,64,176283,152500343,"Drama, Romance",en,PG-13,0,0
+120,tt0181865,Traffic,2000,3/23/00,147,48000000,7.6,86,194284,207515725,"Crime, Drama, Thriller",en,R,0,0
+121,tt0190332,"Crouching Tiger, Hidden Dragon",2000,7/6/00,120,17000000,7.8,94,250997,213525736,"Action, Adventure, Fantasy",zh,PG-13,0,0
+122,tt0172495,Gladiator,2000,5/1/00,155,103000000,8.5,67,1321995,465361176,"Action, Adventure, Drama",en,R,1,0
+123,tt0195685,Erin Brockovich,2000,3/17/00,131,52000000,7.3,73,172353,256271286,"Biography, Drama",en,R,0,0
+124,tt0120689,The Green Mile,1999,12/10/99,189,60000000,8.6,61,1127553,286801374,"Crime, Drama, Fantasy",en,R,0,0
+125,tt0140352,The Insider,1999,3/10/99,157,90000000,7.8,84,158171,60289912,"Biography, Drama, Thriller",en,R,0,0
+126,tt0169547,American Beauty,1999,9/15/99,122,15000000,8.3,84,1057899,356296601,Drama,en,R,1,0
+127,tt0124315,The Cider House Rules,1999,12/17/99,126,24000000,7.4,75,92430,88545092,"Drama, Romance",en,PG-13,0,0
+128,tt0167404,The Sixth Sense,1999,8/6/99,107,40000000,8.1,64,901989,672806292,"Drama, Mystery, Thriller",en,PG-13,0,0
+129,tt0120863,The Thin Red Line,1998,3/5/98,170,52000000,7.6,78,170779,98126565,"Drama, War",en,R,0,0
+130,tt0138097,Shakespeare in Love,1998,1/29/98,123,25000000,7.1,87,212221,289317794,"Comedy, Drama, History",en,R,1,0
+131,tt0127536,Elizabeth,1998,9/13/98,124,30000000,7.4,75,92256,82150642,"Biography, Drama, History",en,R,0,0
+132,tt0120815,Saving Private Ryan,1998,7/24/98,169,70000000,8.6,91,1217438,481840909,"Drama, War",en,R,0,0
+133,tt0118799,Life Is Beautiful,1997,12/20/97,116,20000000,8.6,59,613411,229400000,"Comedy, Drama, Romance",it,PG-13,0,0
+134,tt0119822,As Good as It Gets,1997,12/19/97,139,50000000,7.7,67,272179,314178011,"Comedy, Drama, Romance",en,PG-13,0,0
+135,tt0119217,Good Will Hunting,1997,12/5/97,126,10000000,8.3,70,847755,225933435,"Drama, Romance",en,R,0,0
+136,tt0120338,Titanic,1997,11/18/97,194,200000000,7.8,75,1032135,2187463944,"Drama, Romance",en,PG-13,1,0
+137,tt0119164,The Full Monty,1997,8/13/97,91,3500000,7.2,75,97879,257850122,"Comedy, Drama",en,R,0,0
+138,tt0119488,L.A. Confidential,1997,9/19/97,138,35000000,8.2,90,526044,126216940,"Crime, Drama, Mystery",en,R,0,0
+139,tt0116695,Jerry Maguire,1996,12/13/96,139,50000000,7.3,77,240401,273552592,"Comedy, Drama, Romance",en,R,0,0
+140,tt0116209,The English Patient,1996,11/5/96,162,27000000,7.4,87,176800,231976425,"Drama, Romance, War",en,R,1,0
+141,tt0117589,Secrets & Lies,1996,5/24/96,136,4500000,8,91,36947,13417292,"Comedy, Drama",en,R,0,0
+142,tt0116282,Fargo,1996,3/8/96,98,7000000,8.1,85,608145,60611975,"Crime, Drama, Thriller",en,R,0,0
+143,tt0117631,Shine,1996,8/15/96,105,5500000,7.7,87,50882,35892330,"Biography, Drama, Music",en,PG-13,0,0
+144,tt0114388,Sense and Sensibility,1995,12/13/95,136,16000000,7.6,84,100858,134582776,"Drama, Romance",en,PG,0,0
+145,tt0112431,Babe,1995,7/18/95,91,30000000,6.8,83,115821,254134910,"Comedy, Drama, Family",en,G,0,0
+146,tt0112384,Apollo 13,1995,6/30/95,140,52000000,7.6,77,264746,355237933,"Adventure, Drama, History",en,PG,0,0
+147,tt0112573,Braveheart,1995,5/24/95,178,72000000,8.3,68,949060,210000000,"Biography, Drama, History",en,R,1,0
+148,tt0110932,Quiz Show,1994,8/25/94,133,0,7.5,92,64073,0,"Biography, Drama, History",en,PG-13,0,0
+149,tt0111161,The Shawshank Redemption,1994,9/23/94,142,25000000,9.3,80,2306065,28341469,Drama,en,R,0,0
+150,tt0110877,Il Postino,1994,4/7/94,108,0,7.7,81,33188,0,"Biography, Comedy, Drama",it,PG,0,0
+151,tt0109830,Forrest Gump,1994,7/6/94,142,55000000,8.8,82,1777275,677387716,"Drama, Romance",en,PG-13,1,0
+152,tt0110912,Pulp Fiction,1994,9/10/94,154,8000000,8.9,94,1799841,214179088,"Crime, Drama",en,R,0,0
+153,tt0109831,Four Weddings and a Funeral,1994,3/9/94,117,6000000,7,81,137437,254700832,"Comedy, Drama, Romance",en,R,0,0
+154,tt0107207,In the Name of the Father,1993,12/12/93,133,13000000,8.1,84,154675,65796862,"Biography, Drama",en,R,0,0
+155,tt0108052,Schindler's List,1993,11/30/93,195,22000000,8.9,94,1196413,321365567,"Biography, Drama, History",en,R,1,0
+156,tt0107943,The Remains of the Day,1993,11/5/93,134,11500000,7.8,84,64873,23237911,"Drama, Romance",en,PG,0,0
+157,tt0106977,The Fugitive,1993,8/6/93,130,44000000,7.8,87,264342,368875760,"Action, Crime, Drama",en,PG-13,0,0
+158,tt0107822,The Piano,1993,5/19/93,121,7000000,7.6,89,78120,116700000,"Drama, Music, Romance",en,R,0,0
+159,tt0105323,Scent of a Woman,1992,12/23/92,156,31000000,8,59,258149,134095253,Drama,en,R,0,0
+160,tt0104257,A Few Good Men,1992,12/11/92,138,40000000,7.7,62,232145,243240178,"Drama, Thriller",en,R,0,0
+161,tt0104036,The Crying Game,1992,9/2/92,112,3705538,7.2,90,50579,62548947,"Crime, Drama, Romance",en,R,0,0
+162,tt0105695,Unforgiven,1992,8/7/92,130,14000000,8.2,85,371160,159157447,"Drama, Western",en,R,1,0
+163,tt0104454,Howards End,1992,3/13/92,142,8000000,7.4,89,28431,26126837,"Drama, Romance",en,PG,0,0
+164,tt0102713,The Prince of Tides,1991,12/25/91,132,30000000,6.8,65,15967,74787599,"Drama, Romance",en,R,0,0
+165,tt0102138,JFK,1991,12/20/91,189,40000000,8,72,140184,205405498,"Drama, History, Thriller",en,R,0,0
+166,tt0101516,Bugsy,1991,12/10/91,136,30000000,6.8,80,25946,49114016,"Biography, Crime, Drama",en,R,0,0
+167,tt0101414,Beauty and the Beast,1991,11/13/91,84,25000000,8,95,413508,377350553,"Animation, Family, Fantasy",en,G,0,0
+168,tt0102926,The Silence of the Lambs,1991,2/1/91,118,19000000,8.6,85,1250714,272742922,"Crime, Drama, Thriller",en,R,1,0
+169,tt0099674,The Godfather: Part III,1990,12/25/90,162,54000000,7.6,60,353742,136766062,"Crime, Drama",en,R,0,0
+170,tt0099077,Awakenings,1990,3/15/90,121,0,7.8,74,122523,52096475,"Biography, Drama",en,PG-13,0,0
+171,tt0099348,Dances with Wolves,1990,3/30/90,181,22000000,8,72,237147,424208848,"Adventure, Drama, Western",en,PG-13,1,0
+172,tt0099685,Goodfellas,1990,9/12/90,146,25000000,8.7,90,1003857,46836394,"Biography, Crime, Drama",en,R,0,0
+173,tt0099653,Ghost,1990,7/12/90,127,22000000,7.1,52,194719,505000000,"Drama, Fantasy, Romance",en,PG-13,0,0
+174,tt0096969,Born on the Fourth of July,1989,3/2/89,145,14000000,7.2,75,97386,161001698,"Biography, Drama, War",en,R,0,0
+175,tt0097239,Driving Miss Daisy,1989,12/13/89,99,7500000,7.3,81,98062,145793296,Drama,en,PG,1,0
+176,tt0097165,Dead Poets Society,1989,6/2/89,128,16400000,8.1,79,416915,235860116,"Comedy, Drama",en,PG,0,0
+177,tt0097351,Field of Dreams,1989,4/21/89,107,0,7.5,57,106953,84431625,"Drama, Family, Fantasy",en,PG,0,0
+178,tt0097937,My Left Foot,1989,4/7/89,103,645180,7.9,97,67002,14743391,"Biography, Drama",en,R,0,0
+179,tt0094606,The Accidental Tourist,1988,12/23/88,121,0,6.8,53,14643,32632093,"Drama, Romance",en,PG,0,0
+180,tt0096463,Working Girl,1988,12/20/88,113,28000000,6.8,73,51014,103173635,"Comedy, Drama, Romance",en,R,0,0
+181,tt0095953,Rain Man,1988,12/11/88,133,25000000,8,65,468304,354825435,Drama,en,R,1,0
+182,tt0094947,Dangerous Liaisons,1988,6/9/88,119,14000000,7.6,74,63914,34670720,"Drama, Romance",en,R,0,0
+183,tt0095647,Mississippi Burning,1988,12/8/88,128,15000000,7.8,65,86951,34604000,"Crime, Drama, History",en,R,0,0
+184,tt0092699,Broadcast News,1987,12/16/87,133,20000000,7.2,84,26589,67330500,"Comedy, Drama, Romance",en,R,0,0
+185,tt0093565,Moonstruck,1987,12/16/87,102,0,7.1,83,49037,80640528,"Comedy, Drama, Romance",en,PG,0,0
+186,tt0093389,The Last Emperor,1987,5/27/87,163,23000000,7.7,76,92938,43984230,"Biography, Drama, History",en,PG-13,1,0
+187,tt0093010,Fatal Attraction,1987,9/11/87,119,14000000,6.9,67,75482,320145693,"Drama, Thriller",en,R,0,0
+188,tt0093209,Hope and Glory,1987,8/1/87,113,10,7.3,86,12299,9,"Comedy, Drama, Romance",en,PG-13,0,0
+189,tt0091763,Platoon,1986,12/19/86,120,6000000,8.1,92,376681,138530565,"Drama, War",en,R,1,0
+190,tt0090830,Children of a Lesser God,1986,9/13/86,119,0,7.2,80,14796,31853080,"Drama, Romance",en,R,0,0
+191,tt0091530,The Mission,1986,9/29/86,125,24500000,7.4,55,55286,17218023,"Adventure, Drama, History",en,PG,0,0
+192,tt0091167,Hannah and Her Sisters,1986,2/7/86,107,6400000,7.9,90,66412,40084041,"Comedy, Drama",en,PG-13,0,0
+193,tt0088939,The Color Purple,1985,12/18/85,154,15000000,7.8,78,77342,146292009,Drama,en,PG-13,0,0
+194,tt0091867,A Room with a View,1985,12/13/85,117,3000000,7.3,83,39085,20966644,"Drama, Romance",en,Not Rated,0,0
+195,tt0089755,Out of Africa,1985,12/20/85,161,31000000,7.2,69,71720,128499205,"Biography, Drama, Romance",en,PG,1,0
+196,tt0089841,Prizzi's Honor,1985,6/14/85,130,0,6.7,84,22551,26657534,"Comedy, Crime, Drama",en,R,0,0
+197,tt0089424,Kiss of the Spider Woman,1985,7/26/85,120,0,7.4,80,14073,17005229,Drama,en,R,0,0
+198,tt0090329,Witness,1985,2/8/85,112,12000000,7.4,76,85274,68706993,"Crime, Drama, Romance",en,R,0,0
+199,tt0087892,A Passage to India,1984,12/14/84,164,8000000,7.3,78,16818,27187653,"Adventure, Drama, History",en,PG,0,0
+200,tt0087553,The Killing Fields,1984,11/2/84,141,14400000,7.8,76,51028,34700291,"Biography, Drama, History",en,R,0,0
+201,tt0088146,A Soldier's Story,1984,9/14/84,101,6000000,7.2,66,8721,21821347,"Crime, Drama, Mystery",en,PG,0,0
+202,tt0087921,Places in the Heart,1984,9/11/84,111,0,7.4,70,10129,0,Drama,en,PG,0,0
+203,tt0086879,Amadeus,1984,9/6/84,160,18000000,8.3,88,364617,51973029,"Biography, Drama, History",en,R,1,0
+204,tt0085461,The Dresser,1983,12/6/83,118,0,7.6,,4780,0,Drama,en,PG,0,0
+205,tt0086425,Terms of Endearment,1983,11/20/83,132,8000000,7.4,79,54374,0,"Comedy, Drama",en,PG,1,0
+206,tt0086197,The Right Stuff,1983,10/20/83,193,27000000,7.8,91,55564,21500000,"Adventure, Biography, Drama",en,PG,0,0
+207,tt0085244,The Big Chill,1983,9/9/83,105,0,7.2,61,32485,0,"Comedy, Drama",en,R,0,0
+208,tt0086423,Tender Mercies,1983,4/2/83,92,0,7.4,76,9212,0,"Drama, Music",en,PG,0,0
+209,tt0084805,Tootsie,1982,6/10/82,116,21000000,7.4,88,96855,177200000,"Comedy, Drama, Romance",en,PG,0,0
+210,tt0083987,Gandhi,1982,11/30/82,191,22000000,8,79,216278,77737889,"Biography, Drama, History",en,PG,1,0
+211,tt0083866,E.T. the Extra-Terrestrial,1982,6/11/82,115,10500000,7.8,91,367079,792965326,"Family, Sci-Fi",en,PG,0,0
+212,tt0084335,Missing,1982,2/12/82,122,0,7.7,78,18327,14000000,"Biography, Drama, History",en,PG,0,0
+213,tt0082979,Reds,1981,12/25/81,195,35000000,7.3,76,20607,40382659,"Biography, Drama, History",en,PG,0,0
+214,tt0082846,On Golden Pond,1981,12/1/81,109,0,7.6,68,27292,19255967,Drama,en,PG,0,0
+215,tt0082971,Raiders of the Lost Ark,1981,6/12/81,115,18000000,8.4,85,873534,389925971,"Action, Adventure",en,PG,0,0
+216,tt0082158,Chariots of Fire,1981,5/15/81,125,5500000,7.2,78,54117,58972904,"Biography, Drama, Sport",en,PG,1,0
+217,tt0081398,Raging Bull,1980,11/14/80,129,18000000,8.2,89,317458,23000000,"Biography, Drama, Sport",en,R,0,0
+218,tt0080678,The Elephant Man,1980,10/2/80,124,5000000,8.1,78,217026,26010864,"Biography, Drama",en,PG,0,0
+219,tt0081283,Ordinary People,1980,9/19/80,124,6000000,7.7,86,46327,54766923,Drama,en,R,1,0
+220,tt0080388,Atlantic City,1980,9/3/80,104,7200000,7.3,85,14910,12729675,"Crime, Drama, Romance",en,R,0,0
+221,tt0080549,Coal Miner's Daughter,1980,3/7/80,124,15000000,7.5,87,16506,67182787,"Biography, Drama, Music",en,PG,0,0
+222,tt0079417,Kramer vs. Kramer,1979,12/19/79,105,8000000,7.8,77,131403,106260000,Drama,en,PG,1,0
+223,tt0078754,All That Jazz,1979,12/16/79,123,0,7.9,72,27695,37823676,"Drama, Music, Musical",en,R,0,0
+224,tt0080009,Tess,1979,10/6/79,186,0,7.3,82,15039,0,"Drama, Romance",en,PG,0,0
+225,tt0078902,Breaking Away,1979,5/24/79,101,2300000,7.7,91,21490,20000000,"Comedy, Drama, Romance",en,PG,0,0
+226,tt0078788,Apocalypse Now,1979,8/15/79,147,31500000,8.4,94,598047,150000000,"Drama, Mystery, War",en,R,0,0
+227,tt0079638,Norma Rae,1979,3/2/79,114,4500000,7.3,61,10337,22228000,Drama,en,PG,0,0
+228,tt0077663,Heaven Can Wait,1978,6/28/78,101,0,6.9,72,18468,0,"Comedy, Fantasy, Romance",en,PG,0,0
+229,tt0077928,Midnight Express,1978,8/31/78,121,2300000,7.6,59,72860,35000000,"Biography, Crime, Drama",en,R,0,0
+230,tt0078444,An Unmarried Woman,1978,5/26/78,124,2515000,7.1,,4649,24000000,"Comedy, Drama, Romance",en,R,0,0
+231,tt0077362,Coming Home,1978,2/15/78,127,3000000,7.3,61,12210,0,"Drama, Romance, War",en,R,0,0
+232,tt0076095,The Goodbye Girl,1977,11/27/77,111,0,7.4,64,12387,102000000,"Comedy, Drama, Romance",en,PG,0,0
+233,tt0076843,The Turning Point,1977,11/14/77,119,0,6.9,68,4180,0,"Drama, Romance",en,PG,0,0
+234,tt0076245,Julia,1977,10/2/77,117,0,7.2,58,8589,0,Drama,en,PG,0,0
+235,tt0076759,Star Wars: Episode IV - A New Hope,1977,5/25/77,121,11000000,8.6,90,1214796,775398007,"Action, Adventure, Fantasy",en,PG,0,0
+236,tt0075686,Annie Hall,1977,4/19/77,93,4000000,8,92,249843,38251425,"Comedy, Romance",en,PG,1,0
+237,tt0074235,Bound for Glory,1976,12/5/76,147,0,7.3,70,4633,0,"Biography, Drama, Music",en,PG,0,0
+238,tt0075148,Rocky,1976,11/21/76,120,1000000,8.1,70,511410,117235147,"Drama, Sport",en,PG,1,0
+239,tt0074958,Network,1976,11/1/76,121,3800000,8.1,83,143299,23689877,Drama,en,R,0,0
+240,tt0074119,All the President's Men,1976,4/4/76,138,8500000,8,84,101138,70600000,"Biography, Drama, History",en,PG,0,0
+241,tt0075314,Taxi Driver,1976,2/9/76,114,1300000,8.3,94,712612,28262574,"Crime, Drama",en,R,0,0
+242,tt0072684,Barry Lyndon,1975,11/26/75,185,11000000,8.1,89,147240,20000000,"Adventure, Drama, History",en,PG,0,0
+243,tt0073486,One Flew Over the Cuckoo's Nest,1975,11/18/75,133,3000000,8.7,83,905332,108981275,Drama,en,R,1,0
+244,tt0072890,Dog Day Afternoon,1975,9/21/75,125,1800000,8,86,232947,46665856,"Biography, Crime, Drama",en,R,0,0
+245,tt0073195,Jaws,1975,6/18/75,124,7000000,8,87,539354,470653000,"Adventure, Thriller",en,PG,0,0
+246,tt0073440,Nashville,1975,6/11/75,160,2200000,7.7,96,23435,10,"Comedy, Drama, Music",en,R,0,0
+247,tt0072308,The Towering Inferno,1974,12/14/74,165,14000000,7,69,38855,116000000,"Action, Drama, Thriller",en,PG,0,0
+248,tt0071562,The Godfather: Part II,1974,12/20/74,202,13000000,9,90,1111907,102600000,"Crime, Drama",en,R,0,0
+249,tt0071746,Lenny,1974,11/10/74,111,0,7.6,61,14499,0,"Biography, Drama",en,R,0,0
+250,tt0071315,Chinatown,1974,6/20/74,130,6000000,8.1,92,290193,30000000,"Drama, Mystery, Thriller",en,R,0,0
+251,tt0071360,The Conversation,1974,4/7/74,113,1600000,7.8,85,96785,4420000,"Drama, Mystery, Thriller",en,PG,0,0
+252,tt0070047,The Exorcist,1973,5/31/73,122,8000000,8,81,359211,441306145,Horror,en,R,0,0
+253,tt0070735,The Sting,1973,12/25/73,129,5500000,8.3,83,238623,159616327,"Comedy, Crime, Drama",en,PG,1,0
+254,tt0069704,American Graffiti,1973,8/1/73,110,777000,7.4,97,80904,140000000,"Comedy, Drama",en,PG,0,0
+255,tt0070819,A Touch of Class,1973,1/1/73,106,0,6.5,,2748,18312000,"Comedy, Romance",en,PG,0,0
+256,tt0069467,Cries & Whispers,1972,12/21/72,91,400000,8.1,,29600,0,Drama,sv,R,0,0
+257,tt0069303,Sounder,1972,9/24/72,105,0,7.6,80,3479,0,"Drama, Family",en,G,0,0
+258,tt0068473,Deliverance,1972,7/30/72,109,2000000,7.7,80,97762,46122355,"Adventure, Drama, Thriller",en,R,0,0
+259,tt0068646,The Godfather,1972,3/14/72,175,6000000,9.2,100,1591495,245066411,"Crime, Drama",en,R,1,0
+260,tt0068327,Cabaret,1972,2/13/72,124,6000000,7.8,80,47723,0,"Drama, Music, Musical",en,PG,0,0
+261,tt0066921,A Clockwork Orange,1971,12/19/71,136,2200000,8.3,77,748165,26589000,"Crime, Drama, Sci-Fi",en,R,0,0
+262,tt0067483,Nicholas and Alexandra,1971,11/29/71,183,0,7.2,,4360,0,"Biography, Drama, History",en,GP,0,0
+263,tt0067093,Fiddler on the Roof,1971,11/3/71,181,9000000,8,67,38814,83304330,"Drama, Family, Musical",en,G,0,0
+264,tt0067116,The French Connection,1971,10/9/71,104,1800000,7.7,94,108593,41158757,"Action, Crime, Drama",en,R,1,0
+265,tt0067328,The Last Picture Show,1971,10/3/71,118,1300000,8,93,41756,29133000,"Drama, Romance",en,R,0,0
+266,tt0067919,The Emigrants,1971,3/8/71,151,0,8,,5599,0,"Drama, History",sv,PG,0,0
+267,tt0066011,Love Story,1970,12/16/70,100,2200000,6.9,84,30365,136400000,"Drama, Romance",en,PG,0,0
+268,tt0065724,Five Easy Pieces,1970,9/12/70,98,0,7.5,85,32874,18099091,Drama,en,R,0,0
+269,tt0065377,Airport,1970,3/5/70,137,10000000,6.6,42,17216,100489151,"Action, Drama, Thriller",en,G,0,0
+270,tt0066206,Patton,1970,1/25/70,172,12000000,7.9,91,93044,89800000,"Biography, Drama, War",en,GP,1,0
+271,tt0066026,MASH,1970,2/18/70,116,3500000,7.4,80,66955,81600000,"Comedy, Drama, War",en,R,0,0
+272,tt0064030,Anne of the Thousand Days,1969,12/18/69,145,0,7.5,,6622,0,"Biography, Drama, History",en,PG,0,0
+273,tt0064418,"Hello, Dolly!",1969,12/12/69,146,24000000,7.1,51,13361,33208099,"Adventure, Comedy, Musical",en,G,0,0
+274,tt0064115,Butch Cassidy and the Sundance Kid,1969,9/23/69,110,6000000,8,66,200303,102308889,"Biography, Crime, Drama",en,PG,0,0
+275,tt0064665,Midnight Cowboy,1969,5/25/69,113,3600000,7.8,79,99720,44785053,Drama,en,R,1,0
+276,tt0065234,Z,1969,2/26/69,127,0,8.3,86,23527,83305,"Crime, Drama, History",fr,M/PG,0,0
+277,tt0063227,The Lion in Winter,1968,1/1/68,134,0,7.9,,28670,0,"Biography, Drama, History",en,PG,0,0
+278,tt0063385,Oliver!,1968,9/26/68,153,10000000,7.4,74,34145,37402877,"Drama, Family, Musical",en,G,1,0
+279,tt0062994,Funny Girl,1968,9/19/68,151,14000000,7.4,89,19366,52223306,"Biography, Comedy, Drama",en,G,0,0
+280,tt0063483,"Rachel, Rachel",1968,8/26/68,101,0,7.3,,3003,0,"Drama, Romance",en,Approved,0,0
+281,tt0063518,Romeo and Juliet,1968,4/2/68,138,0,7.6,,29106,38901218,"Drama, Romance",en,PG,0,0
+282,tt0061722,The Graduate,1967,12/21/67,106,3000000,8,83,251523,104945305,"Comedy, Drama, Romance",en,PG,0,0
+283,tt0061735,Guess Who's Coming to Dinner,1967,12/11/67,108,4000000,7.8,63,38965,56666667,"Comedy, Drama",en,Not Rated,0,0
+284,tt0061584,Doctor Dolittle,1967,12/5/67,152,18000000,6.2,34,8440,9000000,"Adventure, Comedy, Family",en,Approved,0,0
+285,tt0061418,Bonnie and Clyde,1967,7/18/67,111,2500000,7.8,86,101107,50700000,"Action, Biography, Crime",en,R,0,0
+286,tt0061811,In the Heat of the Night,1967,8/2/67,110,2000000,7.9,75,66850,27379978,"Crime, Drama, Mystery",en,Not Rated,1,0
+287,tt0060934,The Sand Pebbles,1966,12/20/66,182,12000000,7.6,,13371,20000000,"Adventure, Drama, Romance",en,PG-13,0,0
+288,tt0060665,A Man for All Seasons,1966,12/12/66,120,3900000,7.7,72,30862,28350000,"Biography, Drama, History",en,G,1,0
+289,tt0060921,The Russians Are Coming the Russians Are Coming,1966,5/25/66,126,0,7.1,,7925,0,"Comedy, War",en,Unrated,0,0
+290,tt0060086,Alfie,1966,3/29/66,114,0,7,,13356,0,"Comedy, Drama",en,PG,0,0
+291,tt0059113,Doctor Zhivago,1965,12/22/65,197,11000000,8,69,68926,111858363,"Drama, Romance, War",en,PG-13,0,0
+292,tt0059798,A Thousand Clowns,1965,12/13/65,118,0,7.4,,3158,0,"Comedy, Drama, Romance",en,Unrated,0,0
+293,tt0059712,Ship of Fools,1965,7/29/65,149,0,7.1,,5147,0,"Drama, Romance, War",en,Not Rated,0,0
+294,tt0059084,Darling,1965,8/3/65,128,0,7.1,,5929,0,"Drama, Romance",en,TV-MA,0,0
+295,tt0059742,The Sound of Music,1965,3/29/65,172,8200000,8,63,200429,286214286,"Biography, Drama, Family",en,G,1,0
+296,tt0057831,Zorba the Greek,1964,12/14/64,142,783000,7.7,,20425,9000000,"Comedy, Drama",el,Not Rated,0,0
+297,tt0058385,My Fair Lady,1964,10/21/64,170,17000000,7.8,95,85461,72661442,"Drama, Family, Musical",en,G,1,0
+298,tt0058331,Mary Poppins,1964,8/27/64,139,6000000,7.8,88,155780,102272727,"Comedy, Family, Fantasy",en,G,0,0
+299,tt0057877,Becket,1964,3/11/64,148,0,7.8,68,13464,0,"Biography, Drama, History",en,PG-13,0,0
+300,tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,1/29/64,95,1800000,8.4,97,445265,9440272,Comedy,en,PG,0,0
+301,tt0056825,America America,1963,12/15/63,174,0,7.8,72,4815,0,Drama,en,Approved,0,0
+302,tt0057251,Lilies of the Field,1963,6/4/63,94,0,7.6,,8948,0,Drama,en,Unrated,0,0
+303,tt0057590,Tom Jones,1963,8/24/63,129,1000000,6.5,77,11523,37600000,"Adventure, Comedy, History",en,Not Rated,1,0
+304,tt0056937,Cleopatra,1963,6/12/63,192,31115000,7,60,28982,71000000,"Biography, Drama, History",en,G,0,0
+305,tt0056592,To Kill a Mockingbird,1962,12/25/62,129,2000000,8.2,88,291113,13129846,"Crime, Drama",en,Approved,0,0
+306,tt0056172,Lawrence of Arabia,1962,12/11/62,228,15000000,8.3,100,264423,69995385,"Adventure, Biography, Drama",en,Approved,1,0
+307,tt0056264,Mutiny on the Bounty,1962,11/8/62,178,19000000,7.3,48,14820,13680000,"Adventure, Drama, History",en,Not Rated,1,0
+308,tt0056085,How the West Was Won,1962,10/1/62,164,15000000,7.1,56,18388,50000000,Western,en,G,0,0
+309,tt0056197,The Longest Day,1962,9/25/62,178,10000000,7.8,75,51747,50100000,"Action, Drama, History",en,G,0,0
+310,tt0056262,The Music Man,1962,6/19/62,151,0,7.7,,15760,8000000,"Comedy, Family, Musical",en,G,0,0
+311,tt0055031,Judgment at Nuremberg,1961,12/1/61,179,3000000,8.2,60,68375,10000000,"Drama, War",en,Approved,0,0
+312,tt0055614,West Side Story,1961,12/13/61,153,6000000,7.5,86,95764,43656822,"Crime, Drama, Musical",en,Not Rated,1,0
+313,tt0054997,The Hustler,1961,9/25/61,134,2000000,8,90,74475,7600000,"Drama, Sport",en,Not Rated,0,0
+314,tt0054866,Fanny,1961,6/28/61,134,0,6.9,,1924,0,"Drama, Romance",en,Not Rated,0,0
+315,tt0054953,The Guns of Navarone,1961,4/27/61,158,6000000,7.5,,44967,28900000,"Action, Adventure, Drama",en,TV-PG,0,0
+316,tt0054353,The Sundowners,1960,12/8/60,133,0,7.1,82,3722,0,"Adventure, Drama",en,Unrated,0,0
+317,tt0053580,The Alamo,1960,10/23/60,162,12000000,6.9,,14225,7900000,"Adventure, Drama, History",en,Passed,0,0
+318,tt0053793,Elmer Gantry,1960,7/7/60,146,3000000,7.8,,10219,10400000,Drama,en,Approved,0,0
+319,tt0053604,The Apartment,1960,6/21/60,125,3000000,8.3,94,161389,25000000,"Comedy, Drama, Romance",en,Approved,1,0
+320,tt0054326,Sons and Lovers,1960,8/29/60,103,0,7.1,,1384,0,Drama,en,Approved,0,0
+321,tt0052618,Ben-Hur,1959,12/26/59,212,15000000,8.1,90,216778,164000000,"Adventure, Drama, History",en,G,1,0
+322,tt0052561,Anatomy of a Murder,1959,7/1/59,161,0,8,95,59084,0,"Crime, Drama, Mystery",en,Not Rated,0,0
+323,tt0053131,The Nun's Story,1959,6/18/59,149,3500000,7.6,78,9229,12800000,Drama,en,Not Rated,0,0
+324,tt0052738,The Diary of Anne Frank,1959,3/18/59,180,3000000,7.4,59,11838,0,"Biography, Drama, Family",en,Approved,0,0
+325,tt0053226,Room at the Top,1959,1/22/59,115,0,7.5,84,5312,0,"Drama, Romance",en,Not Rated,0,0
+326,tt0052182,Separate Tables,1958,12/18/58,100,0,7.4,,6686,0,"Drama, Romance",en,Approved,0,0
+327,tt0051383,Auntie Mame,1958,12/4/58,143,0,7.9,,10209,0,"Comedy, Drama, Romance",en,Approved,0,0
+328,tt0051459,Cat on a Hot Tin Roof,1958,9/20/58,108,3000000,8,84,44423,17570324,Drama,en,Not Rated,0,0
+329,tt0051525,The Defiant Ones,1958,8/14/58,96,0,7.6,69,13396,0,"Crime, Drama",en,Approved,0,0
+330,tt0051658,Gigi,1958,4/15/58,115,3319355,6.7,82,19401,0,"Comedy, Musical, Romance",en,G,1,0
+331,tt0051201,Witness for the Prosecution,1957,12/17/57,116,3000000,8.4,,106700,9000000,"Crime, Drama, Mystery",en,Approved,0,0
+332,tt0050839,Peyton Place,1957,12/13/57,157,0,7.2,,5298,0,"Drama, Romance",en,Approved,0,0
+333,tt0050933,Sayonara,1957,12/25/57,147,0,7.1,,6019,0,"Drama, Romance",en,Not Rated,0,0
+334,tt0050212,The Bridge on the River Kwai,1957,10/2/57,161,3000000,8.1,87,200948,44908000,"Adventure, Drama, War",en,PG,1,0
+335,tt0050083,12 Angry Men,1957,4/10/57,96,350000,9,96,677850,1000000,"Crime, Drama",en,Approved,0,0
+336,tt0049233,Friendly Persuasion,1956,11/25/56,137,3000000,7.3,,6281,8000000,"Drama, Romance, War",en,Passed,0,0
+337,tt0048960,Around the World in 80 Days,1956,10/17/56,175,6000000,6.8,,24303,42000000,"Adventure, Comedy, Family",en,G,1,0
+338,tt0049261,Giant,1956,11/24/56,201,5400000,7.6,84,33613,35000000,"Drama, Western",en,G,0,0
+339,tt0049833,The Ten Commandments,1956,10/5/56,220,13000000,7.9,,62865,122700000,"Adventure, Drama",en,G,0,0
+340,tt0049408,The King and I,1956,6/29/56,133,4550000,7.4,72,23573,21300000,"Biography, Drama, Musical",en,G,0,0
+341,tt0048491,Picnic,1955,11/18/55,115,0,7.1,,7828,0,"Drama, Romance",en,Approved,0,0
+342,tt0048563,The Rose Tattoo,1955,12/12/55,117,0,7,,3527,0,"Comedy, Drama, Romance",en,Unrated,0,0
+343,tt0048316,Love Is a Many-Splendored Thing,1955,8/18/55,102,0,6.5,,4408,0,"Biography, Drama, Romance",en,Approved,0,0
+344,tt0048380,Mister Roberts,1955,7/10/55,123,0,7.7,72,15151,0,"Comedy, Drama, War",en,Not Rated,0,0
+345,tt0048356,Marty,1955,4/11/55,90,343000,7.7,,21170,3000000,"Drama, Romance",en,Not Rated,1,0
+346,tt0046874,The Country Girl,1954,5/17/55,104,0,7.3,,5376,0,"Drama, Music",en,Unrated,0,0
+347,tt0047472,Seven Brides for Seven Brothers,1954,7/22/54,102,0,7.4,75,20999,5000000,"Comedy, Drama, Musical",en,Approved,0,0
+348,tt0046816,The Caine Mutiny,1954,6/23/54,124,2000000,7.7,63,24156,21750000,"Drama, War",en,Not Rated,0,0
+349,tt0047296,On the Waterfront,1954,6/22/54,108,910000,8.1,91,140201,9600000,"Crime, Drama, Thriller",en,Approved,1,0
+350,tt0047580,Three Coins in the Fountain,1954,5/1/54,102,0,6.3,,3067,0,"Drama, Romance",en,G,0,0
+351,tt0046247,The Robe,1953,9/16/53,135,4100000,6.7,,9195,36000000,"Drama, History",en,Unrated,0,0
+352,tt0046250,Roman Holiday,1953,8/26/53,118,1500000,8,78,125841,12000000,"Comedy, Romance",en,Not Rated,0,0
+353,tt0045793,From Here to Eternity,1953,8/28/53,118,1650000,7.6,85,42847,30500000,"Drama, Romance, War",en,Passed,1,0
+354,tt0045943,Julius Caesar,1953,6/4/53,120,0,7.3,,10281,0,"Biography, Drama, History",en,Not Rated,0,0
+355,tt0046303,Shane,1953,4/23/53,118,3100000,7.6,80,36627,20000000,"Drama, Western",en,Not Rated,0,0
+356,tt0044926,Moulin Rouge,1952,12/23/52,119,1500000,7.1,,4876,0,"Biography, Drama, Music",en,Not Rated,0,0
+357,tt0044760,Ivanhoe,1952,1/1/52,106,0,6.8,,7967,0,"Adventure, Drama, History",en,Approved,0,0
+358,tt0045061,The Quiet Man,1952,7/21/52,129,0,7.7,,34169,0,"Comedy, Drama, Romance",en,Passed,0,0
+359,tt0044706,High Noon,1952,6/9/52,85,730000,7.9,89,96254,8000000,"Drama, Thriller, Western",en,PG,0,0
+360,tt0044672,The Greatest Show on Earth,1952,2/16/52,152,4000000,6.6,,12767,36000000,"Drama, Family, Romance",en,Passed,1,0
+361,tt0043459,Decision Before Dawn,1951,12/21/51,119,0,7.2,,2394,0,"Drama, War",en,Not Rated,0,0
+362,tt0043949,Quo Vadis,1951,11/8/51,171,7623000,7.2,,13410,101486,"Biography, Drama, History",en,Not Rated,0,0
+363,tt0044081,A Streetcar Named Desire,1951,9/18/51,122,1800000,8,97,98038,8000000,Drama,en,PG,0,0
+364,tt0043278,An American in Paris,1951,9/26/51,114,2723903,7.2,83,30046,4500000,"Drama, Musical, Romance",en,Passed,1,0
+365,tt0043924,A Place in the Sun,1951,6/12/51,122,0,7.8,76,19887,0,"Drama, Romance",en,Passed,0,0
+366,tt0042276,Born Yesterday,1950,12/25/50,103,0,7.6,,9754,0,"Comedy, Drama, Romance",en,Not Rated,0,0
+367,tt0042646,King Solomon's Mines,1950,11/9/50,103,0,6.8,,5616,0,"Action, Adventure, Romance",en,Passed,0,0
+368,tt0042192,All About Eve,1950,10/6/50,138,1400000,8.2,98,119084,150438,Drama,en,Passed,1,0
+369,tt0043014,Sunset Blvd.,1950,8/10/50,110,1752000,8.4,,198669,5000000,"Drama, Film-Noir",en,Passed,0,0
+370,tt0042451,Father of the Bride,1950,5/18/50,92,0,7.2,76,9874,0,"Comedy, Romance",en,Not Rated,0,0
+371,tt0041996,Twelve O'Clock High,1949,12/21/49,132,0,7.7,,12097,3225000,"Drama, War",en,Not Rated,0,0
+372,tt0041163,Battleground,1949,11/9/49,118,0,7.4,,6498,0,"Action, Drama, History",en,Approved,0,0
+373,tt0041113,All the King's Men,1949,11/16/49,110,0,7.5,,13101,0,"Drama, Film-Noir",en,Approved,1,0
+374,tt0041452,The Heiress,1949,10/6/49,115,2600000,8.1,,13581,0,"Drama, Romance",en,Not Rated,0,0
+375,tt0041587,A Letter to Three Wives,1949,1/20/49,103,0,7.7,,8360,0,"Drama, Romance",en,Not Rated,0,0
+376,tt0040806,The Snake Pit,1948,11/4/48,108,0,7.6,,6772,0,"Drama, Mystery",en,Not Rated,0,0
+377,tt0040495,Johnny Belinda,1948,9/14/48,102,0,7.7,,4183,0,Drama,en,Unrated,0,0
+378,tt0040725,The Red Shoes,1948,7/22/48,135,500000,8.1,,30383,0,"Drama, Music, Romance",en,Not Rated,0,0
+379,tt0040416,Hamlet,1948,12/10/48,154,750000,7.6,82,15106,0,Drama,en,Not Rated,1,0
+380,tt0040897,The Treasure of the Sierra Madre,1948,1/15/48,126,3800000,8.2,98,112776,4307000,"Adventure, Drama, Western",en,Passed,0,0
+381,tt0039190,The Bishop's Wife,1947,12/25/47,109,0,7.6,72,13761,0,"Comedy, Drama, Fantasy",en,Not Rated,0,0
+382,tt0039416,Gentleman's Agreement,1947,11/11/47,118,2000000,7.2,,14641,7800000,"Drama, Romance",en,Not Rated,1,0
+383,tt0039286,Crossfire,1947,8/15/47,86,250000,7.3,,7149,1300000,"Crime, Drama, Film-Noir",en,Approved,0,0
+384,tt0039628,Miracle on 34th Street,1947,6/11/47,96,0,7.9,88,39334,0,"Comedy, Drama, Family",en,Not Rated,0,0
+385,tt0038650,It's a Wonderful Life,1946,12/20/46,130,3180000,8.6,89,392148,9644124,"Drama, Family, Fantasy",en,PG,0,0
+386,tt0039111,The Yearling,1946,12/18/46,128,0,7.2,89,5268,0,"Drama, Family, Western",en,Approved,0,0
+387,tt0038574,Great Expectations,1946,12/26/46,118,0,7.8,90,21744,0,"Adventure, Drama, Mystery",en,Approved,0,0
+388,tt0036868,The Best Years of Our Lives,1946,12/25/46,170,2100000,8,93,56738,23650000,"Drama, Romance, War",en,Approved,1,0
+389,tt0038873,The Razor's Edge,1946,11/19/46,145,0,7.4,,5279,0,"Drama, Romance",en,Approved,0,0
+390,tt0039080,The Verdict,1946,11/23/46,86,0,7.2,,1787,0,"Crime, Drama, Film-Noir",en,Approved,0,0
+391,tt0037536,The Bells of St. Mary's,1945,12/27/45,126,0,7.3,,6970,21300000,Drama,en,Unrated,0,0
+392,tt0038109,Spellbound,1945,11/8/45,111,1500000,7.6,,42893,7000000,"Film-Noir, Mystery, Romance",en,Approved,0,0
+393,tt0037884,The Lost Weekend,1945,11/29/45,101,1250000,7.9,,33121,11000000,"Drama, Film-Noir",en,Passed,1,0
+394,tt0037913,Mildred Pierce,1945,10/20/45,111,1453000,8,88,22388,5638000,"Crime, Drama, Film-Noir",en,Approved,0,0
+395,tt0038116,State Fair,1945,8/29/45,100,0,7,,3552,0,"Comedy, Drama, Musical",en,Passed,0,0
+396,tt0037514,Anchors Aweigh,1945,7/14/45,140,0,7.1,60,7762,0,"Comedy, Fantasy, Music",en,Passed,0,0
+397,tt0036910,Henry V,1944,11/24/44,137,0,7.1,,5703,0,"Biography, Drama, History",en,Not Rated,0,0
+398,tt0037465,Wilson,1944,8/1/44,154,2995000,6.4,,1413,2000000,"Biography, Drama, History",en,Passed,0,0
+399,tt0037280,Since You Went Away,1944,6/30/44,177,0,7.5,,4183,0,"Drama, Romance, War",en,Approved,0,0
+400,tt0036855,Gaslight,1944,5/4/44,114,2068000,7.8,,24052,0,"Crime, Drama, Mystery",en,Not Rated,0,0
+401,tt0036872,Going My Way,1944,5/15/44,126,0,7,,10344,16300000,"Comedy, Drama, Music",en,Passed,1,0
+402,tt0036775,Double Indemnity,1944,6/14/44,107,927262,8.3,95,141479,2500000,"Crime, Drama, Film-Noir",en,Passed,0,0
+403,tt0036377,The Song of Bernadette,1943,12/21/43,156,2000000,7.6,,6115,0,"Biography, Drama",en,Approved,0,0
+404,tt0036126,Madame Curie,1943,12/16/43,124,0,7.2,,2559,0,"Biography, Drama, Romance",en,Passed,0,0
+405,tt0036515,Watch on the Rhine,1943,8/27/43,114,0,7.3,,3822,0,Drama,en,Approved,0,0
+406,tt0035979,Heaven Can Wait,1943,8/5/43,112,0,7.5,,9513,0,"Comedy, Drama, Fantasy",en,Passed,0,0
+407,tt0035896,For Whom the Bell Tolls,1943,7/12/43,170,3000000,6.9,68,8273,0,"Adventure, Drama, History",en,Passed,0,0
+408,tt0036172,The More the Merrier,1943,3/26/43,104,0,7.7,,5921,0,"Comedy, Romance, War",en,Passed,0,0
+409,tt0036022,The Human Comedy,1943,3/2/43,117,0,7,,1847,0,"Comedy, Drama, Family",en,Passed,0,0
+410,tt0035238,Random Harvest,1942,12/17/42,126,0,8,62,6846,0,"Drama, Romance",en,Passed,0,0
+411,tt0036244,The Ox-Bow Incident,1942,3/11/43,75,565000,8,,20630,0,"Drama, Western",en,Not Rated,0,0
+412,tt0034583,Casablanca,1942,11/26/42,102,878000,8.5,100,515247,10462500,"Drama, Romance, War",en,PG,1,0
+413,tt0034891,In Which We Serve,1942,9/17/42,115,0,7.2,,5118,0,"Drama, War",en,Not Rated,0,0
+414,tt0035417,The Talk of the Town,1942,8/20/42,118,0,7.5,,7344,0,"Comedy, Drama, Romance",en,Approved,0,0
+415,tt0035530,Wake Island,1942,8/11/42,88,0,6.8,,1758,0,"Action, Drama, War",en,Approved,0,0
+416,tt0035211,The Pride of the Yankees,1942,7/14/42,128,0,7.7,,9770,0,"Biography, Drama, Romance",en,Approved,0,0
+417,tt0035015,The Magnificent Ambersons,1942,7/10/42,88,0,7.7,93,22253,0,"Drama, Romance",en,Not Rated,0,0
+418,tt0035189,The Pied Piper,1942,8/21/42,87,0,7.1,,467,0,"Drama, War",en,-,0,0
+419,tt0035093,Mrs. Miniver,1942,7/3/42,134,1344000,7.6,,15680,13500000,"Drama, Romance, War",en,Not Rated,1,0
+420,tt0035575,Yankee Doodle Dandy,1942,5/29/42,126,0,7.7,89,13974,0,"Biography, Drama, Music",en,Passed,0,0
+421,tt0034946,Kings Row,1942,2/2/42,127,0,7.5,,4006,0,"Drama, Mystery, Romance",en,Passed,0,0
+422,tt0034248,Suspicion,1941,11/14/41,99,1103000,7.4,83,32199,4500000,"Film-Noir, Mystery, Thriller",en,Not Rated,0,0
+423,tt0033729,How Green Was My Valley,1941,10/28/41,118,1250000,7.7,,21068,6000000,"Drama, Family",en,Not Rated,1,0
+424,tt0033627,49th Parallel,1941,11/24/41,123,0,7.3,,5840,0,"Drama, Thriller, War",en,Not Rated,0,0
+425,tt0033870,The Maltese Falcon,1941,10/18/41,100,375000,8,96,147605,1772000,"Film-Noir, Mystery",en,Not Rated,0,0
+426,tt0033980,One Foot in Heaven,1941,11/1/41,108,0,6.8,,1099,0,"Biography, Drama",en,Approved,0,0
+427,tt0033722,Hold Back the Dawn,1941,9/26/41,116,0,7.4,79,1916,0,"Drama, Romance",en,Passed,0,0
+428,tt0033836,The Little Foxes,1941,8/29/41,116,0,8,,10241,0,"Drama, Romance",en,Approved,0,0
+429,tt0033712,Here Comes Mr. Jordan,1941,8/7/41,94,0,7.6,,5777,0,"Comedy, Fantasy, Romance",en,Not Rated,0,0
+430,tt0034167,Sergeant York,1941,9/27/41,134,1400000,7.7,,15212,16361885,"Biography, Drama, History",en,Passed,0,0
+431,tt0033407,Blossoms in the Dust,1941,8/15/41,99,0,6.9,,1767,0,"Biography, Drama, Romance",en,Approved,0,0
+432,tt0033467,Citizen Kane,1941,4/17/41,119,839727,8.3,100,393929,23217674,"Drama, Mystery",en,PG,0,0
+433,tt0032671,Kitty Foyle,1940,12/27/40,108,0,7,,3154,0,"Drama, Romance",en,Approved,0,0
+434,tt0032904,The Philadelphia Story,1940,12/5/40,112,0,7.9,96,62668,0,"Comedy, Romance",en,Not Rated,0,0
+435,tt0032701,The Letter,1940,11/21/40,95,0,7.6,,11532,0,"Crime, Drama, Film-Noir",en,Not Rated,0,0
+436,tt0032553,The Great Dictator,1940,10/23/40,125,2000000,8.4,,200077,11000000,"Comedy, Drama, War",en,Passed,0,0
+437,tt0032728,The Long Voyage Home,1940,11/16/40,105,0,7,,3846,0,"Drama, War",en,Approved,0,0
+438,tt0032484,Foreign Correspondent,1940,8/16/40,120,0,7.5,88,18183,0,"Action, Romance, Thriller",en,Passed,0,0
+439,tt0032194,"All This, and Heaven Too",1940,7/13/40,141,0,7.5,,4299,0,"Drama, Romance",en,Approved,0,0
+440,tt0032881,Our Town,1940,5/24/40,90,0,6.6,,2311,0,"Drama, Romance",en,Not Rated,0,0
+441,tt0032976,Rebecca,1940,3/23/40,130,1288000,8.1,86,121973,6000000,"Drama, Mystery, Romance",en,Approved,1,0
+442,tt0032551,The Grapes of Wrath,1940,3/15/40,129,750000,8,96,85036,0,"Drama, History",en,Passed,0,0
+443,tt0031742,Of Mice and Men,1939,12/30/39,106,0,7.9,89,5405,0,Drama,en,Approved,0,0
+444,tt0031381,Gone with the Wind,1939,12/15/39,238,4000000,8.1,97,286493,402352579,"Drama, History, Romance",en,Passed,1,0
+445,tt0031725,Ninotchka,1939,11/23/39,110,1365000,7.9,,18691,2279000,"Comedy, Romance",en,Not Rated,0,0
+446,tt0032138,The Wizard of Oz,1939,8/15/39,102,2777000,8,92,368344,33754967,"Adventure, Family, Fantasy",en,PG,0,0
+447,tt0031385,"Goodbye, Mr. Chips",1939,7/28/39,114,0,7.9,,9623,0,"Drama, Romance",en,Unrated,0,0
+448,tt0031210,Dark Victory,1939,4/20/39,104,0,7.5,,9858,0,"Drama, Romance",en,Approved,0,0
+449,tt0032145,Wuthering Heights,1939,4/7/39,104,0,7.6,,16220,0,"Drama, Romance",en,Not Rated,0,0
+450,tt0031593,Love Affair,1939,4/7/39,88,0,7.3,91,4336,0,"Comedy, Drama, Romance",en,Approved,0,0
+451,tt0031971,Stagecoach,1939,3/3/39,96,531374,7.8,93,42882,1103757,"Adventure, Drama, Western",en,Passed,0,0
+452,tt0029995,The Citadel,1938,10/29/38,110,0,7.1,,1899,0,Drama,en,Passed,0,0
+453,tt0029942,Boys Town,1938,9/8/38,96,0,7.3,,5090,0,"Biography, Drama",en,Passed,0,0
+454,tt0030993,You Can't Take It with You,1938,9/1/38,126,1644736,7.9,,23057,7433101,"Comedy, Drama, Romance",en,Passed,1,0
+455,tt0030637,Pygmalion,1938,3/3/39,89,350000,7.7,,7777,0,"Comedy, Drama, Romance",en,Not Rated,0,0
+456,tt0030149,Four Daughters,1938,8/9/38,90,0,6.9,,1680,0,"Drama, Music, Romance",en,Approved,0,0
+457,tt0029852,Alexander's Ragtime Band,1938,5/24/38,106,2000000,6.9,,1868,4000000,"Drama, Music, Musical",en,Approved,0,0
+458,tt0029843,The Adventures of Robin Hood,1938,5/13/38,102,1900000,7.9,97,46721,0,"Action, Adventure, Romance",en,PG,0,0
+459,tt0030848,Test Pilot,1938,4/16/38,119,0,6.9,,2053,0,"Drama, Romance",en,Passed,0,0
+460,tt0029047,In Old Chicago,1938,4/15/38,95,10000000,6.8,,2068,0,"Action, Drama, Musical",en,Passed,0,0
+461,tt0028597,The Awful Truth,1937,10/20/37,90,0,7.7,87,17329,0,"Comedy, Romance",en,Passed,0,0
+462,tt0029604,Stage Door,1937,10/7/37,92,0,7.7,,7460,0,"Comedy, Drama",en,Approved,0,0
+463,tt0029347,One Hundred Men and a Girl,1937,9/5/37,84,762,6.7,,923,0,"Comedy, Drama, Music",en,Passed,0,0
+464,tt0028773,Dead End,1937,8/27/37,93,900000,7.3,,6368,0,"Crime, Drama, Film-Noir",en,Approved,0,0
+465,tt0029146,The Life of Emile Zola,1937,10/2/37,116,0,7.2,,7015,0,"Biography, Drama",en,Passed,1,0
+466,tt0028950,La Grande Illusion,1937,6/4/37,113,0,8.1,,33464,0,"Drama, War",fr,Not Rated,0,0
+467,tt0028691,Captains Courageous,1937,6/25/37,117,1645000,8,,8595,0,"Adventure, Drama, Family",en,G,0,0
+468,tt0029606,A Star Is Born,1937,4/27/37,111,0,7.3,77,8572,0,"Drama, Romance",en,Passed,0,0
+469,tt0029162,Lost Horizon,1937,3/3/37,132,4000000,7.7,,11875,0,"Adventure, Drama, Fantasy",en,Approved,0,0
+470,tt0028944,The Good Earth,1937,6/2/37,138,2800000,7.5,,4462,0,"Drama, Romance",en,Passed,0,0
+471,tt0028373,Three Smart Girls,1936,12/20/36,84,0,6.6,,1229,0,"Comedy, Musical, Romance",en,Approved,0,0
+472,tt0027884,Libeled Lady,1936,10/9/36,98,0,7.9,,6920,0,"Comedy, Romance",en,Passed,0,0
+473,tt0027532,Dodsworth,1936,9/23/36,101,0,7.8,,8071,0,"Drama, Romance",en,Passed,0,0
+474,tt0028203,Romeo and Juliet,1936,9/3/36,125,0,6.5,,1726,0,"Drama, Romance",en,Passed,0,0
+475,tt0027300,Anthony Adverse,1936,8/29/36,141,0,6.3,,1597,793000,"Adventure, Drama, Romance",en,Passed,0,0
+476,tt0028216,San Francisco,1936,6/26/36,115,1300000,7.2,,4816,5273000,"Drama, Musical, Romance",en,Passed,0,0
+477,tt0027996,Mr. Deeds Goes to Town,1936,4/9/36,115,0,7.9,,19477,0,"Comedy, Drama, Romance",en,Not Rated,0,0
+478,tt0027698,The Great Ziegfeld,1936,4/8/36,176,0,6.7,,7116,0,"Biography, Drama, Musical",en,Not Rated,1,0
+479,tt0028313,The Story of Louis Pasteur,1936,2/22/36,86,0,7.3,,2273,0,"Biography, Drama, History",en,Passed,0,0
+480,tt0026174,Captain Blood,1935,12/26/35,119,1200000,7.7,,12836,0,"Action, Adventure",en,Passed,0,0
+481,tt0027075,A Tale of Two Cities,1935,12/25/35,128,0,7.8,87,5037,0,"Drama, History, Romance",en,Passed,0,0
+482,tt0026752,Mutiny on the Bounty,1935,11/22/35,132,1950000,7.7,87,20542,4460000,"Adventure, Biography, Drama",en,Passed,1,0
+483,tt0026714,A Midsummer Night's Dream,1935,10/9/35,133,0,6.9,,3125,0,"Comedy, Fantasy, Romance",en,Approved,0,0
+484,tt0026144,Broadway Melody of 1936,1935,9/20/35,101,0,6.8,,1524,0,"Musical, Romance",en,Passed,0,0
+485,tt0026056,Alice Adams,1935,8/23/35,99,0,6.9,,3698,0,"Comedy, Drama, Romance",en,Passed,0,0
+486,tt0027125,Top Hat,1935,8/29/35,101,609000,7.7,92,17240,3202000,"Comedy, Musical, Romance",en,Not Rated,0,0
+487,tt0026529,The Informer,1935,5/9/35,91,243000,7.4,65,5634,950000,"Crime, Drama",en,Approved,0,0
+488,tt0026725,Les Misérables,1935,4/20/35,108,0,7.6,,3292,0,"Drama, History, Romance",en,Approved,0,0
+489,tt0026768,Naughty Marietta,1935,3/29/35,105,0,6.7,,1171,0,"Drama, Musical, Romance",en,Passed,0,0
+490,tt0026955,Ruggles of Red Gap,1935,3/8/35,90,0,7.6,,3615,0,"Comedy, Romance",en,Approved,0,0
+491,tt0026266,David Copperfield,1935,1/18/35,130,0,7.4,91,3701,0,"Adventure, Drama, Romance",en,Passed,0,0
+492,tt0026643,The Lives of a Bengal Lancer,1935,1/11/35,109,0,7.1,,2574,0,"Adventure, Drama, War",en,Passed,0,0
+493,tt0025124,Flirtation Walk,1934,12/1/34,97,0,5.7,,629,0,"Musical, Romance",en,Not Rated,0,0
+494,tt0025986,The White Parade,1934,11/16/34,80,0,6.7,,58,0,Drama,en,Approved,0,0
+495,tt0025301,Imitation of Life,1934,11/23/34,111,0,7.5,72,4070,0,"Drama, Romance",en,Approved,0,0
+496,tt0025164,The Gay Divorcee,1934,10/12/34,107,520000,7.5,80,6900,0,"Comedy, Musical, Romance",en,Approved,0,0
+497,tt0024991,Cleopatra,1934,10/5/34,100,0,6.8,,3370,0,"Biography, Drama, History",en,Passed,0,0
+498,tt0024865,The Barretts of Wimpole Street,1934,9/21/34,109,0,7,,1608,0,"Biography, Drama, Romance",en,Passed,0,0
+499,tt0025601,One Night of Love,1934,9/15/34,84,0,5.6,,516,0,"Music, Romance",en,Passed,0,0
